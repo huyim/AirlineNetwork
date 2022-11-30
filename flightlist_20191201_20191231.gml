@@ -3,7952 +3,9542 @@ graph
   node
   [
     id "PAMR"
-    label "Merrill Field-US"
+    label "PAMR"
+    data "Merrill Field-US"
   ]
   node
   [
     id "KDVT"
-    label "Phoenix Deer Valley Airport-US"
+    label "KDVT"
+    data "Phoenix Deer Valley Airport-US"
   ]
   node
   [
     id "KPHX"
-    label "Phoenix Sky Harbor International Airport-US"
+    label "KPHX"
+    data "Phoenix Sky Harbor International Airport-US"
   ]
   node
   [
     id "KSAC"
-    label "Sacramento Exec Airport-US"
+    label "KSAC"
+    data "Sacramento Exec Airport-US"
   ]
   node
   [
     id "KSMF"
-    label "Sacramento International Airport-US"
+    label "KSMF"
+    data "Sacramento International Airport-US"
   ]
   node
   [
     id "KPIE"
-    label "St Pete-Clearwater International Airport-US"
+    label "KPIE"
+    data "St Pete-Clearwater International Airport-US"
   ]
   node
   [
     id "KATL"
-    label "Hartsfield - Jackson Atlanta International Airport-US"
+    label "KATL"
+    data "Hartsfield - Jackson Atlanta International Airport-US"
   ]
   node
   [
     id "KPDK"
-    label "Dekalb-Peachtree Airport-US"
+    label "KPDK"
+    data "Dekalb-Peachtree Airport-US"
   ]
   node
   [
     id "KMKC"
-    label "Charles B Wheeler Downtown Airport-US"
+    label "KMKC"
+    data "Charles B Wheeler Downtown Airport-US"
   ]
   node
   [
     id "KVCT"
-    label "Victoria Regional Airport-US"
+    label "KVCT"
+    data "Victoria Regional Airport-US"
   ]
   node
   [
     id "KABQ"
-    label "Albuquerque International Sunport Airport-US"
+    label "KABQ"
+    data "Albuquerque International Sunport Airport-US"
   ]
   node
   [
     id "KDAL"
-    label "Dallas Love Field-US"
+    label "KDAL"
+    data "Dallas Love Field-US"
   ]
   node
   [
     id "KHOU"
-    label "William P Hobby Airport-US"
+    label "KHOU"
+    data "William P Hobby Airport-US"
   ]
   node
   [
     id "KIND"
-    label "Indianapolis International Airport-US"
+    label "KIND"
+    data "Indianapolis International Airport-US"
   ]
   node
   [
     id "KMCI"
-    label "Kansas City International Airport-US"
+    label "KMCI"
+    data "Kansas City International Airport-US"
   ]
   node
   [
     id "KORL"
-    label "Exec Airport-US"
+    label "KORL"
+    data "Exec Airport-US"
   ]
   node
   [
     id "KHSV"
-    label "Huntsville International-Carl T Jones Field-US"
+    label "KHSV"
+    data "Huntsville International-Carl T Jones Field-US"
   ]
   node
   [
     id "KRDU"
-    label "Raleigh-Durham International Airport-US"
+    label "KRDU"
+    data "Raleigh-Durham International Airport-US"
   ]
   node
   [
     id "KTYR"
-    label "Tyler Pounds Regional Airport-US"
+    label "KTYR"
+    data "Tyler Pounds Regional Airport-US"
   ]
   node
   [
     id "PAED"
-    label "Elmendorf Afb Airport-US"
+    label "PAED"
+    data "Elmendorf Afb Airport-US"
   ]
   node
   [
     id "KMDW"
-    label "Chicago Midway International Airport-US"
+    label "KMDW"
+    data "Chicago Midway International Airport-US"
   ]
   node
   [
     id "KMSN"
-    label "Dane County Regional/Truax Field-US"
+    label "KMSN"
+    data "Dane County Regional/Truax Field-US"
   ]
   node
   [
     id "BIKF"
-    label "Keflavik International Airport-IS"
+    label "BIKF"
+    data "Keflavik International Airport-IS"
   ]
   node
   [
     id "CYYC"
-    label "Calgary International Airport-CA"
+    label "CYYC"
+    data "Calgary International Airport-CA"
   ]
   node
   [
     id "CYYZ"
-    label "Lester B. Pearson International Airport-CA"
+    label "CYYZ"
+    data "Lester B. Pearson International Airport-CA"
   ]
   node
   [
     id "EDDF"
-    label "Frankfurt am Main International Airport-DE"
+    label "EDDF"
+    data "Frankfurt am Main International Airport-DE"
   ]
   node
   [
     id "EGCC"
-    label "Manchester Airport-GB"
+    label "EGCC"
+    data "Manchester Airport-GB"
   ]
   node
   [
     id "EGKK"
-    label "London Gatwick Airport-GB"
+    label "EGKK"
+    data "London Gatwick Airport-GB"
   ]
   node
   [
     id "KACK"
-    label "Nantucket Memorial Airport-US"
+    label "KACK"
+    data "Nantucket Memorial Airport-US"
   ]
   node
   [
     id "KADS"
-    label "Addison Airport-US"
+    label "KADS"
+    data "Addison Airport-US"
   ]
   node
   [
     id "KBED"
-    label "Laurence G Hanscom Field-US"
+    label "KBED"
+    data "Laurence G Hanscom Field-US"
   ]
   node
   [
     id "KBKL"
-    label "Burke Lakefront Airport-US"
+    label "KBKL"
+    data "Burke Lakefront Airport-US"
   ]
   node
   [
     id "KBOS"
-    label "General Edward Lawrence Logan International Airport-US"
+    label "KBOS"
+    data "General Edward Lawrence Logan International Airport-US"
   ]
   node
   [
     id "KBUF"
-    label "Buffalo Niagara International Airport-US"
+    label "KBUF"
+    data "Buffalo Niagara International Airport-US"
   ]
   node
   [
     id "KBWI"
-    label "Baltimore/Washington International Thurgood Marshall Airport-US"
+    label "KBWI"
+    data "Baltimore/Washington International Thurgood Marshall Airport-US"
   ]
   node
   [
     id "KCLE"
-    label "Cleveland-Hopkins International Airport-US"
+    label "KCLE"
+    data "Cleveland-Hopkins International Airport-US"
   ]
   node
   [
     id "KCMH"
-    label "John Glenn Columbus International Airport-US"
+    label "KCMH"
+    data "John Glenn Columbus International Airport-US"
   ]
   node
   [
     id "KCVG"
-    label "Cincinnati/Northern Kentucky International Airport-US"
+    label "KCVG"
+    data "Cincinnati/Northern Kentucky International Airport-US"
   ]
   node
   [
     id "KDCA"
-    label "Ronald Reagan Washington Ntl Airport-US"
+    label "KDCA"
+    data "Ronald Reagan Washington Ntl Airport-US"
   ]
   node
   [
     id "KEWR"
-    label "Newark Liberty International Airport-US"
+    label "KEWR"
+    data "Newark Liberty International Airport-US"
   ]
   node
   [
     id "KFLL"
-    label "Fort Lauderdale/Hollywood International Airport-US"
+    label "KFLL"
+    data "Fort Lauderdale/Hollywood International Airport-US"
   ]
   node
   [
     id "KGRB"
-    label "Green Bay/Austin Straubel International Airport-US"
+    label "KGRB"
+    data "Green Bay/Austin Straubel International Airport-US"
   ]
   node
   [
     id "KHKY"
-    label "Hickory Regional Airport-US"
+    label "KHKY"
+    data "Hickory Regional Airport-US"
   ]
   node
   [
     id "KHPN"
-    label "Westchester County Airport-US"
+    label "KHPN"
+    data "Westchester County Airport-US"
   ]
   node
   [
     id "KIAD"
-    label "Washington Dulles International Airport-US"
+    label "KIAD"
+    data "Washington Dulles International Airport-US"
   ]
   node
   [
     id "KISP"
-    label "Long Island Mac Arthur Airport-US"
+    label "KISP"
+    data "Long Island Mac Arthur Airport-US"
   ]
   node
   [
     id "KJFK"
-    label "John F Kennedy International Airport-US"
+    label "KJFK"
+    data "John F Kennedy International Airport-US"
   ]
   node
   [
     id "KLAX"
-    label "Los Angeles International Airport-US"
+    label "KLAX"
+    data "Los Angeles International Airport-US"
   ]
   node
   [
     id "KLGA"
-    label "Laguardia Airport-US"
+    label "KLGA"
+    data "Laguardia Airport-US"
   ]
   node
   [
     id "KLOM"
-    label "Wings Field-US"
+    label "KLOM"
+    data "Wings Field-US"
   ]
   node
   [
     id "KLUK"
-    label "Cincinnati Municipal/Lunken Field-US"
+    label "KLUK"
+    data "Cincinnati Municipal/Lunken Field-US"
   ]
   node
   [
     id "KMIA"
-    label "Miami International Airport-US"
+    label "KMIA"
+    data "Miami International Airport-US"
   ]
   node
   [
     id "KOMA"
-    label "Eppley Airfield-US"
+    label "KOMA"
+    data "Eppley Airfield-US"
   ]
   node
   [
     id "KORD"
-    label "Chicago O'Hare International Airport-US"
+    label "KORD"
+    data "Chicago O'Hare International Airport-US"
   ]
   node
   [
     id "KPHL"
-    label "Philadelphia International Airport-US"
+    label "KPHL"
+    data "Philadelphia International Airport-US"
   ]
   node
   [
     id "KPVD"
-    label "Rhode Island Tf Green International Airport-US"
+    label "KPVD"
+    data "Rhode Island Tf Green International Airport-US"
   ]
   node
   [
     id "KROC"
-    label "Frederick Douglass/Greater Rochester International Airport-US"
+    label "KROC"
+    data "Frederick Douglass/Greater Rochester International Airport-US"
   ]
   node
   [
     id "KSAT"
-    label "San Antonio International Airport-US"
+    label "KSAT"
+    data "San Antonio International Airport-US"
   ]
   node
   [
     id "KSDF"
-    label "Louisville Muhammad Ali International Airport-US"
+    label "KSDF"
+    data "Louisville Muhammad Ali International Airport-US"
   ]
   node
   [
     id "KSEA"
-    label "Seattle-Tacoma International Airport-US"
+    label "KSEA"
+    data "Seattle-Tacoma International Airport-US"
   ]
   node
   [
     id "KSTL"
-    label "St Louis Lambert International Airport-US"
+    label "KSTL"
+    data "St Louis Lambert International Airport-US"
   ]
   node
   [
     id "KTPA"
-    label "Tampa International Airport-US"
+    label "KTPA"
+    data "Tampa International Airport-US"
   ]
   node
   [
     id "KTYS"
-    label "Mc Ghee Tyson Airport-US"
+    label "KTYS"
+    data "Mc Ghee Tyson Airport-US"
   ]
   node
   [
     id "OMDB"
-    label "Dubai International Airport-AE"
+    label "OMDB"
+    data "Dubai International Airport-AE"
   ]
   node
   [
     id "SBBR"
-    label "Presidente Juscelino Kubistschek International Airport-BR"
+    label "SBBR"
+    data "Presidente Juscelino Kubistschek International Airport-BR"
   ]
   node
   [
     id "SBKP"
-    label "Viracopos International Airport-BR"
+    label "SBKP"
+    data "Viracopos International Airport-BR"
   ]
   node
   [
     id "SKBO"
-    label "El Dorado International Airport-CO"
+    label "SKBO"
+    data "El Dorado International Airport-CO"
   ]
   node
   [
     id "SPJC"
-    label "Jorge Chavez International Airport-PE"
+    label "SPJC"
+    data "Jorge Chavez International Airport-PE"
   ]
   node
   [
     id "TBPB"
-    label "Sir Grantley Adams International Airport-BB"
+    label "TBPB"
+    data "Sir Grantley Adams International Airport-BB"
   ]
   node
   [
     id "TJIG"
-    label "Fernando Luis Ribas Dominicci Airport-US"
+    label "TJIG"
+    data "Fernando Luis Ribas Dominicci Airport-US"
   ]
   node
   [
     id "TJPS"
-    label "Mercedita Airport-US"
+    label "TJPS"
+    data "Mercedita Airport-US"
   ]
   node
   [
     id "KABE"
-    label "Lehigh Valley International Airport-US"
+    label "KABE"
+    data "Lehigh Valley International Airport-US"
   ]
   node
   [
     id "KAGC"
-    label "Allegheny County Airport-US"
+    label "KAGC"
+    data "Allegheny County Airport-US"
   ]
   node
   [
     id "KAND"
-    label "Anderson Regional Airport-US"
+    label "KAND"
+    data "Anderson Regional Airport-US"
   ]
   node
   [
     id "KBLV"
-    label "Scott Afb/Midamerica St Louis Airport-US"
+    label "KBLV"
+    data "Scott Afb/Midamerica St Louis Airport-US"
   ]
   node
   [
     id "KBNA"
-    label "Nashville International Airport-US"
+    label "KBNA"
+    data "Nashville International Airport-US"
   ]
   node
   [
     id "KDAB"
-    label "Daytona Beach International Airport-US"
+    label "KDAB"
+    data "Daytona Beach International Airport-US"
   ]
   node
   [
     id "KECP"
-    label "Northwest Florida Beaches International Airport-US"
+    label "KECP"
+    data "Northwest Florida Beaches International Airport-US"
   ]
   node
   [
     id "KFTW"
-    label "Fort Worth Meacham International Airport-US"
+    label "KFTW"
+    data "Fort Worth Meacham International Airport-US"
   ]
   node
   [
     id "KGRR"
-    label "Gerald R Ford International Airport-US"
+    label "KGRR"
+    data "Gerald R Ford International Airport-US"
   ]
   node
   [
     id "KGSP"
-    label "Greenville Spartanburg International Airport-US"
+    label "KGSP"
+    data "Greenville Spartanburg International Airport-US"
   ]
   node
   [
     id "KHGR"
-    label "Hagerstown Regional/Richard A Henson Field-US"
+    label "KHGR"
+    data "Hagerstown Regional/Richard A Henson Field-US"
   ]
   node
   [
     id "KIAG"
-    label "Niagara Falls International Airport-US"
+    label "KIAG"
+    data "Niagara Falls International Airport-US"
   ]
   node
   [
     id "KMDT"
-    label "Harrisburg International Airport-US"
+    label "KMDT"
+    data "Harrisburg International Airport-US"
   ]
   node
   [
     id "KMMU"
-    label "Morristown Municipal Airport-US"
+    label "KMMU"
+    data "Morristown Municipal Airport-US"
   ]
   node
   [
     id "KROA"
-    label "Roanoke/Blacksburg Regional (Woodrum Field) Airport-US"
+    label "KROA"
+    data "Roanoke/Blacksburg Regional (Woodrum Field) Airport-US"
   ]
   node
   [
     id "KRSW"
-    label "Southwest Florida International Airport-US"
+    label "KRSW"
+    data "Southwest Florida International Airport-US"
   ]
   node
   [
     id "KSFB"
-    label "Orlando Sanford International Airport-US"
+    label "KSFB"
+    data "Orlando Sanford International Airport-US"
   ]
   node
   [
     id "KSWF"
-    label "New York Stewart International Airport-US"
+    label "KSWF"
+    data "New York Stewart International Airport-US"
   ]
   node
   [
     id "KTOL"
-    label "Eugene F Kranz Toledo Express Airport-US"
+    label "KTOL"
+    data "Eugene F Kranz Toledo Express Airport-US"
   ]
   node
   [
     id "KTUL"
-    label "Tulsa International Airport-US"
+    label "KTUL"
+    data "Tulsa International Airport-US"
   ]
   node
   [
     id "KXNA"
-    label "Northwest Arkansas Ntl Airport-US"
+    label "KXNA"
+    data "Northwest Arkansas Ntl Airport-US"
   ]
   node
   [
     id "KMCW"
-    label "Mason City Municipal Airport-US"
+    label "KMCW"
+    data "Mason City Municipal Airport-US"
   ]
   node
   [
     id "KALN"
-    label "St Louis Regional Airport-US"
+    label "KALN"
+    data "St Louis Regional Airport-US"
   ]
   node
   [
     id "CYUL"
-    label "Montreal / Pierre Elliott Trudeau International Airport-CA"
+    label "CYUL"
+    data "Montreal / Pierre Elliott Trudeau International Airport-CA"
   ]
   node
   [
     id "KLEB"
-    label "Lebanon Municipal Airport-US"
+    label "KLEB"
+    data "Lebanon Municipal Airport-US"
   ]
   node
   [
     id "KDAA"
-    label "Davison Army Air Field-US"
+    label "KDAA"
+    data "Davison Army Air Field-US"
   ]
   node
   [
     id "KMKE"
-    label "General Mitchell International Airport-US"
+    label "KMKE"
+    data "General Mitchell International Airport-US"
   ]
   node
   [
     id "PANC"
-    label "Ted Stevens Anchorage International Airport-US"
+    label "PANC"
+    data "Ted Stevens Anchorage International Airport-US"
   ]
   node
   [
     id "KZPH"
-    label "Zephyrhills Municipal Airport-US"
+    label "KZPH"
+    data "Zephyrhills Municipal Airport-US"
   ]
   node
   [
     id "EINN"
-    label "Shannon Airport-IE"
+    label "EINN"
+    data "Shannon Airport-IE"
   ]
   node
   [
     id "KDTS"
-    label "Destin Exec Airport-US"
+    label "KDTS"
+    data "Destin Exec Airport-US"
   ]
   node
   [
     id "KAOH"
-    label "Lima Allen County Airport-US"
+    label "KAOH"
+    data "Lima Allen County Airport-US"
   ]
   node
   [
     id "KAPA"
-    label "Centennial Airport-US"
+    label "KAPA"
+    data "Centennial Airport-US"
   ]
   node
   [
     id "KATW"
-    label "Appleton International Airport-US"
+    label "KATW"
+    data "Appleton International Airport-US"
   ]
   node
   [
     id "KFWA"
-    label "Fort Wayne International Airport-US"
+    label "KFWA"
+    data "Fort Wayne International Airport-US"
   ]
   node
   [
     id "KILG"
-    label "New Castle Airport-US"
+    label "KILG"
+    data "New Castle Airport-US"
   ]
   node
   [
     id "KPTK"
-    label "Oakland County International Airport-US"
+    label "KPTK"
+    data "Oakland County International Airport-US"
   ]
   node
   [
     id "KSTP"
-    label "St Paul Downtown Holman Field-US"
+    label "KSTP"
+    data "St Paul Downtown Holman Field-US"
   ]
   node
   [
     id "KAUW"
-    label "Wausau Downtown Airport-US"
+    label "KAUW"
+    data "Wausau Downtown Airport-US"
   ]
   node
   [
     id "KBMI"
-    label "Central Il Regional/Bloomington-Normal Airport-US"
+    label "KBMI"
+    data "Central Il Regional/Bloomington-Normal Airport-US"
   ]
   node
   [
     id "KLAF"
-    label "Purdue University Airport-US"
+    label "KLAF"
+    data "Purdue University Airport-US"
   ]
   node
   [
     id "KSPI"
-    label "Abraham Lincoln Capital Airport-US"
+    label "KSPI"
+    data "Abraham Lincoln Capital Airport-US"
   ]
   node
   [
     id "KLNK"
-    label "Lincoln Airport-US"
+    label "KLNK"
+    data "Lincoln Airport-US"
   ]
   node
   [
     id "KCBF"
-    label "Council Bluffs Municipal Airport-US"
+    label "KCBF"
+    data "Council Bluffs Municipal Airport-US"
   ]
   node
   [
     id "MDLR"
-    label "Casa De Campo International Airport-DO"
+    label "MDLR"
+    data "Casa De Campo International Airport-DO"
   ]
   node
   [
     id "MDPC"
-    label "Punta Cana International Airport-DO"
+    label "MDPC"
+    data "Punta Cana International Airport-DO"
   ]
   node
   [
     id "TJAB"
-    label "Antonio/Nery/Juarbe Pol Airport-US"
+    label "TJAB"
+    data "Antonio/Nery/Juarbe Pol Airport-US"
   ]
   node
   [
     id "TJMZ"
-    label "Eugenio Maria De Hostos Airport-US"
+    label "TJMZ"
+    data "Eugenio Maria De Hostos Airport-US"
   ]
   node
   [
     id "KPAE"
-    label "Snohomish County (Paine Field) Airport-US"
+    label "KPAE"
+    data "Snohomish County (Paine Field) Airport-US"
   ]
   node
   [
     id "EDDB"
-    label "Berlin Brandenburg Airport-DE"
+    label "EDDB"
+    data "Berlin Brandenburg Airport-DE"
   ]
   node
   [
     id "EGLL"
-    label "London Heathrow Airport-GB"
+    label "EGLL"
+    data "London Heathrow Airport-GB"
   ]
   node
   [
     id "KBTF"
-    label "Skypark Airport-US"
+    label "KBTF"
+    data "Skypark Airport-US"
   ]
   node
   [
     id "KBUR"
-    label "Bob Hope Airport-US"
+    label "KBUR"
+    data "Bob Hope Airport-US"
   ]
   node
   [
     id "KCLT"
-    label "Charlotte/Douglas International Airport-US"
+    label "KCLT"
+    data "Charlotte/Douglas International Airport-US"
   ]
   node
   [
     id "KDEN"
-    label "Denver International Airport-US"
+    label "KDEN"
+    data "Denver International Airport-US"
   ]
   node
   [
     id "KDFW"
-    label "Dallas-Fort Worth International Airport-US"
+    label "KDFW"
+    data "Dallas-Fort Worth International Airport-US"
   ]
   node
   [
     id "KIAH"
-    label "George Bush Intcntl/Houston Airport-US"
+    label "KIAH"
+    data "George Bush Intcntl/Houston Airport-US"
   ]
   node
   [
     id "KLAS"
-    label "Harry Reid International Airport-US"
+    label "KLAS"
+    data "Harry Reid International Airport-US"
   ]
   node
   [
     id "KLGB"
-    label "Long Beach (Daugherty Field) Airport-US"
+    label "KLGB"
+    data "Long Beach (Daugherty Field) Airport-US"
   ]
   node
   [
     id "KLNS"
-    label "Lancaster Airport-US"
+    label "KLNS"
+    data "Lancaster Airport-US"
   ]
   node
   [
     id "KOAK"
-    label "Metro Oakland International Airport-US"
+    label "KOAK"
+    data "Metro Oakland International Airport-US"
   ]
   node
   [
     id "KPDX"
-    label "Portland International Airport-US"
+    label "KPDX"
+    data "Portland International Airport-US"
   ]
   node
   [
     id "KSAF"
-    label "Santa Fe Municipal Airport-US"
+    label "KSAF"
+    data "Santa Fe Municipal Airport-US"
   ]
   node
   [
     id "KSAN"
-    label "San Diego International Airport-US"
+    label "KSAN"
+    data "San Diego International Airport-US"
   ]
   node
   [
     id "KSFO"
-    label "San Francisco International Airport-US"
+    label "KSFO"
+    data "San Francisco International Airport-US"
   ]
   node
   [
     id "KSJC"
-    label "Norman Y Mineta San Jose International Airport-US"
+    label "KSJC"
+    data "Norman Y Mineta San Jose International Airport-US"
   ]
   node
   [
     id "KBJC"
-    label "Rocky Mountain Metro Airport-US"
+    label "KBJC"
+    data "Rocky Mountain Metro Airport-US"
   ]
   node
   [
     id "KBKF"
-    label "Buckley Space Force Base Airport-US"
+    label "KBKF"
+    data "Buckley Space Force Base Airport-US"
   ]
   node
   [
     id "KSRQ"
-    label "Sarasota/Bradenton International Airport-US"
+    label "KSRQ"
+    data "Sarasota/Bradenton International Airport-US"
   ]
   node
   [
     id "KASH"
-    label "Boire Field-US"
+    label "KASH"
+    data "Boire Field-US"
   ]
   node
   [
     id "KMHT"
-    label "Manchester Boston Regional Airport-US"
+    label "KMHT"
+    data "Manchester Boston Regional Airport-US"
   ]
   node
   [
     id "KCDW"
-    label "Essex County Airport-US"
+    label "KCDW"
+    data "Essex County Airport-US"
   ]
   node
   [
     id "LFPB"
-    label "Paris-Le Bourget Airport-FR"
+    label "LFPB"
+    data "Paris-Le Bourget Airport-FR"
   ]
   node
   [
     id "CYKF"
-    label "Waterloo Airport-CA"
+    label "CYKF"
+    data "Waterloo Airport-CA"
   ]
   node
   [
     id "KDET"
-    label "Coleman A Young Municipal Airport-US"
+    label "KDET"
+    data "Coleman A Young Municipal Airport-US"
   ]
   node
   [
     id "KDTW"
-    label "Detroit Metro Wayne County Airport-US"
+    label "KDTW"
+    data "Detroit Metro Wayne County Airport-US"
   ]
   node
   [
     id "KMSP"
-    label "Minneapolis-St Paul International/Wold-Chamberlain Airport-US"
+    label "KMSP"
+    data "Minneapolis-St Paul International/Wold-Chamberlain Airport-US"
   ]
   node
   [
     id "KYIP"
-    label "Willow Run Airport-US"
+    label "KYIP"
+    data "Willow Run Airport-US"
   ]
   node
   [
     id "KPSP"
-    label "Palm Springs International Airport-US"
+    label "KPSP"
+    data "Palm Springs International Airport-US"
   ]
   node
   [
     id "KSNA"
-    label "John Wayne/Orange County Airport-US"
+    label "KSNA"
+    data "John Wayne/Orange County Airport-US"
   ]
   node
   [
     id "KAFW"
-    label "Perot Field/Fort Worth Alliance Airport-US"
+    label "KAFW"
+    data "Perot Field/Fort Worth Alliance Airport-US"
   ]
   node
   [
     id "KBOI"
-    label "Boise Air Trml/Gowen Field-US"
+    label "KBOI"
+    data "Boise Air Trml/Gowen Field-US"
   ]
   node
   [
     id "KOSH"
-    label "Wittman Regional Airport-US"
+    label "KOSH"
+    data "Wittman Regional Airport-US"
   ]
   node
   [
     id "KDPA"
-    label "Dupage Airport-US"
+    label "KDPA"
+    data "Dupage Airport-US"
   ]
   node
   [
     id "KBTL"
-    label "Battle Creek Exec At Kellogg Field-US"
+    label "KBTL"
+    data "Battle Creek Exec At Kellogg Field-US"
   ]
   node
   [
     id "KTTN"
-    label "Trenton Mercer Airport-US"
+    label "KTTN"
+    data "Trenton Mercer Airport-US"
   ]
   node
   [
     id "KBFI"
-    label "Boeing Field/King County International Airport-US"
+    label "KBFI"
+    data "Boeing Field/King County International Airport-US"
   ]
   node
   [
     id "KBLI"
-    label "Bellingham International Airport-US"
+    label "KBLI"
+    data "Bellingham International Airport-US"
   ]
   node
   [
     id "KYKM"
-    label "Yakima Air Trml/Mcallister Field-US"
+    label "KYKM"
+    data "Yakima Air Trml/Mcallister Field-US"
   ]
   node
   [
     id "KCOS"
-    label "City Of Colorado Springs Municipal Airport-US"
+    label "KCOS"
+    data "City Of Colorado Springs Municipal Airport-US"
   ]
   node
   [
     id "KFYV"
-    label "Drake Field-US"
+    label "KFYV"
+    data "Drake Field-US"
   ]
   node
   [
     id "KPUB"
-    label "Pueblo Memorial Airport-US"
+    label "KPUB"
+    data "Pueblo Memorial Airport-US"
   ]
   node
   [
     id "KSLC"
-    label "Salt Lake City International Airport-US"
+    label "KSLC"
+    data "Salt Lake City International Airport-US"
   ]
   node
   [
     id "MMUN"
-    label "Cancun International Airport-MX"
+    label "MMUN"
+    data "Cancun International Airport-MX"
   ]
   node
   [
     id "KTEX"
-    label "Telluride Regional Airport-US"
+    label "KTEX"
+    data "Telluride Regional Airport-US"
   ]
   node
   [
     id "KMCO"
-    label "Orlando International Airport-US"
+    label "KMCO"
+    data "Orlando International Airport-US"
   ]
   node
   [
     id "KCMI"
-    label "University Of Illinois/Willard Airport-US"
+    label "KCMI"
+    data "University Of Illinois/Willard Airport-US"
   ]
   node
   [
     id "KEBS"
-    label "Webster City Municipal Airport-US"
+    label "KEBS"
+    data "Webster City Municipal Airport-US"
   ]
   node
   [
     id "KFRM"
-    label "Fairmont Municipal Airport-US"
+    label "KFRM"
+    data "Fairmont Municipal Airport-US"
   ]
   node
   [
     id "KIWA"
-    label "Phoenix-Mesa Gateway Airport-US"
+    label "KIWA"
+    data "Phoenix-Mesa Gateway Airport-US"
   ]
   node
   [
     id "KRFD"
-    label "Chicago/Rockford International Airport-US"
+    label "KRFD"
+    data "Chicago/Rockford International Airport-US"
   ]
   node
   [
     id "KEVV"
-    label "Evansville Regional Airport-US"
+    label "KEVV"
+    data "Evansville Regional Airport-US"
   ]
   node
   [
     id "KFRH"
-    label "French Lick Municipal Airport-US"
+    label "KFRH"
+    data "French Lick Municipal Airport-US"
   ]
   node
   [
     id "KHIO"
-    label "Portland-Hillsboro Airport-US"
+    label "KHIO"
+    data "Portland-Hillsboro Airport-US"
   ]
   node
   [
     id "KDWH"
-    label "David Wayne Hooks Memorial Airport-US"
+    label "KDWH"
+    data "David Wayne Hooks Memorial Airport-US"
   ]
   node
   [
     id "KSHD"
-    label "Shenandoah Valley Regional Airport-US"
+    label "KSHD"
+    data "Shenandoah Valley Regional Airport-US"
   ]
   node
   [
     id "PAWS"
-    label "Wasilla Airport-US"
+    label "PAWS"
+    data "Wasilla Airport-US"
   ]
   node
   [
     id "KAUN"
-    label "Auburn Municipal Airport-US"
+    label "KAUN"
+    data "Auburn Municipal Airport-US"
   ]
   node
   [
     id "KMOD"
-    label "Modesto City-County-Harry Sham Field-US"
+    label "KMOD"
+    data "Modesto City-County-Harry Sham Field-US"
   ]
   node
   [
     id "KTMK"
-    label "Tillamook Airport-US"
+    label "KTMK"
+    data "Tillamook Airport-US"
   ]
   node
   [
     id "KDAY"
-    label "James M Cox Dayton International Airport-US"
+    label "KDAY"
+    data "James M Cox Dayton International Airport-US"
   ]
   node
   [
     id "KCLL"
-    label "Easterwood Field-US"
+    label "KCLL"
+    data "Easterwood Field-US"
   ]
   node
   [
     id "KPNS"
-    label "Pensacola International Airport-US"
+    label "KPNS"
+    data "Pensacola International Airport-US"
   ]
   node
   [
     id "CYHU"
-    label "Montreal / Saint-Hubert Airport-CA"
+    label "CYHU"
+    data "Montreal / Saint-Hubert Airport-CA"
   ]
   node
   [
     id "KDUC"
-    label "Halliburton Field-US"
+    label "KDUC"
+    data "Halliburton Field-US"
   ]
   node
   [
     id "KSTS"
-    label "Charles M Schulz - Sonoma County Airport-US"
+    label "KSTS"
+    data "Charles M Schulz - Sonoma County Airport-US"
   ]
   node
   [
     id "KAFF"
-    label "Usaf Academy Afld Airport-US"
+    label "KAFF"
+    data "Usaf Academy Afld Airport-US"
   ]
   node
   [
     id "KALB"
-    label "Albany International Airport-US"
+    label "KALB"
+    data "Albany International Airport-US"
   ]
   node
   [
     id "KPSM"
-    label "Portsmouth International At Pease Airport-US"
+    label "KPSM"
+    data "Portsmouth International At Pease Airport-US"
   ]
   node
   [
     id "KBVY"
-    label "Beverly Regional Airport-US"
+    label "KBVY"
+    data "Beverly Regional Airport-US"
   ]
   node
   [
     id "KSGF"
-    label "Springfield-Branson Ntl Airport-US"
+    label "KSGF"
+    data "Springfield-Branson Ntl Airport-US"
   ]
   node
   [
     id "KPGV"
-    label "Pitt-Greenville Airport-US"
+    label "KPGV"
+    data "Pitt-Greenville Airport-US"
   ]
   node
   [
     id "KPIT"
-    label "Pittsburgh International Airport-US"
+    label "KPIT"
+    data "Pittsburgh International Airport-US"
   ]
   node
   [
     id "PASX"
-    label "Soldotna Airport-US"
+    label "PASX"
+    data "Soldotna Airport-US"
   ]
   node
   [
     id "KFAT"
-    label "Fresno Yosemite International Airport-US"
+    label "KFAT"
+    data "Fresno Yosemite International Airport-US"
   ]
   node
   [
     id "KSBA"
-    label "Santa Barbara Municipal Airport-US"
+    label "KSBA"
+    data "Santa Barbara Municipal Airport-US"
   ]
   node
   [
     id "KSMX"
-    label "Santa Maria Pub/Capt G Allan Hancock Field-US"
+    label "KSMX"
+    data "Santa Maria Pub/Capt G Allan Hancock Field-US"
   ]
   node
   [
     id "KAPC"
-    label "Napa County Airport-US"
+    label "KAPC"
+    data "Napa County Airport-US"
   ]
   node
   [
     id "KL08"
-    label "Borrego Valley Airport-US"
+    label "KL08"
+    data "Borrego Valley Airport-US"
   ]
   node
   [
     id "KSBP"
-    label "San Luis County Regional Airport-US"
+    label "KSBP"
+    data "San Luis County Regional Airport-US"
   ]
   node
   [
     id "KMPI"
-    label "Mariposa-Yosemite Airport-US"
+    label "KMPI"
+    data "Mariposa-Yosemite Airport-US"
   ]
   node
   [
     id "MMTJ"
-    label "General Abelardo L. Rodriguez International Airport-MX"
+    label "MMTJ"
+    data "General Abelardo L. Rodriguez International Airport-MX"
   ]
   node
   [
     id "KBOW"
-    label "Bartow Exec Airport-US"
+    label "KBOW"
+    data "Bartow Exec Airport-US"
   ]
   node
   [
     id "KBGE"
-    label "Decatur County Industrial Air Park-US"
+    label "KBGE"
+    data "Decatur County Industrial Air Park-US"
   ]
   node
   [
     id "KASN"
-    label "Talladega Municipal Airport-US"
+    label "KASN"
+    data "Talladega Municipal Airport-US"
   ]
   node
   [
     id "KARR"
-    label "Aurora Municipal Airport-US"
+    label "KARR"
+    data "Aurora Municipal Airport-US"
   ]
   node
   [
     id "KHOT"
-    label "Memorial Field-US"
+    label "KHOT"
+    data "Memorial Field-US"
   ]
   node
   [
     id "KDCU"
-    label "Pryor Field Regional Airport-US"
+    label "KDCU"
+    data "Pryor Field Regional Airport-US"
   ]
   node
   [
     id "KAXV"
-    label "Neil Armstrong Airport-US"
+    label "KAXV"
+    data "Neil Armstrong Airport-US"
   ]
   node
   [
     id "KBMG"
-    label "Monroe County Airport-US"
+    label "KBMG"
+    data "Monroe County Airport-US"
   ]
   node
   [
     id "KPRC"
-    label "Prescott Regional - Ernest A Love Field-US"
+    label "KPRC"
+    data "Prescott Regional - Ernest A Love Field-US"
   ]
   node
   [
     id "KDYL"
-    label "Doylestown Airport-US"
+    label "KDYL"
+    data "Doylestown Airport-US"
   ]
   node
   [
     id "KACY"
-    label "Atlantic City International Airport-US"
+    label "KACY"
+    data "Atlantic City International Airport-US"
   ]
   node
   [
     id "KBDR"
-    label "Bridgeport/Sikorsky Airport-US"
+    label "KBDR"
+    data "Bridgeport/Sikorsky Airport-US"
   ]
   node
   [
     id "KNEL"
-    label "Lakehurst Maxfield Field-US"
+    label "KNEL"
+    data "Lakehurst Maxfield Field-US"
   ]
   node
   [
     id "KUNI"
-    label "Ohio University Airport-US"
+    label "KUNI"
+    data "Ohio University Airport-US"
   ]
   node
   [
     id "CYHM"
-    label "John C. Munro Hamilton International Airport-CA"
+    label "CYHM"
+    data "John C. Munro Hamilton International Airport-CA"
   ]
   node
   [
     id "CYTZ"
-    label "Billy Bishop Toronto City Centre Airport-CA"
+    label "CYTZ"
+    data "Billy Bishop Toronto City Centre Airport-CA"
   ]
   node
   [
     id "KOKC"
-    label "Will Rogers World Airport-US"
+    label "KOKC"
+    data "Will Rogers World Airport-US"
   ]
   node
   [
     id "KBVO"
-    label "Bartlesville Municipal Airport-US"
+    label "KBVO"
+    data "Bartlesville Municipal Airport-US"
   ]
   node
   [
     id "KRDG"
-    label "Reading Regional/Carl A Spaatz Field-US"
+    label "KRDG"
+    data "Reading Regional/Carl A Spaatz Field-US"
   ]
   node
   [
     id "KBVI"
-    label "Beaver County Airport-US"
+    label "KBVI"
+    data "Beaver County Airport-US"
   ]
   node
   [
     id "KERI"
-    label "Erie International/Tom Ridge Field-US"
+    label "KERI"
+    data "Erie International/Tom Ridge Field-US"
   ]
   node
   [
     id "KAOO"
-    label "Altoona/Blair County Airport-US"
+    label "KAOO"
+    data "Altoona/Blair County Airport-US"
   ]
   node
   [
     id "KDUJ"
-    label "Dubois Regional Airport-US"
+    label "KDUJ"
+    data "Dubois Regional Airport-US"
   ]
   node
   [
     id "KGVT"
-    label "Majors Airport-US"
+    label "KGVT"
+    data "Majors Airport-US"
   ]
   node
   [
     id "KPVU"
-    label "Provo Municipal Airport-US"
+    label "KPVU"
+    data "Provo Municipal Airport-US"
   ]
   node
   [
     id "KOAR"
-    label "Marina Municipal Airport-US"
+    label "KOAR"
+    data "Marina Municipal Airport-US"
   ]
   node
   [
     id "CYQQ"
-    label "Comox Airport-CA"
+    label "CYQQ"
+    data "Comox Airport-CA"
   ]
   node
   [
     id "KBXK"
-    label "Buckeye Municipal Airport-US"
+    label "KBXK"
+    data "Buckeye Municipal Airport-US"
   ]
   node
   [
     id "KTMB"
-    label "Miami Exec Airport-US"
+    label "KTMB"
+    data "Miami Exec Airport-US"
   ]
   node
   [
     id "KSGJ"
-    label "Northeast Florida Regional Airport-US"
+    label "KSGJ"
+    data "Northeast Florida Regional Airport-US"
   ]
   node
   [
     id "KBGM"
-    label "Greater Binghamton/Edwin A Link Field-US"
+    label "KBGM"
+    data "Greater Binghamton/Edwin A Link Field-US"
   ]
   node
   [
     id "KDUA"
-    label "Durant Regional/Eaker Field-US"
+    label "KDUA"
+    data "Durant Regional/Eaker Field-US"
   ]
   node
   [
     id "KMRY"
-    label "Monterey Regional Airport-US"
+    label "KMRY"
+    data "Monterey Regional Airport-US"
   ]
   node
   [
     id "KCCR"
-    label "Buchanan Field-US"
+    label "KCCR"
+    data "Buchanan Field-US"
   ]
   node
   [
     id "KSLK"
-    label "Adirondack Regional Airport-US"
+    label "KSLK"
+    data "Adirondack Regional Airport-US"
   ]
   node
   [
     id "KCAE"
-    label "Columbia Metro Airport-US"
+    label "KCAE"
+    data "Columbia Metro Airport-US"
   ]
   node
   [
     id "KFUL"
-    label "Fullerton Municipal Airport-US"
+    label "KFUL"
+    data "Fullerton Municipal Airport-US"
   ]
   node
   [
     id "KHYA"
-    label "Cape Cod Gateway Airport-US"
+    label "KHYA"
+    data "Cape Cod Gateway Airport-US"
   ]
   node
   [
     id "KAVQ"
-    label "Marana Regional Airport-US"
+    label "KAVQ"
+    data "Marana Regional Airport-US"
   ]
   node
   [
     id "KTUS"
-    label "Tucson International Airport-US"
+    label "KTUS"
+    data "Tucson International Airport-US"
   ]
   node
   [
     id "KLBE"
-    label "Arnold Palmer Regional Airport-US"
+    label "KLBE"
+    data "Arnold Palmer Regional Airport-US"
   ]
   node
   [
     id "KANP"
-    label "Lee Airport-US"
+    label "KANP"
+    data "Lee Airport-US"
   ]
   node
   [
     id "KO27"
-    label "Oakdale Airport-US"
+    label "KO27"
+    data "Oakdale Airport-US"
   ]
   node
   [
     id "KCKB"
-    label "North Central West Virginia Airport-US"
+    label "KCKB"
+    data "North Central West Virginia Airport-US"
   ]
   node
   [
     id "KVPS"
-    label "Eglin Afb/Destin-Ft Walton Beach Airport-US"
+    label "KVPS"
+    data "Eglin Afb/Destin-Ft Walton Beach Airport-US"
   ]
   node
   [
     id "KDEC"
-    label "Decatur Airport-US"
+    label "KDEC"
+    data "Decatur Airport-US"
   ]
   node
   [
     id "KDXR"
-    label "Danbury Municipal Airport-US"
+    label "KDXR"
+    data "Danbury Municipal Airport-US"
   ]
   node
   [
     id "KE51"
-    label "Bagdad Airport-US"
+    label "KE51"
+    data "Bagdad Airport-US"
   ]
   node
   [
     id "KFLG"
-    label "Flagstaff Pulliam Airport-US"
+    label "KFLG"
+    data "Flagstaff Pulliam Airport-US"
   ]
   node
   [
     id "KGCN"
-    label "Grand Canyon Ntl Park Airport-US"
+    label "KGCN"
+    data "Grand Canyon Ntl Park Airport-US"
   ]
   node
   [
     id "KWAY"
-    label "Greene County Airport-US"
+    label "KWAY"
+    data "Greene County Airport-US"
   ]
   node
   [
     id "KP33"
-    label "Cochise County Airport-US"
+    label "KP33"
+    data "Cochise County Airport-US"
   ]
   node
   [
     id "KBRY"
-    label "Samuels Field-US"
+    label "KBRY"
+    data "Samuels Field-US"
   ]
   node
   [
     id "CYCC"
-    label "Cornwall Regional Airport-CA"
+    label "CYCC"
+    data "Cornwall Regional Airport-CA"
   ]
   node
   [
     id "CYQG"
-    label "Windsor Airport-CA"
+    label "CYQG"
+    data "Windsor Airport-CA"
   ]
   node
   [
     id "KGNV"
-    label "Gainesville Regional Airport-US"
+    label "KGNV"
+    data "Gainesville Regional Airport-US"
   ]
   node
   [
     id "KMCN"
-    label "Middle Georgia Regional Airport-US"
+    label "KMCN"
+    data "Middle Georgia Regional Airport-US"
   ]
   node
   [
     id "KLSE"
-    label "La Crosse Regional Airport-US"
+    label "KLSE"
+    data "La Crosse Regional Airport-US"
   ]
   node
   [
     id "KSTC"
-    label "St Cloud Regional Airport-US"
+    label "KSTC"
+    data "St Cloud Regional Airport-US"
   ]
   node
   [
     id "KOAJ"
-    label "Albert J Ellis Airport-US"
+    label "KOAJ"
+    data "Albert J Ellis Airport-US"
   ]
   node
   [
     id "KFAY"
-    label "Fayetteville Regional/Grannis Field-US"
+    label "KFAY"
+    data "Fayetteville Regional/Grannis Field-US"
   ]
   node
   [
     id "KEWB"
-    label "New Bedford Regional Airport-US"
+    label "KEWB"
+    data "New Bedford Regional Airport-US"
   ]
   node
   [
     id "KAFN"
-    label "Jaffrey Airfield Silver Ranch Airport-US"
+    label "KAFN"
+    data "Jaffrey Airfield Silver Ranch Airport-US"
   ]
   node
   [
     id "KFFO"
-    label "Wright-Patterson Afb Airport-US"
+    label "KFFO"
+    data "Wright-Patterson Afb Airport-US"
   ]
   node
   [
     id "CYVR"
-    label "Vancouver International Airport-CA"
+    label "CYVR"
+    data "Vancouver International Airport-CA"
   ]
   node
   [
     id "KPHF"
-    label "Newport News/Williamsburg International Airport-US"
+    label "KPHF"
+    data "Newport News/Williamsburg International Airport-US"
   ]
   node
   [
     id "KCBE"
-    label "Greater Cumberland Regional Airport-US"
+    label "KCBE"
+    data "Greater Cumberland Regional Airport-US"
   ]
   node
   [
     id "KFHR"
-    label "Friday Harbor Airport-US"
+    label "KFHR"
+    data "Friday Harbor Airport-US"
   ]
   node
   [
     id "KORS"
-    label "Orcas Island Airport-US"
+    label "KORS"
+    data "Orcas Island Airport-US"
   ]
   node
   [
     id "KAPF"
-    label "Naples Municipal Airport-US"
+    label "KAPF"
+    data "Naples Municipal Airport-US"
   ]
   node
   [
     id "KEFK"
-    label "Northeast Kingdom International Airport-US"
+    label "KEFK"
+    data "Northeast Kingdom International Airport-US"
   ]
   node
   [
     id "KMLI"
-    label "Quad Cities International Airport-US"
+    label "KMLI"
+    data "Quad Cities International Airport-US"
   ]
   node
   [
     id "KBCT"
-    label "Boca Raton Airport-US"
+    label "KBCT"
+    data "Boca Raton Airport-US"
   ]
   node
   [
     id "KJAX"
-    label "Jacksonville International Airport-US"
+    label "KJAX"
+    data "Jacksonville International Airport-US"
   ]
   node
   [
     id "KBYY"
-    label "Bay City Regional Airport-US"
+    label "KBYY"
+    data "Bay City Regional Airport-US"
   ]
   node
   [
     id "EDDM"
-    label "Munich International Airport-DE"
+    label "EDDM"
+    data "Munich International Airport-DE"
   ]
   node
   [
     id "KGEG"
-    label "Spokane International Airport-US"
+    label "KGEG"
+    data "Spokane International Airport-US"
   ]
   node
   [
     id "KBFM"
-    label "Mobile International Airport-US"
+    label "KBFM"
+    data "Mobile International Airport-US"
   ]
   node
   [
     id "CYMX"
-    label "Montreal International (Mirabel) Airport-CA"
+    label "CYMX"
+    data "Montreal International (Mirabel) Airport-CA"
   ]
   node
   [
     id "CYSH"
-    label "Smiths Falls-Montague (Russ Beach) Airport-CA"
+    label "CYSH"
+    data "Smiths Falls-Montague (Russ Beach) Airport-CA"
   ]
   node
   [
     id "KBFD"
-    label "Bradford Regional Airport-US"
+    label "KBFD"
+    data "Bradford Regional Airport-US"
   ]
   node
   [
     id "KJST"
-    label "John Murtha Johnstown/Cambria County Airport-US"
+    label "KJST"
+    data "John Murtha Johnstown/Cambria County Airport-US"
   ]
   node
   [
     id "KBAB"
-    label "Beale Afb Airport-US"
+    label "KBAB"
+    data "Beale Afb Airport-US"
   ]
   node
   [
     id "LFPG"
-    label "Charles de Gaulle International Airport-FR"
+    label "LFPG"
+    data "Charles de Gaulle International Airport-FR"
   ]
   node
   [
     id "MROC"
-    label "Juan Santamaria International Airport-CR"
+    label "MROC"
+    data "Juan Santamaria International Airport-CR"
   ]
   node
   [
     id "RJAA"
-    label "Narita International Airport-JP"
+    label "RJAA"
+    data "Narita International Airport-JP"
   ]
   node
   [
     id "RKSI"
-    label "Incheon International Airport-KR"
+    label "RKSI"
+    data "Incheon International Airport-KR"
   ]
   node
   [
     id "SBGR"
-    label "Guarulhos - Governador Andre Franco Montoro International Airport-BR"
+    label "SBGR"
+    data "Guarulhos - Governador Andre Franco Montoro International Airport-BR"
   ]
   node
   [
     id "KALX"
-    label "Thomas C Russell Field-US"
+    label "KALX"
+    data "Thomas C Russell Field-US"
   ]
   node
   [
     id "KBID"
-    label "Block Island State Airport-US"
+    label "KBID"
+    data "Block Island State Airport-US"
   ]
   node
   [
     id "CYYJ"
-    label "Victoria International Airport-CA"
+    label "CYYJ"
+    data "Victoria International Airport-CA"
   ]
   node
   [
     id "KGPI"
-    label "Glacier Park International Airport-US"
+    label "KGPI"
+    data "Glacier Park International Airport-US"
   ]
   node
   [
     id "CYOO"
-    label "Oshawa Airport-CA"
+    label "CYOO"
+    data "Oshawa Airport-CA"
   ]
   node
   [
     id "KBLU"
-    label "Blue Canyon - Nyack Airport-US"
+    label "KBLU"
+    data "Blue Canyon - Nyack Airport-US"
   ]
   node
   [
     id "KANB"
-    label "Anniston Regional Airport-US"
+    label "KANB"
+    data "Anniston Regional Airport-US"
   ]
   node
   [
     id "KANQ"
-    label "Tri-State Steuben County Airport-US"
+    label "KANQ"
+    data "Tri-State Steuben County Airport-US"
   ]
   node
   [
     id "KBNG"
-    label "Banning Municipal Airport-US"
+    label "KBNG"
+    data "Banning Municipal Airport-US"
   ]
   node
   [
     id "KMCE"
-    label "Merced Regional/Macready Field-US"
+    label "KMCE"
+    data "Merced Regional/Macready Field-US"
   ]
   node
   [
     id "KCCB"
-    label "Cable Airport-US"
+    label "KCCB"
+    data "Cable Airport-US"
   ]
   node
   [
     id "KONT"
-    label "Ontario International Airport-US"
+    label "KONT"
+    data "Ontario International Airport-US"
   ]
   node
   [
     id "KAHN"
-    label "Athens/Ben Epps Airport-US"
+    label "KAHN"
+    data "Athens/Ben Epps Airport-US"
   ]
   node
   [
     id "KAZO"
-    label "Kalamazoo/Battle Creek International Airport-US"
+    label "KAZO"
+    data "Kalamazoo/Battle Creek International Airport-US"
   ]
   node
   [
     id "KAMN"
-    label "Gratiot Community Airport-US"
+    label "KAMN"
+    data "Gratiot Community Airport-US"
   ]
   node
   [
     id "KORF"
-    label "Norfolk International Airport-US"
+    label "KORF"
+    data "Norfolk International Airport-US"
   ]
   node
   [
     id "MMCZ"
-    label "Cozumel International Airport-MX"
+    label "MMCZ"
+    data "Cozumel International Airport-MX"
   ]
   node
   [
     id "KPOU"
-    label "Hudson Valley Regional Airport-US"
+    label "KPOU"
+    data "Hudson Valley Regional Airport-US"
   ]
   node
   [
     id "KMGW"
-    label "Morgantown Municipal (Walter L Bill Hart Field) Airport-US"
+    label "KMGW"
+    data "Morgantown Municipal (Walter L Bill Hart Field) Airport-US"
   ]
   node
   [
     id "KMVY"
-    label "Martha's Vineyard Airport-US"
+    label "KMVY"
+    data "Martha's Vineyard Airport-US"
   ]
   node
   [
     id "EGKB"
-    label "London Biggin Hill Airport-GB"
+    label "EGKB"
+    data "London Biggin Hill Airport-GB"
   ]
   node
   [
     id "CAM3"
-    label "Duncan Airport-CA"
+    label "CAM3"
+    data "Duncan Airport-CA"
   ]
   node
   [
     id "KAUS"
-    label "Austin-Bergstrom International Airport-US"
+    label "KAUS"
+    data "Austin-Bergstrom International Airport-US"
   ]
   node
   [
     id "KEEN"
-    label "Dillant/Hopkins Airport-US"
+    label "KEEN"
+    data "Dillant/Hopkins Airport-US"
   ]
   node
   [
     id "KFCS"
-    label "Butts Army Air Field (Fort Carson) Airport-US"
+    label "KFCS"
+    data "Butts Army Air Field (Fort Carson) Airport-US"
   ]
   node
   [
     id "KAMW"
-    label "Ames Municipal Airport-US"
+    label "KAMW"
+    data "Ames Municipal Airport-US"
   ]
   node
   [
     id "KS21"
-    label "Sunriver Airport-US"
+    label "KS21"
+    data "Sunriver Airport-US"
   ]
   node
   [
     id "KMHV"
-    label "Mojave Air & Space Port/Rutan Field-US"
+    label "KMHV"
+    data "Mojave Air & Space Port/Rutan Field-US"
   ]
   node
   [
     id "KADG"
-    label "Lenawee County Airport-US"
+    label "KADG"
+    data "Lenawee County Airport-US"
   ]
   node
   [
     id "38WA"
-    label "Blakely Island Airport-US"
+    label "38WA"
+    data "Blakely Island Airport-US"
   ]
   node
   [
     id "PAEN"
-    label "Kenai Municipal Airport-US"
+    label "PAEN"
+    data "Kenai Municipal Airport-US"
   ]
   node
   [
     id "KTLH"
-    label "Tallahassee International Airport-US"
+    label "KTLH"
+    data "Tallahassee International Airport-US"
   ]
   node
   [
     id "KAVO"
-    label "Avon Park Exec Airport-US"
+    label "KAVO"
+    data "Avon Park Exec Airport-US"
   ]
   node
   [
     id "KGRI"
-    label "Central Nebraska Regional Airport-US"
+    label "KGRI"
+    data "Central Nebraska Regional Airport-US"
   ]
   node
   [
     id "KMHK"
-    label "Manhattan Regional Airport-US"
+    label "KMHK"
+    data "Manhattan Regional Airport-US"
   ]
   node
   [
     id "KADW"
-    label "Joint Base Andrews Airport-US"
+    label "KADW"
+    data "Joint Base Andrews Airport-US"
   ]
   node
   [
     id "KRDM"
-    label "Roberts Field-US"
+    label "KRDM"
+    data "Roberts Field-US"
   ]
   node
   [
     id "7NC2"
-    label "Pine Island Airport-US"
+    label "7NC2"
+    data "Pine Island Airport-US"
   ]
   node
   [
     id "KBIE"
-    label "Beatrice Municipal Airport-US"
+    label "KBIE"
+    data "Beatrice Municipal Airport-US"
   ]
   node
   [
     id "KRWI"
-    label "Rocky Mount/Wilson Regional Airport-US"
+    label "KRWI"
+    data "Rocky Mount/Wilson Regional Airport-US"
   ]
   node
   [
     id "KITH"
-    label "Ithaca Tompkins International Airport-US"
+    label "KITH"
+    data "Ithaca Tompkins International Airport-US"
   ]
   node
   [
     id "KBTV"
-    label "Burlington International Airport-US"
+    label "KBTV"
+    data "Burlington International Airport-US"
   ]
   node
   [
     id "PAHO"
-    label "Homer Airport-US"
+    label "PAHO"
+    data "Homer Airport-US"
   ]
   node
   [
     id "KAID"
-    label "Anderson Municipal-Darlington Field-US"
+    label "KAID"
+    data "Anderson Municipal-Darlington Field-US"
   ]
   node
   [
     id "KHVN"
-    label "Tweed/New Haven Airport-US"
+    label "KHVN"
+    data "Tweed/New Haven Airport-US"
   ]
   node
   [
     id "KSYR"
-    label "Syracuse Hancock International Airport-US"
+    label "KSYR"
+    data "Syracuse Hancock International Airport-US"
   ]
   node
   [
     id "KMSS"
-    label "Massena International-Richards Field-US"
+    label "KMSS"
+    data "Massena International-Richards Field-US"
   ]
   node
   [
     id "KPWT"
-    label "Bremerton Ntl Airport-US"
+    label "KPWT"
+    data "Bremerton Ntl Airport-US"
   ]
   node
   [
     id "KALO"
-    label "Waterloo Regional Airport-US"
+    label "KALO"
+    data "Waterloo Regional Airport-US"
   ]
   node
   [
     id "EGKR"
-    label "Redhill Aerodrome-GB"
+    label "EGKR"
+    data "Redhill Aerodrome-GB"
   ]
   node
   [
     id "KBCB"
-    label "Virginia Tech/Montgomery Exec Airport-US"
+    label "KBCB"
+    data "Virginia Tech/Montgomery Exec Airport-US"
   ]
   node
   [
     id "PABG"
-    label "Beluga Airport-US"
+    label "PABG"
+    data "Beluga Airport-US"
   ]
   node
   [
     id "PAAQ"
-    label "Warren "Bud" Woods Palmer Municipal Airport-US"
+    label "PAAQ"
+    data "Warren "Bud" Woods Palmer Municipal Airport-US"
   ]
   node
   [
     id "KMKG"
-    label "Muskegon County Airport-US"
+    label "KMKG"
+    data "Muskegon County Airport-US"
   ]
   node
   [
     id "KAEL"
-    label "Albert Lea Municipal Airport-US"
+    label "KAEL"
+    data "Albert Lea Municipal Airport-US"
   ]
   node
   [
     id "KAUM"
-    label "Austin Municipal Airport-US"
+    label "KAUM"
+    data "Austin Municipal Airport-US"
   ]
   node
   [
     id "KDVN"
-    label "Davenport Municipal Airport-US"
+    label "KDVN"
+    data "Davenport Municipal Airport-US"
   ]
   node
   [
     id "KHRO"
-    label "Boone County Airport-US"
+    label "KHRO"
+    data "Boone County Airport-US"
   ]
   node
   [
     id "ETAR"
-    label "Ramstein Air Base-DE"
+    label "ETAR"
+    data "Ramstein Air Base-DE"
   ]
   node
   [
     id "CZBB"
-    label "Vancouver / Boundary Bay Airport-CA"
+    label "CZBB"
+    data "Vancouver / Boundary Bay Airport-CA"
   ]
   node
   [
     id "K1G4"
-    label "Grand Canyon West Airport-US"
+    label "K1G4"
+    data "Grand Canyon West Airport-US"
   ]
   node
   [
     id "KBEH"
-    label "Southwest Michigan Regional Airport-US"
+    label "KBEH"
+    data "Southwest Michigan Regional Airport-US"
   ]
   node
   [
     id "KORH"
-    label "Worcester Regional Airport-US"
+    label "KORH"
+    data "Worcester Regional Airport-US"
   ]
   node
   [
     id "RJBB"
-    label "Kansai International Airport-JP"
+    label "RJBB"
+    data "Kansai International Airport-JP"
   ]
   node
   [
     id "CYXE"
-    label "Saskatoon John G. Diefenbaker International Airport-CA"
+    label "CYXE"
+    data "Saskatoon John G. Diefenbaker International Airport-CA"
   ]
   node
   [
     id "KFAR"
-    label "Hector International Airport-US"
+    label "KFAR"
+    data "Hector International Airport-US"
   ]
   node
   [
     id "KGFK"
-    label "Grand Forks International Airport-US"
+    label "KGFK"
+    data "Grand Forks International Airport-US"
   ]
   node
   [
     id "LIRF"
-    label "Leonardo Da Vinci (Fiumicino) International Airport-IT"
+    label "LIRF"
+    data "Leonardo Da Vinci (Fiumicino) International Airport-IT"
   ]
   node
   [
     id "KDSV"
-    label "Dansville Municipal Airport-US"
+    label "KDSV"
+    data "Dansville Municipal Airport-US"
   ]
   node
   [
     id "KCWC"
-    label "Kickapoo Downtown Airport-US"
+    label "KCWC"
+    data "Kickapoo Downtown Airport-US"
   ]
   node
   [
     id "EBBR"
-    label "Brussels Airport-BE"
+    label "EBBR"
+    data "Brussels Airport-BE"
   ]
   node
   [
     id "EDDP"
-    label "Leipzig Halle Airport-DE"
+    label "EDDP"
+    data "Leipzig Halle Airport-DE"
   ]
   node
   [
     id "EGNX"
-    label "East Midlands Airport-GB"
+    label "EGNX"
+    data "East Midlands Airport-GB"
   ]
   node
   [
     id "OBBI"
-    label "Bahrain International Airport-BH"
+    label "OBBI"
+    data "Bahrain International Airport-BH"
   ]
   node
   [
     id "VHHH"
-    label "Chek Lap Kok International Airport-HK"
+    label "VHHH"
+    data "Chek Lap Kok International Airport-HK"
   ]
   node
   [
     id "YSSY"
-    label "Sydney Kingsford Smith International Airport-AU"
+    label "YSSY"
+    data "Sydney Kingsford Smith International Airport-AU"
   ]
   node
   [
     id "ZGSZ"
-    label "Shenzhen Bao'an International Airport-CN"
+    label "ZGSZ"
+    data "Shenzhen Bao'an International Airport-CN"
   ]
   node
   [
     id "KCCY"
-    label "Northeast Iowa Regional Airport-US"
+    label "KCCY"
+    data "Northeast Iowa Regional Airport-US"
   ]
   node
   [
     id "KAAF"
-    label "Apalachicola Regional-Cleve Randolph Field-US"
+    label "KAAF"
+    data "Apalachicola Regional-Cleve Randolph Field-US"
   ]
   node
   [
     id "KRST"
-    label "Rochester International Airport-US"
+    label "KRST"
+    data "Rochester International Airport-US"
   ]
   node
   [
     id "EHAM"
-    label "Amsterdam Airport Schiphol-NL"
+    label "EHAM"
+    data "Amsterdam Airport Schiphol-NL"
   ]
   node
   [
     id "KARB"
-    label "Ann Arbor Municipal Airport-US"
+    label "KARB"
+    data "Ann Arbor Municipal Airport-US"
   ]
   node
   [
     id "KTVL"
-    label "Lake Tahoe Airport-US"
+    label "KTVL"
+    data "Lake Tahoe Airport-US"
   ]
   node
   [
     id "KDEH"
-    label "Decorah Municipal Airport-US"
+    label "KDEH"
+    data "Decorah Municipal Airport-US"
   ]
   node
   [
     id "CYWG"
-    label "Winnipeg / James Armstrong Richardson International Airport-CA"
+    label "CYWG"
+    data "Winnipeg / James Armstrong Richardson International Airport-CA"
   ]
   node
   [
     id "KSBY"
-    label "Salisbury-Ocean City Wicomico Regional Airport-US"
+    label "KSBY"
+    data "Salisbury-Ocean City Wicomico Regional Airport-US"
   ]
   node
   [
     id "EDFH"
-    label "Frankfurt-Hahn Airport-DE"
+    label "EDFH"
+    data "Frankfurt-Hahn Airport-DE"
   ]
   node
   [
     id "EGUN"
-    label "RAF Mildenhall-GB"
+    label "EGUN"
+    data "RAF Mildenhall-GB"
   ]
   node
   [
     id "KUNV"
-    label "University Park Airport-US"
+    label "KUNV"
+    data "University Park Airport-US"
   ]
   node
   [
     id "KWRI"
-    label "Mc Guire Field (Joint Base Mc Guire Dix Lakehurst) Airport-US"
+    label "KWRI"
+    data "Mc Guire Field (Joint Base Mc Guire Dix Lakehurst) Airport-US"
   ]
   node
   [
     id "KCLM"
-    label "William R Fairchild International Airport-US"
+    label "KCLM"
+    data "William R Fairchild International Airport-US"
   ]
   node
   [
     id "KTAD"
-    label "Perry Stokes Airport-US"
+    label "KTAD"
+    data "Perry Stokes Airport-US"
   ]
   node
   [
     id "KLAN"
-    label "Capital Region International Airport-US"
+    label "KLAN"
+    data "Capital Region International Airport-US"
   ]
   node
   [
     id "ELLX"
-    label "Luxembourg-Findel International Airport-LU"
+    label "ELLX"
+    data "Luxembourg-Findel International Airport-LU"
   ]
   node
   [
     id "KYNG"
-    label "Youngstown/Warren Regional Airport-US"
+    label "KYNG"
+    data "Youngstown/Warren Regional Airport-US"
   ]
   node
   [
     id "LIRA"
-    label "Ciampino Airport-IT"
+    label "LIRA"
+    data "Ciampino Airport-IT"
   ]
   node
   [
     id "KPBG"
-    label "Plattsburgh International Airport-US"
+    label "KPBG"
+    data "Plattsburgh International Airport-US"
   ]
   node
   [
     id "KCWA"
-    label "Central Wisconsin Airport-US"
+    label "KCWA"
+    data "Central Wisconsin Airport-US"
   ]
   node
   [
     id "CYKZ"
-    label "Buttonville Municipal Airport-CA"
+    label "CYKZ"
+    data "Buttonville Municipal Airport-CA"
   ]
   node
   [
     id "CYRO"
-    label "Ottawa / Rockcliffe Airport-CA"
+    label "CYRO"
+    data "Ottawa / Rockcliffe Airport-CA"
   ]
   node
   [
     id "EIDW"
-    label "Dublin Airport-IE"
+    label "EIDW"
+    data "Dublin Airport-IE"
   ]
   node
   [
     id "EKCH"
-    label "Copenhagen Kastrup Airport-DK"
+    label "EKCH"
+    data "Copenhagen Kastrup Airport-DK"
   ]
   node
   [
     id "FAGM"
-    label "Rand Airport-ZA"
+    label "FAGM"
+    data "Rand Airport-ZA"
   ]
   node
   [
     id "GMMN"
-    label "Mohammed V International Airport-MA"
+    label "GMMN"
+    data "Mohammed V International Airport-MA"
   ]
   node
   [
     id "GVAC"
-    label "Amilcar Cabral International Airport-CV"
+    label "GVAC"
+    data "Amilcar Cabral International Airport-CV"
   ]
   node
   [
     id "KOGS"
-    label "Ogdensburg International Airport-US"
+    label "KOGS"
+    data "Ogdensburg International Airport-US"
   ]
   node
   [
     id "LLBG"
-    label "Ben Gurion International Airport-IL"
+    label "LLBG"
+    data "Ben Gurion International Airport-IL"
   ]
   node
   [
     id "LOWW"
-    label "Vienna International Airport-AT"
+    label "LOWW"
+    data "Vienna International Airport-AT"
   ]
   node
   [
     id "LPPT"
-    label "Lisbon Portela Airport-PT"
+    label "LPPT"
+    data "Lisbon Portela Airport-PT"
   ]
   node
   [
     id "LRBS"
-    label "Baneasa International Airport-RO"
+    label "LRBS"
+    data "Baneasa International Airport-RO"
   ]
   node
   [
     id "LSGG"
-    label "Geneva Cointrin International Airport-CH"
+    label "LSGG"
+    data "Geneva Cointrin International Airport-CH"
   ]
   node
   [
     id "LSZH"
-    label "Zurich Airport-CH"
+    label "LSZH"
+    data "Zurich Airport-CH"
   ]
   node
   [
     id "MGGT"
-    label "La Aurora Airport-GT"
+    label "MGGT"
+    data "La Aurora Airport-GT"
   ]
   node
   [
     id "OMAA"
-    label "Abu Dhabi International Airport-AE"
+    label "OMAA"
+    data "Abu Dhabi International Airport-AE"
   ]
   node
   [
     id "OTHH"
-    label "Hamad International Airport-QA"
+    label "OTHH"
+    data "Hamad International Airport-QA"
   ]
   node
   [
     id "SBMT"
-    label "Campo de Marte Airport-BR"
+    label "SBMT"
+    data "Campo de Marte Airport-BR"
   ]
   node
   [
     id "UUEE"
-    label "Sheremetyevo International Airport-RU"
+    label "UUEE"
+    data "Sheremetyevo International Airport-RU"
   ]
   node
   [
     id "VIDP"
-    label "Indira Gandhi International Airport-IN"
+    label "VIDP"
+    data "Indira Gandhi International Airport-IN"
   ]
   node
   [
     id "KMMH"
-    label "Mammoth Yosemite Airport-US"
+    label "KMMH"
+    data "Mammoth Yosemite Airport-US"
   ]
   node
   [
     id "KBFR"
-    label "Virgil I Grissom Municipal Airport-US"
+    label "KBFR"
+    data "Virgil I Grissom Municipal Airport-US"
   ]
   node
   [
     id "KEWN"
-    label "Coastal Carolina Regional Airport-US"
+    label "KEWN"
+    data "Coastal Carolina Regional Airport-US"
   ]
   node
   [
     id "EGSS"
-    label "London Stansted Airport-GB"
+    label "EGSS"
+    data "London Stansted Airport-GB"
   ]
   node
   [
     id "KMGM"
-    label "Montgomery Regional (Dannelly Field) Airport-US"
+    label "KMGM"
+    data "Montgomery Regional (Dannelly Field) Airport-US"
   ]
   node
   [
     id "BIRK"
-    label "Reykjavik Airport-IS"
+    label "BIRK"
+    data "Reykjavik Airport-IS"
   ]
   node
   [
     id "EBLG"
-    label "Liege Airport-BE"
+    label "EBLG"
+    data "Liege Airport-BE"
   ]
   node
   [
     id "EDDG"
-    label "Munster Osnabruck Airport-DE"
+    label "EDDG"
+    data "Munster Osnabruck Airport-DE"
   ]
   node
   [
     id "EDDH"
-    label "Hamburg Airport-DE"
+    label "EDDH"
+    data "Hamburg Airport-DE"
   ]
   node
   [
     id "EDDK"
-    label "Cologne Bonn Airport-DE"
+    label "EDDK"
+    data "Cologne Bonn Airport-DE"
   ]
   node
   [
     id "EDDN"
-    label "Nuremberg Airport-DE"
+    label "EDDN"
+    data "Nuremberg Airport-DE"
   ]
   node
   [
     id "EDDT"
-    label "Berlin-Tegel International Airport-DE"
+    label "EDDT"
+    data "Berlin-Tegel International Airport-DE"
   ]
   node
   [
     id "EFHK"
-    label "Helsinki Vantaa Airport-FI"
+    label "EFHK"
+    data "Helsinki Vantaa Airport-FI"
   ]
   node
   [
     id "EGAA"
-    label "Belfast International Airport-GB"
+    label "EGAA"
+    data "Belfast International Airport-GB"
   ]
   node
   [
     id "EGAC"
-    label "George Best Belfast City Airport-GB"
+    label "EGAC"
+    data "George Best Belfast City Airport-GB"
   ]
   node
   [
     id "EGBB"
-    label "Birmingham International Airport-GB"
+    label "EGBB"
+    data "Birmingham International Airport-GB"
   ]
   node
   [
     id "EGGD"
-    label "Bristol International Airport-GB"
+    label "EGGD"
+    data "Bristol International Airport-GB"
   ]
   node
   [
     id "EGGW"
-    label "London Luton Airport-GB"
+    label "EGGW"
+    data "London Luton Airport-GB"
   ]
   node
   [
     id "EGJB"
-    label "Guernsey Airport-GG"
+    label "EGJB"
+    data "Guernsey Airport-GG"
   ]
   node
   [
     id "EGLF"
-    label "Farnborough Airport-GB"
+    label "EGLF"
+    data "Farnborough Airport-GB"
   ]
   node
   [
     id "EGPF"
-    label "Glasgow International Airport-GB"
+    label "EGPF"
+    data "Glasgow International Airport-GB"
   ]
   node
   [
     id "EGPH"
-    label "Edinburgh Airport-GB"
+    label "EGPH"
+    data "Edinburgh Airport-GB"
   ]
   node
   [
     id "EGVN"
-    label "RAF Brize Norton-GB"
+    label "EGVN"
+    data "RAF Brize Norton-GB"
   ]
   node
   [
     id "EKBI"
-    label "Billund Airport-DK"
+    label "EKBI"
+    data "Billund Airport-DK"
   ]
   node
   [
     id "ENGM"
-    label "Oslo Gardermoen Airport-NO"
+    label "ENGM"
+    data "Oslo Gardermoen Airport-NO"
   ]
   node
   [
     id "EPBY"
-    label "Bydgoszcz Ignacy Jan Paderewski Airport-PL"
+    label "EPBY"
+    data "Bydgoszcz Ignacy Jan Paderewski Airport-PL"
   ]
   node
   [
     id "EPGD"
-    label "Gda sk Lech Wa  sa Airport-PL"
+    label "EPGD"
+    data "Gda sk Lech Wa  sa Airport-PL"
   ]
   node
   [
     id "EPKK"
-    label "John Paul II International Airport Krak w-Balice Airport-PL"
+    label "EPKK"
+    data "John Paul II International Airport Krak w-Balice Airport-PL"
   ]
   node
   [
     id "EPKT"
-    label "Katowice International Airport-PL"
+    label "EPKT"
+    data "Katowice International Airport-PL"
   ]
   node
   [
     id "EPWA"
-    label "Warsaw Chopin Airport-PL"
+    label "EPWA"
+    data "Warsaw Chopin Airport-PL"
   ]
   node
   [
     id "EPWR"
-    label "Copernicus Wroc aw Airport-PL"
+    label "EPWR"
+    data "Copernicus Wroc aw Airport-PL"
   ]
   node
   [
     id "ESMS"
-    label "Malmo Sturup Airport-SE"
+    label "ESMS"
+    data "Malmo Sturup Airport-SE"
   ]
   node
   [
     id "ESSA"
-    label "Stockholm-Arlanda Airport-SE"
+    label "ESSA"
+    data "Stockholm-Arlanda Airport-SE"
   ]
   node
   [
     id "EVRA"
-    label "Riga International Airport-LV"
+    label "EVRA"
+    data "Riga International Airport-LV"
   ]
   node
   [
     id "EYVI"
-    label "Vilnius International Airport-LT"
+    label "EYVI"
+    data "Vilnius International Airport-LT"
   ]
   node
   [
     id "LEAL"
-    label "Alicante International Airport-ES"
+    label "LEAL"
+    data "Alicante International Airport-ES"
   ]
   node
   [
     id "LEBL"
-    label "Barcelona International Airport-ES"
+    label "LEBL"
+    data "Barcelona International Airport-ES"
   ]
   node
   [
     id "LELL"
-    label "Sabadell Airport-ES"
+    label "LELL"
+    data "Sabadell Airport-ES"
   ]
   node
   [
     id "LEMD"
-    label "Madrid Barajas International Airport-ES"
+    label "LEMD"
+    data "Madrid Barajas International Airport-ES"
   ]
   node
   [
     id "LETO"
-    label "Torrejon Airport-ES"
+    label "LETO"
+    data "Torrejon Airport-ES"
   ]
   node
   [
     id "LFBD"
-    label "Bordeaux-Merignac (BA 106) Airport-FR"
+    label "LFBD"
+    data "Bordeaux-Merignac (BA 106) Airport-FR"
   ]
   node
   [
     id "LFPO"
-    label "Paris-Orly Airport-FR"
+    label "LFPO"
+    data "Paris-Orly Airport-FR"
   ]
   node
   [
     id "LFRT"
-    label "Saint-Brieuc-Armor Airport-FR"
+    label "LFRT"
+    data "Saint-Brieuc-Armor Airport-FR"
   ]
   node
   [
     id "LHBP"
-    label "Budapest Liszt Ferenc International Airport-HU"
+    label "LHBP"
+    data "Budapest Liszt Ferenc International Airport-HU"
   ]
   node
   [
     id "LICJ"
-    label "Palermo / Punta Raisi Airport-IT"
+    label "LICJ"
+    data "Palermo / Punta Raisi Airport-IT"
   ]
   node
   [
     id "LJLJ"
-    label "Ljubljana Joze Pucnik Airport-SI"
+    label "LJLJ"
+    data "Ljubljana Joze Pucnik Airport-SI"
   ]
   node
   [
     id "LKPR"
-    label "Ruzyne International Airport-CZ"
+    label "LKPR"
+    data "Ruzyne International Airport-CZ"
   ]
   node
   [
     id "LOWS"
-    label "Salzburg Airport-AT"
+    label "LOWS"
+    data "Salzburg Airport-AT"
   ]
   node
   [
     id "LPPR"
-    label "Francisco de Sa Carneiro Airport-PT"
+    label "LPPR"
+    data "Francisco de Sa Carneiro Airport-PT"
   ]
   node
   [
     id "LZKZ"
-    label "Kosice Airport-SK"
+    label "LZKZ"
+    data "Kosice Airport-SK"
   ]
   node
   [
     id "OERK"
-    label "King Khaled International Airport-SA"
+    label "OERK"
+    data "King Khaled International Airport-SA"
   ]
   node
   [
     id "OTBD"
-    label "Doha International Airport-QA"
+    label "OTBD"
+    data "Doha International Airport-QA"
   ]
   node
   [
     id "VAPO"
-    label "Pune Airport-IN"
+    label "VAPO"
+    data "Pune Airport-IN"
   ]
   node
   [
     id "CYYB"
-    label "North Bay Airport-CA"
+    label "CYYB"
+    data "North Bay Airport-CA"
   ]
   node
   [
     id "EHGG"
-    label "Eelde Airport-NL"
+    label "EHGG"
+    data "Eelde Airport-NL"
   ]
   node
   [
     id "EKRK"
-    label "Copenhagen Roskilde Airport-DK"
+    label "EKRK"
+    data "Copenhagen Roskilde Airport-DK"
   ]
   node
   [
     id "KRDD"
-    label "Redding Municipal Airport-US"
+    label "KRDD"
+    data "Redding Municipal Airport-US"
   ]
   node
   [
     id "CYCD"
-    label "Nanaimo Airport-CA"
+    label "CYCD"
+    data "Nanaimo Airport-CA"
   ]
   node
   [
     id "CYPW"
-    label "Powell River Airport-CA"
+    label "CYPW"
+    data "Powell River Airport-CA"
   ]
   node
   [
     id "CYPQ"
-    label "Peterborough Airport-CA"
+    label "CYPQ"
+    data "Peterborough Airport-CA"
   ]
   node
   [
     id "CYXX"
-    label "Abbotsford Airport-CA"
+    label "CYXX"
+    data "Abbotsford Airport-CA"
   ]
   node
   [
     id "CYSN"
-    label "Niagara District Airport-CA"
+    label "CYSN"
+    data "Niagara District Airport-CA"
   ]
   node
   [
     id "EGWU"
-    label "RAF Northolt-GB"
+    label "EGWU"
+    data "RAF Northolt-GB"
   ]
   node
   [
     id "CYOW"
-    label "Ottawa Macdonald-Cartier International Airport-CA"
+    label "CYOW"
+    data "Ottawa Macdonald-Cartier International Airport-CA"
   ]
   node
   [
     id "CYND"
-    label "Ottawa / Gatineau Airport-CA"
+    label "CYND"
+    data "Ottawa / Gatineau Airport-CA"
   ]
   node
   [
     id "CYGB"
-    label "Texada Gillies Bay Airport-CA"
+    label "CYGB"
+    data "Texada Gillies Bay Airport-CA"
   ]
   node
   [
     id "CYBG"
-    label "CFB Bagotville-CA"
+    label "CYBG"
+    data "CFB Bagotville-CA"
   ]
   node
   [
     id "CYTR"
-    label "CFB Trenton-CA"
+    label "CYTR"
+    data "CFB Trenton-CA"
   ]
   node
   [
     id "LGAV"
-    label "Eleftherios Venizelos International Airport-GR"
+    label "LGAV"
+    data "Eleftherios Venizelos International Airport-GR"
   ]
   node
   [
     id "CYQB"
-    label "Quebec Jean Lesage International Airport-CA"
+    label "CYQB"
+    data "Quebec Jean Lesage International Airport-CA"
   ]
   node
   [
     id "CYRQ"
-    label "Trois-Rivieres Airport-CA"
+    label "CYRQ"
+    data "Trois-Rivieres Airport-CA"
   ]
   node
   [
     id "CZBM"
-    label "Bromont (Roland Desourdy) Airport-CA"
+    label "CZBM"
+    data "Bromont (Roland Desourdy) Airport-CA"
   ]
   node
   [
     id "KGON"
-    label "Groton-New London Airport-US"
+    label "KGON"
+    data "Groton-New London Airport-US"
   ]
   node
   [
     id "CYBL"
-    label "Campbell River Airport-CA"
+    label "CYBL"
+    data "Campbell River Airport-CA"
   ]
   node
   [
     id "CYKA"
-    label "Kamloops Airport-CA"
+    label "CYKA"
+    data "Kamloops Airport-CA"
   ]
   node
   [
     id "CYHE"
-    label "Hope Airport-CA"
+    label "CYHE"
+    data "Hope Airport-CA"
   ]
   node
   [
     id "CYLS"
-    label "Barrie-Orillia (Lake Simcoe Regional Airport)-CA"
+    label "CYLS"
+    data "Barrie-Orillia (Lake Simcoe Regional Airport)-CA"
   ]
   node
   [
     id "CYQS"
-    label "St Thomas Municipal Airport-CA"
+    label "CYQS"
+    data "St Thomas Municipal Airport-CA"
   ]
   node
   [
     id "CYXU"
-    label "London Airport-CA"
+    label "CYXU"
+    data "London Airport-CA"
   ]
   node
   [
     id "CYFJ"
-    label "La Macaza / Mont-Tremblant International Inc Airport-CA"
+    label "CYFJ"
+    data "La Macaza / Mont-Tremblant International Inc Airport-CA"
   ]
   node
   [
     id "CYGK"
-    label "Kingston Norman Rogers Airport-CA"
+    label "CYGK"
+    data "Kingston Norman Rogers Airport-CA"
   ]
   node
   [
     id "TXKF"
-    label "L.F. Wade International International Airport-BM"
+    label "TXKF"
+    data "L.F. Wade International International Airport-BM"
   ]
   node
   [
     id "CYML"
-    label "Charlevoix Airport-CA"
+    label "CYML"
+    data "Charlevoix Airport-CA"
   ]
   node
   [
     id "CYSC"
-    label "Sherbrooke Airport-CA"
+    label "CYSC"
+    data "Sherbrooke Airport-CA"
   ]
   node
   [
     id "CYTF"
-    label "Alma Airport-CA"
+    label "CYTF"
+    data "Alma Airport-CA"
   ]
   node
   [
     id "KBDL"
-    label "Bradley International Airport-US"
+    label "KBDL"
+    data "Bradley International Airport-US"
   ]
   node
   [
     id "CYJN"
-    label "St Jean Airport-CA"
+    label "CYJN"
+    data "St Jean Airport-CA"
   ]
   node
   [
     id "LPFR"
-    label "Faro Airport-PT"
+    label "LPFR"
+    data "Faro Airport-PT"
   ]
   node
   [
     id "CYOS"
-    label "Owen Sound / Billy Bishop Regional Airport-CA"
+    label "CYOS"
+    data "Owen Sound / Billy Bishop Regional Airport-CA"
   ]
   node
   [
     id "EHBK"
-    label "Maastricht Aachen Airport-NL"
+    label "EHBK"
+    data "Maastricht Aachen Airport-NL"
   ]
   node
   [
     id "CYPA"
-    label "Prince Albert Glass Field-CA"
+    label "CYPA"
+    data "Prince Albert Glass Field-CA"
   ]
   node
   [
     id "CYPG"
-    label "Southport Airport-CA"
+    label "CYPG"
+    data "Southport Airport-CA"
   ]
   node
   [
     id "CYZG"
-    label "Salluit Airport-CA"
+    label "CYZG"
+    data "Salluit Airport-CA"
   ]
   node
   [
     id "CYQW"
-    label "North Battleford Airport-CA"
+    label "CYQW"
+    data "North Battleford Airport-CA"
   ]
   node
   [
     id "CYQY"
-    label "Sydney / J.A. Douglas McCurdy Airport-CA"
+    label "CYQY"
+    data "Sydney / J.A. Douglas McCurdy Airport-CA"
   ]
   node
   [
     id "CYRJ"
-    label "Roberval Airport-CA"
+    label "CYRJ"
+    data "Roberval Airport-CA"
   ]
   node
   [
     id "DAAG"
-    label "Houari Boumediene Airport-DZ"
+    label "DAAG"
+    data "Houari Boumediene Airport-DZ"
   ]
   node
   [
     id "EGTK"
-    label "Oxford (Kidlington) Airport-GB"
+    label "EGTK"
+    data "Oxford (Kidlington) Airport-GB"
   ]
   node
   [
     id "LEMG"
-    label "Malaga Airport-ES"
+    label "LEMG"
+    data "Malaga Airport-ES"
   ]
   node
   [
     id "LFLL"
-    label "Lyon Saint-Exupery Airport-FR"
+    label "LFLL"
+    data "Lyon Saint-Exupery Airport-FR"
   ]
   node
   [
     id "LIML"
-    label "Linate Airport-IT"
+    label "LIML"
+    data "Linate Airport-IT"
   ]
   node
   [
     id "LIPY"
-    label "Ancona / Falconara Airport-IT"
+    label "LIPY"
+    data "Ancona / Falconara Airport-IT"
   ]
   node
   [
     id "LMML"
-    label "Luqa Airport-MT"
+    label "LMML"
+    data "Luqa Airport-MT"
   ]
   node
   [
     id "LSZB"
-    label "Bern Belp Airport-CH"
+    label "LSZB"
+    data "Bern Belp Airport-CH"
   ]
   node
   [
     id "NZAA"
-    label "Auckland International Airport-NZ"
+    label "NZAA"
+    data "Auckland International Airport-NZ"
   ]
   node
   [
     id "RCKH"
-    label "Kaohsiung International Airport-TW"
+    label "RCKH"
+    data "Kaohsiung International Airport-TW"
   ]
   node
   [
     id "RCTP"
-    label "Taiwan Taoyuan International Airport-TW"
+    label "RCTP"
+    data "Taiwan Taoyuan International Airport-TW"
   ]
   node
   [
     id "RJTT"
-    label "Tokyo International Airport-JP"
+    label "RJTT"
+    data "Tokyo International Airport-JP"
   ]
   node
   [
     id "RKSS"
-    label "Gimpo International Airport-KR"
+    label "RKSS"
+    data "Gimpo International Airport-KR"
   ]
   node
   [
     id "RPLL"
-    label "Ninoy Aquino International Airport-PH"
+    label "RPLL"
+    data "Ninoy Aquino International Airport-PH"
   ]
   node
   [
     id "RPLS"
-    label "Sangley Point Air Base-PH"
+    label "RPLS"
+    data "Sangley Point Air Base-PH"
   ]
   node
   [
     id "TLPC"
-    label "George F. L. Charles Airport-LC"
+    label "TLPC"
+    data "George F. L. Charles Airport-LC"
   ]
   node
   [
     id "YBBN"
-    label "Brisbane International Airport-AU"
+    label "YBBN"
+    data "Brisbane International Airport-AU"
   ]
   node
   [
     id "YMML"
-    label "Melbourne International Airport-AU"
+    label "YMML"
+    data "Melbourne International Airport-AU"
   ]
   node
   [
     id "ZGGG"
-    label "Guangzhou Baiyun International Airport-CN"
+    label "ZGGG"
+    data "Guangzhou Baiyun International Airport-CN"
   ]
   node
   [
     id "RCSS"
-    label "Taipei Songshan Airport-TW"
+    label "RCSS"
+    data "Taipei Songshan Airport-TW"
   ]
   node
   [
     id "CYCE"
-    label "James T. Field Memorial Aerodrome-CA"
+    label "CYCE"
+    data "James T. Field Memorial Aerodrome-CA"
   ]
   node
   [
     id "EGFF"
-    label "Cardiff International Airport-GB"
+    label "EGFF"
+    data "Cardiff International Airport-GB"
   ]
   node
   [
     id "LFBO"
-    label "Toulouse-Blagnac Airport-FR"
+    label "LFBO"
+    data "Toulouse-Blagnac Airport-FR"
   ]
   node
   [
     id "LPAZ"
-    label "Santa Maria Airport-PT"
+    label "LPAZ"
+    data "Santa Maria Airport-PT"
   ]
   node
   [
     id "LPPD"
-    label "Joao Paulo II Airport-PT"
+    label "LPPD"
+    data "Joao Paulo II Airport-PT"
   ]
   node
   [
     id "LTBA"
-    label "Ataturk International Airport-TR"
+    label "LTBA"
+    data "Ataturk International Airport-TR"
   ]
   node
   [
     id "OMAD"
-    label "Al Bateen Executive Airport-AE"
+    label "OMAD"
+    data "Al Bateen Executive Airport-AE"
   ]
   node
   [
     id "OMAM"
-    label "Abu Dhabi-Al Dhafra AB Airport-AE"
+    label "OMAM"
+    data "Abu Dhabi-Al Dhafra AB Airport-AE"
   ]
   node
   [
     id "SAEZ"
-    label "Ministro Pistarini International Airport-AR"
+    label "SAEZ"
+    data "Ministro Pistarini International Airport-AR"
   ]
   node
   [
     id "TLPL"
-    label "Hewanorra International Airport-LC"
+    label "TLPL"
+    data "Hewanorra International Airport-LC"
   ]
   node
   [
     id "TVSB"
-    label "J F Mitchell Airport-VC"
+    label "TVSB"
+    data "J F Mitchell Airport-VC"
   ]
   node
   [
     id "TVSV"
-    label "E. T. Joshua Airport-VC"
+    label "TVSV"
+    data "E. T. Joshua Airport-VC"
   ]
   node
   [
     id "UKBB"
-    label "Boryspil International Airport-UA"
+    label "UKBB"
+    data "Boryspil International Airport-UA"
   ]
   node
   [
     id "UUWW"
-    label "Vnukovo International Airport-RU"
+    label "UUWW"
+    data "Vnukovo International Airport-RU"
   ]
   node
   [
     id "VABB"
-    label "Chhatrapati Shivaji International Airport-IN"
+    label "VABB"
+    data "Chhatrapati Shivaji International Airport-IN"
   ]
   node
   [
     id "ZUCK"
-    label "Chongqing Jiangbei International Airport-CN"
+    label "ZUCK"
+    data "Chongqing Jiangbei International Airport-CN"
   ]
   node
   [
     id "DAOL"
-    label "Tafaraoui Airport-DZ"
+    label "DAOL"
+    data "Tafaraoui Airport-DZ"
   ]
   node
   [
     id "DAOO"
-    label "Es Senia Airport-DZ"
+    label "DAOO"
+    data "Es Senia Airport-DZ"
   ]
   node
   [
     id "EBCI"
-    label "Brussels South Charleroi Airport-BE"
+    label "EBCI"
+    data "Brussels South Charleroi Airport-BE"
   ]
   node
   [
     id "GABS"
-    label "Senou Airport-ML"
+    label "GABS"
+    data "Senou Airport-ML"
   ]
   node
   [
     id "GOBD"
-    label "Blaise Diagne International Airport-SN"
+    label "GOBD"
+    data "Blaise Diagne International Airport-SN"
   ]
   node
   [
     id "LEPA"
-    label "Palma De Mallorca Airport-ES"
+    label "LEPA"
+    data "Palma De Mallorca Airport-ES"
   ]
   node
   [
     id "LEVC"
-    label "Valencia Airport-ES"
+    label "LEVC"
+    data "Valencia Airport-ES"
   ]
   node
   [
     id "LFJL"
-    label "Metz-Nancy-Lorraine Airport-FR"
+    label "LFJL"
+    data "Metz-Nancy-Lorraine Airport-FR"
   ]
   node
   [
     id "LFLY"
-    label "Lyon-Bron Airport-FR"
+    label "LFLY"
+    data "Lyon-Bron Airport-FR"
   ]
   node
   [
     id "LFML"
-    label "Marseille Provence Airport-FR"
+    label "LFML"
+    data "Marseille Provence Airport-FR"
   ]
   node
   [
     id "LFQQ"
-    label "Lille-Lesquin Airport-FR"
+    label "LFQQ"
+    data "Lille-Lesquin Airport-FR"
   ]
   node
   [
     id "LFRI"
-    label "La Roche-sur-Yon Airport-FR"
+    label "LFRI"
+    data "La Roche-sur-Yon Airport-FR"
   ]
   node
   [
     id "LFRS"
-    label "Nantes Atlantique Airport-FR"
+    label "LFRS"
+    data "Nantes Atlantique Airport-FR"
   ]
   node
   [
     id "LFST"
-    label "Strasbourg Airport-FR"
+    label "LFST"
+    data "Strasbourg Airport-FR"
   ]
   node
   [
     id "LIMC"
-    label "Malpensa International Airport-IT"
+    label "LIMC"
+    data "Malpensa International Airport-IT"
   ]
   node
   [
     id "LIPX"
-    label "Verona / Villafranca Airport-IT"
+    label "LIPX"
+    data "Verona / Villafranca Airport-IT"
   ]
   node
   [
     id "LSZM"
-    label "EuroAirport Basel-Mulhouse-Freiburg Airport-CH"
+    label "LSZM"
+    data "EuroAirport Basel-Mulhouse-Freiburg Airport-CH"
   ]
   node
   [
     id "LTBU"
-    label "Tekirdag Corlu Airport-TR"
+    label "LTBU"
+    data "Tekirdag Corlu Airport-TR"
   ]
   node
   [
     id "LTFJ"
-    label "Sabiha Gokcen International Airport-TR"
+    label "LTFJ"
+    data "Sabiha Gokcen International Airport-TR"
   ]
   node
   [
     id "OLBA"
-    label "Beirut Rafic Hariri International Airport-LB"
+    label "OLBA"
+    data "Beirut Rafic Hariri International Airport-LB"
   ]
   node
   [
     id "OMSJ"
-    label "Sharjah International Airport-AE"
+    label "OMSJ"
+    data "Sharjah International Airport-AE"
   ]
   node
   [
     id "DAAS"
-    label "Ain Arnat Airport-DZ"
+    label "DAAS"
+    data "Ain Arnat Airport-DZ"
   ]
   node
   [
     id "DAOI"
-    label "Ech Cheliff Airport-DZ"
+    label "DAOI"
+    data "Ech Cheliff Airport-DZ"
   ]
   node
   [
     id "EFTP"
-    label "Tampere-Pirkkala Airport-FI"
+    label "EFTP"
+    data "Tampere-Pirkkala Airport-FI"
   ]
   node
   [
     id "LERT"
-    label "Rota Naval Station Airport-ES"
+    label "LERT"
+    data "Rota Naval Station Airport-ES"
   ]
   node
   [
     id "EBKT"
-    label "Wevelgem Airport-BE"
+    label "EBKT"
+    data "Wevelgem Airport-BE"
   ]
   node
   [
     id "EBAW"
-    label "Antwerp International Airport (Deurne)-BE"
+    label "EBAW"
+    data "Antwerp International Airport (Deurne)-BE"
   ]
   node
   [
     id "EBNM"
-    label "Suarlee Airport-BE"
+    label "EBNM"
+    data "Suarlee Airport-BE"
   ]
   node
   [
     id "EBOS"
-    label "Ostend-Bruges International Airport-BE"
+    label "EBOS"
+    data "Ostend-Bruges International Airport-BE"
   ]
   node
   [
     id "EDDS"
-    label "Stuttgart Airport-DE"
+    label "EDDS"
+    data "Stuttgart Airport-DE"
   ]
   node
   [
     id "EDDW"
-    label "Bremen Airport-DE"
+    label "EDDW"
+    data "Bremen Airport-DE"
   ]
   node
   [
     id "EDKB"
-    label "Bonn-Hangelar Airport-DE"
+    label "EDKB"
+    data "Bonn-Hangelar Airport-DE"
   ]
   node
   [
     id "EDLN"
-    label "Monchengladbach Airport-DE"
+    label "EDLN"
+    data "Monchengladbach Airport-DE"
   ]
   node
   [
     id "EDNY"
-    label "Friedrichshafen Airport-DE"
+    label "EDNY"
+    data "Friedrichshafen Airport-DE"
   ]
   node
   [
     id "EDVK"
-    label "Kassel-Calden Airport-DE"
+    label "EDVK"
+    data "Kassel-Calden Airport-DE"
   ]
   node
   [
     id "EGNH"
-    label "Blackpool International Airport-GB"
+    label "EGNH"
+    data "Blackpool International Airport-GB"
   ]
   node
   [
     id "EGNV"
-    label "Durham Tees Valley Airport-GB"
+    label "EGNV"
+    data "Durham Tees Valley Airport-GB"
   ]
   node
   [
     id "EGQL"
-    label "RAF Leuchars-GB"
+    label "EGQL"
+    data "RAF Leuchars-GB"
   ]
   node
   [
     id "EHEH"
-    label "Eindhoven Airport-NL"
+    label "EHEH"
+    data "Eindhoven Airport-NL"
   ]
   node
   [
     id "EHLE"
-    label "Lelystad Airport-NL"
+    label "EHLE"
+    data "Lelystad Airport-NL"
   ]
   node
   [
     id "EHRD"
-    label "Rotterdam Airport-NL"
+    label "EHRD"
+    data "Rotterdam Airport-NL"
   ]
   node
   [
     id "EIKN"
-    label "Ireland West Knock Airport-IE"
+    label "EIKN"
+    data "Ireland West Knock Airport-IE"
   ]
   node
   [
     id "EPLR"
-    label "Lublin Radwiec Airport-PL"
+    label "EPLR"
+    data "Lublin Radwiec Airport-PL"
   ]
   node
   [
     id "EPPO"
-    label "Pozna - awica Airport-PL"
+    label "EPPO"
+    data "Pozna - awica Airport-PL"
   ]
   node
   [
     id "GMTT"
-    label "Ibn Batouta Airport-MA"
+    label "GMTT"
+    data "Ibn Batouta Airport-MA"
   ]
   node
   [
     id "LFGA"
-    label "Colmar-Houssen Airport-FR"
+    label "LFGA"
+    data "Colmar-Houssen Airport-FR"
   ]
   node
   [
     id "LFLB"
-    label "Chambery-Savoie Airport-FR"
+    label "LFLB"
+    data "Chambery-Savoie Airport-FR"
   ]
   node
   [
     id "LFLI"
-    label "Annemasse Airport-FR"
+    label "LFLI"
+    data "Annemasse Airport-FR"
   ]
   node
   [
     id "LFLP"
-    label "Annecy-Haute-Savoie-Mont Blanc Airport-FR"
+    label "LFLP"
+    data "Annecy-Haute-Savoie-Mont Blanc Airport-FR"
   ]
   node
   [
     id "LFMI"
-    label "Istres Le Tube/Istres Air Base (BA 125) Airport-FR"
+    label "LFMI"
+    data "Istres Le Tube/Istres Air Base (BA 125) Airport-FR"
   ]
   node
   [
     id "LIMZ"
-    label "Cuneo / Levaldigi Airport-IT"
+    label "LIMZ"
+    data "Cuneo / Levaldigi Airport-IT"
   ]
   node
   [
     id "LIPE"
-    label "Bologna / Borgo Panigale Airport-IT"
+    label "LIPE"
+    data "Bologna / Borgo Panigale Airport-IT"
   ]
   node
   [
     id "LIRZ"
-    label "Perugia / San Egidio Airport-IT"
+    label "LIRZ"
+    data "Perugia / San Egidio Airport-IT"
   ]
   node
   [
     id "LOWI"
-    label "Innsbruck Airport-AT"
+    label "LOWI"
+    data "Innsbruck Airport-AT"
   ]
   node
   [
     id "LSZA"
-    label "Lugano Airport-CH"
+    label "LSZA"
+    data "Lugano Airport-CH"
   ]
   node
   [
     id "LSZC"
-    label "Buochs Airport-CH"
+    label "LSZC"
+    data "Buochs Airport-CH"
   ]
   node
   [
     id "LSZS"
-    label "Samedan Airport-CH"
+    label "LSZS"
+    data "Samedan Airport-CH"
   ]
   node
   [
     id "LYBE"
-    label "Belgrade Nikola Tesla Airport-RS"
+    label "LYBE"
+    data "Belgrade Nikola Tesla Airport-RS"
   ]
   node
   [
     id "LFBU"
-    label "Angouleme-Brie-Champniers Airport-FR"
+    label "LFBU"
+    data "Angouleme-Brie-Champniers Airport-FR"
   ]
   node
   [
     id "EHVK"
-    label "Volkel Air Base-NL"
+    label "EHVK"
+    data "Volkel Air Base-NL"
   ]
   node
   [
     id "EDDC"
-    label "Dresden Airport-DE"
+    label "EDDC"
+    data "Dresden Airport-DE"
   ]
   node
   [
     id "EDDL"
-    label "Dusseldorf International Airport-DE"
+    label "EDDL"
+    data "Dusseldorf International Airport-DE"
   ]
   node
   [
     id "EDDR"
-    label "Saarbrucken Airport-DE"
+    label "EDDR"
+    data "Saarbrucken Airport-DE"
   ]
   node
   [
     id "EDDV"
-    label "Hannover Airport-DE"
+    label "EDDV"
+    data "Hannover Airport-DE"
   ]
   node
   [
     id "EDFM"
-    label "Mannheim-City Airport-DE"
+    label "EDFM"
+    data "Mannheim-City Airport-DE"
   ]
   node
   [
     id "EDLV"
-    label "Niederrhein Airport-DE"
+    label "EDLV"
+    data "Niederrhein Airport-DE"
   ]
   node
   [
     id "EDMO"
-    label "Oberpfaffenhofen Airport-DE"
+    label "EDMO"
+    data "Oberpfaffenhofen Airport-DE"
   ]
   node
   [
     id "EETN"
-    label "Tallinn Airport-EE"
+    label "EETN"
+    data "Tallinn Airport-EE"
   ]
   node
   [
     id "EGBJ"
-    label "Gloucestershire Airport-GB"
+    label "EGBJ"
+    data "Gloucestershire Airport-GB"
   ]
   node
   [
     id "EGGP"
-    label "Liverpool John Lennon Airport-GB"
+    label "EGGP"
+    data "Liverpool John Lennon Airport-GB"
   ]
   node
   [
     id "EGHH"
-    label "Bournemouth Airport-GB"
+    label "EGHH"
+    data "Bournemouth Airport-GB"
   ]
   node
   [
     id "EGHI"
-    label "Southampton Airport-GB"
+    label "EGHI"
+    data "Southampton Airport-GB"
   ]
   node
   [
     id "EGLC"
-    label "London City Airport-GB"
+    label "EGLC"
+    data "London City Airport-GB"
   ]
   node
   [
     id "EGLK"
-    label "Blackbushe Airport-GB"
+    label "EGLK"
+    data "Blackbushe Airport-GB"
   ]
   node
   [
     id "EGPD"
-    label "Aberdeen Dyce Airport-GB"
+    label "EGPD"
+    data "Aberdeen Dyce Airport-GB"
   ]
   node
   [
     id "EPRZ"
-    label "Rzeszow-Jasionka Airport-PL"
+    label "EPRZ"
+    data "Rzeszow-Jasionka Airport-PL"
   ]
   node
   [
     id "ESGG"
-    label "Gothenburg-Landvetter Airport-SE"
+    label "ESGG"
+    data "Gothenburg-Landvetter Airport-SE"
   ]
   node
   [
     id "ESSB"
-    label "Stockholm-Bromma Airport-SE"
+    label "ESSB"
+    data "Stockholm-Bromma Airport-SE"
   ]
   node
   [
     id "ETNL"
-    label "Rostock-Laage Airport-DE"
+    label "ETNL"
+    data "Rostock-Laage Airport-DE"
   ]
   node
   [
     id "FAOR"
-    label "O. R. Tambo International Airport-ZA"
+    label "FAOR"
+    data "O. R. Tambo International Airport-ZA"
   ]
   node
   [
     id "GBYD"
-    label "Banjul International Airport-GM"
+    label "GBYD"
+    data "Banjul International Airport-GM"
   ]
   node
   [
     id "GCGM"
-    label "La Gomera Airport-ES"
+    label "GCGM"
+    data "La Gomera Airport-ES"
   ]
   node
   [
     id "GCLP"
-    label "Gran Canaria Airport-ES"
+    label "GCLP"
+    data "Gran Canaria Airport-ES"
   ]
   node
   [
     id "GCRR"
-    label "Lanzarote Airport-ES"
+    label "GCRR"
+    data "Lanzarote Airport-ES"
   ]
   node
   [
     id "GCTS"
-    label "Tenerife South Airport-ES"
+    label "GCTS"
+    data "Tenerife South Airport-ES"
   ]
   node
   [
     id "LCRA"
-    label "RAF Akrotiri-CY"
+    label "LCRA"
+    data "RAF Akrotiri-CY"
   ]
   node
   [
     id "LDZA"
-    label "Zagreb Airport-HR"
+    label "LDZA"
+    data "Zagreb Airport-HR"
   ]
   node
   [
     id "LEJR"
-    label "Jerez Airport-ES"
+    label "LEJR"
+    data "Jerez Airport-ES"
   ]
   node
   [
     id "LEVT"
-    label "Vitoria/Foronda Airport-ES"
+    label "LEVT"
+    data "Vitoria/Foronda Airport-ES"
   ]
   node
   [
     id "LEZL"
-    label "Sevilla Airport-ES"
+    label "LEZL"
+    data "Sevilla Airport-ES"
   ]
   node
   [
     id "LFAV"
-    label "Valenciennes-Denain Airport-FR"
+    label "LFAV"
+    data "Valenciennes-Denain Airport-FR"
   ]
   node
   [
     id "LFLS"
-    label "Grenoble-Isere Airport-FR"
+    label "LFLS"
+    data "Grenoble-Isere Airport-FR"
   ]
   node
   [
     id "LFMV"
-    label "Avignon-Caumont Airport-FR"
+    label "LFMV"
+    data "Avignon-Caumont Airport-FR"
   ]
   node
   [
     id "LFPV"
-    label "Villacoublay-Velizy (BA 107) Air Base-FR"
+    label "LFPV"
+    data "Villacoublay-Velizy (BA 107) Air Base-FR"
   ]
   node
   [
     id "LFRD"
-    label "Dinard-Pleurtuit-Saint-Malo Airport-FR"
+    label "LFRD"
+    data "Dinard-Pleurtuit-Saint-Malo Airport-FR"
   ]
   node
   [
     id "LGIR"
-    label "Heraklion International Nikos Kazantzakis Airport-GR"
+    label "LGIR"
+    data "Heraklion International Nikos Kazantzakis Airport-GR"
   ]
   node
   [
     id "LGSA"
-    label "Chania International Airport-GR"
+    label "LGSA"
+    data "Chania International Airport-GR"
   ]
   node
   [
     id "LICZ"
-    label "Sigonella Airport-IT"
+    label "LICZ"
+    data "Sigonella Airport-IT"
   ]
   node
   [
     id "LIME"
-    label "Bergamo / Orio Al Serio Airport-IT"
+    label "LIME"
+    data "Bergamo / Orio Al Serio Airport-IT"
   ]
   node
   [
     id "LIMJ"
-    label "Genova / Sestri Cristoforo Colombo Airport-IT"
+    label "LIMJ"
+    data "Genova / Sestri Cristoforo Colombo Airport-IT"
   ]
   node
   [
     id "LIPB"
-    label "Bolzano Airport-IT"
+    label "LIPB"
+    data "Bolzano Airport-IT"
   ]
   node
   [
     id "LIPO"
-    label "Brescia / Montichiari Airport-IT"
+    label "LIPO"
+    data "Brescia / Montichiari Airport-IT"
   ]
   node
   [
     id "LIPZ"
-    label "Venezia / Tessera -  Marco Polo Airport-IT"
+    label "LIPZ"
+    data "Venezia / Tessera -  Marco Polo Airport-IT"
   ]
   node
   [
     id "LIRP"
-    label "Pisa / San Giusto - Galileo Galilei International Airport-IT"
+    label "LIRP"
+    data "Pisa / San Giusto - Galileo Galilei International Airport-IT"
   ]
   node
   [
     id "LKMT"
-    label "Ostrava Leos Janacek Airport-CZ"
+    label "LKMT"
+    data "Ostrava Leos Janacek Airport-CZ"
   ]
   node
   [
     id "LROP"
-    label "Henri Coanda International Airport-RO"
+    label "LROP"
+    data "Henri Coanda International Airport-RO"
   ]
   node
   [
     id "LRSB"
-    label "Sibiu International Airport-RO"
+    label "LRSB"
+    data "Sibiu International Airport-RO"
   ]
   node
   [
     id "LTAC"
-    label "Esenboga International Airport-TR"
+    label "LTAC"
+    data "Esenboga International Airport-TR"
   ]
   node
   [
     id "LTBY"
-    label "Anadolu University Airport-TR"
+    label "LTBY"
+    data "Anadolu University Airport-TR"
   ]
   node
   [
     id "LYBT"
-    label "Batajnica Air Base-RS"
+    label "LYBT"
+    data "Batajnica Air Base-RS"
   ]
   node
   [
     id "LZIB"
-    label "M. R. Stefanik Airport-SK"
+    label "LZIB"
+    data "M. R. Stefanik Airport-SK"
   ]
   node
   [
     id "OMDW"
-    label "Al Maktoum International Airport-AE"
+    label "OMDW"
+    data "Al Maktoum International Airport-AE"
   ]
   node
   [
     id "SBSP"
-    label "Congonhas Airport-BR"
+    label "SBSP"
+    data "Congonhas Airport-BR"
   ]
   node
   [
     id "ULLI"
-    label "Pulkovo Airport-RU"
+    label "ULLI"
+    data "Pulkovo Airport-RU"
   ]
   node
   [
     id "UNEE"
-    label "Kemerovo Airport-RU"
+    label "UNEE"
+    data "Kemerovo Airport-RU"
   ]
   node
   [
     id "USSS"
-    label "Koltsovo Airport-RU"
+    label "USSS"
+    data "Koltsovo Airport-RU"
   ]
   node
   [
     id "VOBL"
-    label "Bengaluru International Airport-IN"
+    label "VOBL"
+    data "Bengaluru International Airport-IN"
   ]
   node
   [
     id "VTBS"
-    label "Suvarnabhumi Airport-TH"
+    label "VTBS"
+    data "Suvarnabhumi Airport-TH"
   ]
   node
   [
     id "EDFE"
-    label "Frankfurt-Egelsbach Airport-DE"
+    label "EDFE"
+    data "Frankfurt-Egelsbach Airport-DE"
   ]
   node
   [
     id "LFOF"
-    label "Alencon Valframbert Airport-FR"
+    label "LFOF"
+    data "Alencon Valframbert Airport-FR"
   ]
   node
   [
     id "LFSG"
-    label "Epinal-Mirecourt Airport-FR"
+    label "LFSG"
+    data "Epinal-Mirecourt Airport-FR"
   ]
   node
   [
     id "EDMA"
-    label "Augsburg Airport-DE"
+    label "EDMA"
+    data "Augsburg Airport-DE"
   ]
   node
   [
     id "EPMO"
-    label "Warsaw Modlin Airport-PL"
+    label "EPMO"
+    data "Warsaw Modlin Airport-PL"
   ]
   node
   [
     id "ESKN"
-    label "Stockholm Skavsta Airport-SE"
+    label "ESKN"
+    data "Stockholm Skavsta Airport-SE"
   ]
   node
   [
     id "ETSI"
-    label "Ingolstadt Manching Airport-DE"
+    label "ETSI"
+    data "Ingolstadt Manching Airport-DE"
   ]
   node
   [
     id "LEIB"
-    label "Ibiza Airport-ES"
+    label "LEIB"
+    data "Ibiza Airport-ES"
   ]
   node
   [
     id "LEZG"
-    label "Zaragoza Air Base-ES"
+    label "LEZG"
+    data "Zaragoza Air Base-ES"
   ]
   node
   [
     id "LFBI"
-    label "Poitiers-Biard Airport-FR"
+    label "LFBI"
+    data "Poitiers-Biard Airport-FR"
   ]
   node
   [
     id "LFKA"
-    label "Albertville Airport-FR"
+    label "LFKA"
+    data "Albertville Airport-FR"
   ]
   node
   [
     id "LFKB"
-    label "Bastia-Poretta Airport-FR"
+    label "LFKB"
+    data "Bastia-Poretta Airport-FR"
   ]
   node
   [
     id "LFMK"
-    label "Carcassonne Airport-FR"
+    label "LFMK"
+    data "Carcassonne Airport-FR"
   ]
   node
   [
     id "LFMP"
-    label "Perpignan-Rivesaltes (Llabanere) Airport-FR"
+    label "LFMP"
+    data "Perpignan-Rivesaltes (Llabanere) Airport-FR"
   ]
   node
   [
     id "LFMQ"
-    label "Le Castellet Airport-FR"
+    label "LFMQ"
+    data "Le Castellet Airport-FR"
   ]
   node
   [
     id "LFOQ"
-    label "Blois-Le Breuil Airport-FR"
+    label "LFOQ"
+    data "Blois-Le Breuil Airport-FR"
   ]
   node
   [
     id "LFOV"
-    label "Laval-Entrammes Airport-FR"
+    label "LFOV"
+    data "Laval-Entrammes Airport-FR"
   ]
   node
   [
     id "LFPT"
-    label "Pontoise - Cormeilles-en-Vexin Airport-FR"
+    label "LFPT"
+    data "Pontoise - Cormeilles-en-Vexin Airport-FR"
   ]
   node
   [
     id "LFQT"
-    label "Merville-Calonne Airport-FR"
+    label "LFQT"
+    data "Merville-Calonne Airport-FR"
   ]
   node
   [
     id "LFRM"
-    label "Le Mans-Arnage Airport-FR"
+    label "LFRM"
+    data "Le Mans-Arnage Airport-FR"
   ]
   node
   [
     id "LIBD"
-    label "Bari / Palese International Airport-IT"
+    label "LIBD"
+    data "Bari / Palese International Airport-IT"
   ]
   node
   [
     id "LIBR"
-    label "Brindisi / Casale Airport-IT"
+    label "LIBR"
+    data "Brindisi / Casale Airport-IT"
   ]
   node
   [
     id "LICB"
-    label "Comiso Airport Vincenzo Magliocco-IT"
+    label "LICB"
+    data "Comiso Airport Vincenzo Magliocco-IT"
   ]
   node
   [
     id "LIMF"
-    label "Torino / Caselle International Airport-IT"
+    label "LIMF"
+    data "Torino / Caselle International Airport-IT"
   ]
   node
   [
     id "LIPH"
-    label "Treviso / Sant'Angelo Airport-IT"
+    label "LIPH"
+    data "Treviso / Sant'Angelo Airport-IT"
   ]
   node
   [
     id "LIPQ"
-    label "Trieste / Ronchi Dei Legionari-IT"
+    label "LIPQ"
+    data "Trieste / Ronchi Dei Legionari-IT"
   ]
   node
   [
     id "TFFF"
-    label "Martinique Aime Cesaire International Airport-MQ"
+    label "TFFF"
+    data "Martinique Aime Cesaire International Airport-MQ"
   ]
   node
   [
     id "UMMS"
-    label "Minsk International Airport-BY"
+    label "UMMS"
+    data "Minsk International Airport-BY"
   ]
   node
   [
     id "EDKA"
-    label "Aachen-Merzbruck Airport-DE"
+    label "EDKA"
+    data "Aachen-Merzbruck Airport-DE"
   ]
   node
   [
     id "LFQJ"
-    label "Maubeuge-Elesmes Airport-FR"
+    label "LFQJ"
+    data "Maubeuge-Elesmes Airport-FR"
   ]
   node
   [
     id "EDRZ"
-    label "Zweibrucken Airport-DE"
+    label "EDRZ"
+    data "Zweibrucken Airport-DE"
   ]
   node
   [
     id "LFAC"
-    label "Calais-Dunkerque Airport-FR"
+    label "LFAC"
+    data "Calais-Dunkerque Airport-FR"
   ]
   node
   [
     id "LFAT"
-    label "Le Touquet-Cote d'Opale Airport-FR"
+    label "LFAT"
+    data "Le Touquet-Cote d'Opale Airport-FR"
   ]
   node
   [
     id "LFDT"
-    label "Tarbes Laloubere Airport-FR"
+    label "LFDT"
+    data "Tarbes Laloubere Airport-FR"
   ]
   node
   [
     id "LSZR"
-    label "St Gallen Altenrhein Airport-CH"
+    label "LSZR"
+    data "St Gallen Altenrhein Airport-CH"
   ]
   node
   [
     id "EDDE"
-    label "Erfurt Airport-DE"
+    label "EDDE"
+    data "Erfurt Airport-DE"
   ]
   node
   [
     id "EFTU"
-    label "Turku Airport-FI"
+    label "EFTU"
+    data "Turku Airport-FI"
   ]
   node
   [
     id "EGCN"
-    label "Robin Hood Doncaster Sheffield Airport-GB"
+    label "EGCN"
+    data "Robin Hood Doncaster Sheffield Airport-GB"
   ]
   node
   [
     id "EGMC"
-    label "Southend Airport-GB"
+    label "EGMC"
+    data "Southend Airport-GB"
   ]
   node
   [
     id "ETNG"
-    label "Geilenkirchen Airport-DE"
+    label "ETNG"
+    data "Geilenkirchen Airport-DE"
   ]
   node
   [
     id "LFAQ"
-    label "Albert-Bray Airport-FR"
+    label "LFAQ"
+    data "Albert-Bray Airport-FR"
   ]
   node
   [
     id "LFCA"
-    label "Chatellerault Airport-FR"
+    label "LFCA"
+    data "Chatellerault Airport-FR"
   ]
   node
   [
     id "LFRN"
-    label "Rennes-Saint-Jacques Airport-FR"
+    label "LFRN"
+    data "Rennes-Saint-Jacques Airport-FR"
   ]
   node
   [
     id "LKTB"
-    label "Brno-Turany Airport-CZ"
+    label "LKTB"
+    data "Brno-Turany Airport-CZ"
   ]
   node
   [
     id "LLSD"
-    label "Sde Dov Airport-IL"
+    label "LLSD"
+    data "Sde Dov Airport-IL"
   ]
   node
   [
     id "LQBK"
-    label "Banja Luka International Airport-BA"
+    label "LQBK"
+    data "Banja Luka International Airport-BA"
   ]
   node
   [
     id "OTBH"
-    label "Al Udeid Air Base-QA"
+    label "OTBH"
+    data "Al Udeid Air Base-QA"
   ]
   node
   [
     id "UUDD"
-    label "Domodedovo International Airport-RU"
+    label "UUDD"
+    data "Domodedovo International Airport-RU"
   ]
   node
   [
     id "LFAK"
-    label "Dunkerque Les Moeres Airport-FR"
+    label "LFAK"
+    data "Dunkerque Les Moeres Airport-FR"
   ]
   node
   [
     id "EGBK"
-    label "Sywell Aerodrome-GB"
+    label "EGBK"
+    data "Sywell Aerodrome-GB"
   ]
   node
   [
     id "EGSC"
-    label "Cambridge Airport-GB"
+    label "EGSC"
+    data "Cambridge Airport-GB"
   ]
   node
   [
     id "EGSU"
-    label "Duxford Airport-GB"
+    label "EGSU"
+    data "Duxford Airport-GB"
   ]
   node
   [
     id "EHKD"
-    label "De Kooy Airport-NL"
+    label "EHKD"
+    data "De Kooy Airport-NL"
   ]
   node
   [
     id "EHWO"
-    label "Woensdrecht Air Base-NL"
+    label "EHWO"
+    data "Woensdrecht Air Base-NL"
   ]
   node
   [
     id "EPLL"
-    label "  d  W adys aw Reymont Airport-PL"
+    label "EPLL"
+    data "  d  W adys aw Reymont Airport-PL"
   ]
   node
   [
     id "LFLU"
-    label "Valence-Chabeuil Airport-FR"
+    label "LFLU"
+    data "Valence-Chabeuil Airport-FR"
   ]
   node
   [
     id "UKKM"
-    label "Gostomel Airport-UA"
+    label "UKKM"
+    data "Gostomel Airport-UA"
   ]
   node
   [
     id "EBZH"
-    label "Hasselt Airport-BE"
+    label "EBZH"
+    data "Hasselt Airport-BE"
   ]
   node
   [
     id "EDTD"
-    label "Donaueschingen-Villingen Airport-DE"
+    label "EDTD"
+    data "Donaueschingen-Villingen Airport-DE"
   ]
   node
   [
     id "EDAC"
-    label "Altenburg-Nobitz Airport-DE"
+    label "EDAC"
+    data "Altenburg-Nobitz Airport-DE"
   ]
   node
   [
     id "EDAX"
-    label "Rechlin-Larz Airport-DE"
+    label "EDAX"
+    data "Rechlin-Larz Airport-DE"
   ]
   node
   [
     id "EDBM"
-    label "Magdeburg Airport-DE"
+    label "EDBM"
+    data "Magdeburg Airport-DE"
   ]
   node
   [
     id "EDVE"
-    label "Braunschweig Wolfsburg Airport-DE"
+    label "EDVE"
+    data "Braunschweig Wolfsburg Airport-DE"
   ]
   node
   [
     id "EDAH"
-    label "Heringsdorf Airport-DE"
+    label "EDAH"
+    data "Heringsdorf Airport-DE"
   ]
   node
   [
     id "EDXF"
-    label "Flensburg-Schaferhaus Airport-DE"
+    label "EDXF"
+    data "Flensburg-Schaferhaus Airport-DE"
   ]
   node
   [
     id "EDHL"
-    label "Lubeck Blankensee Airport-DE"
+    label "EDHL"
+    data "Lubeck Blankensee Airport-DE"
   ]
   node
   [
     id "EDBH"
-    label "Barth Airport-DE"
+    label "EDBH"
+    data "Barth Airport-DE"
   ]
   node
   [
     id "EDJA"
-    label "Memmingen Allgau Airport-DE"
+    label "EDJA"
+    data "Memmingen Allgau Airport-DE"
   ]
   node
   [
     id "EDWI"
-    label "Wilhelmshaven-Mariensiel Airport-DE"
+    label "EDWI"
+    data "Wilhelmshaven-Mariensiel Airport-DE"
   ]
   node
   [
     id "LOWG"
-    label "Graz Airport-AT"
+    label "LOWG"
+    data "Graz Airport-AT"
   ]
   node
   [
     id "EDBC"
-    label "Cochstedt Airport-DE"
+    label "EDBC"
+    data "Cochstedt Airport-DE"
   ]
   node
   [
     id "EDQM"
-    label "Hof-Plauen Airport-DE"
+    label "EDQM"
+    data "Hof-Plauen Airport-DE"
   ]
   node
   [
     id "EDMS"
-    label "Straubing Airport-DE"
+    label "EDMS"
+    data "Straubing Airport-DE"
   ]
   node
   [
     id "EDCD"
-    label "Cottbus-Drewitz Airport-DE"
+    label "EDCD"
+    data "Cottbus-Drewitz Airport-DE"
   ]
   node
   [
     id "EKRN"
-    label "Bornholm Airport-DK"
+    label "EKRN"
+    data "Bornholm Airport-DK"
   ]
   node
   [
     id "EDLW"
-    label "Dortmund Airport-DE"
+    label "EDLW"
+    data "Dortmund Airport-DE"
   ]
   node
   [
     id "EDSB"
-    label "Karlsruhe Baden-Baden Airport-DE"
+    label "EDSB"
+    data "Karlsruhe Baden-Baden Airport-DE"
   ]
   node
   [
     id "EDXW"
-    label "Westerland Sylt Airport-DE"
+    label "EDXW"
+    data "Westerland Sylt Airport-DE"
   ]
   node
   [
     id "EFLP"
-    label "Lappeenranta Airport-FI"
+    label "EFLP"
+    data "Lappeenranta Airport-FI"
   ]
   node
   [
     id "EGHQ"
-    label "Newquay Cornwall Airport-GB"
+    label "EGHQ"
+    data "Newquay Cornwall Airport-GB"
   ]
   node
   [
     id "EGNM"
-    label "Leeds Bradford Airport-GB"
+    label "EGNM"
+    data "Leeds Bradford Airport-GB"
   ]
   node
   [
     id "EGNT"
-    label "Newcastle Airport-GB"
+    label "EGNT"
+    data "Newcastle Airport-GB"
   ]
   node
   [
     id "EIKY"
-    label "Kerry Airport-IE"
+    label "EIKY"
+    data "Kerry Airport-IE"
   ]
   node
   [
     id "ENBR"
-    label "Bergen Airport Flesland-NO"
+    label "ENBR"
+    data "Bergen Airport Flesland-NO"
   ]
   node
   [
     id "FACT"
-    label "Cape Town International Airport-ZA"
+    label "FACT"
+    data "Cape Town International Airport-ZA"
   ]
   node
   [
     id "GCFV"
-    label "Fuerteventura Airport-ES"
+    label "GCFV"
+    data "Fuerteventura Airport-ES"
   ]
   node
   [
     id "GCLA"
-    label "La Palma Airport-ES"
+    label "GCLA"
+    data "La Palma Airport-ES"
   ]
   node
   [
     id "LBWN"
-    label "Varna Airport-BG"
+    label "LBWN"
+    data "Varna Airport-BG"
   ]
   node
   [
     id "LIQL"
-    label "Lucca / Tassignano Airport-IT"
+    label "LIQL"
+    data "Lucca / Tassignano Airport-IT"
   ]
   node
   [
     id "LSZG"
-    label "Grenchen Airport-CH"
+    label "LSZG"
+    data "Grenchen Airport-CH"
   ]
   node
   [
     id "UKKK"
-    label "Kiev Zhuliany International Airport-UA"
+    label "UKKK"
+    data "Kiev Zhuliany International Airport-UA"
   ]
   node
   [
     id "UKLL"
-    label "Lviv International Airport-UA"
+    label "UKLL"
+    data "Lviv International Airport-UA"
   ]
   node
   [
     id "WSSL"
-    label "Seletar Airport-SG"
+    label "WSSL"
+    data "Seletar Airport-SG"
   ]
   node
   [
     id "EKAH"
-    label "Aarhus Airport-DK"
+    label "EKAH"
+    data "Aarhus Airport-DK"
   ]
   node
   [
     id "LHPR"
-    label "Gyor-Per International Airport-HU"
+    label "LHPR"
+    data "Gyor-Per International Airport-HU"
   ]
   node
   [
     id "DTTA"
-    label "Tunis Carthage International Airport-TN"
+    label "DTTA"
+    data "Tunis Carthage International Airport-TN"
   ]
   node
   [
     id "EDLP"
-    label "Paderborn Lippstadt Airport-DE"
+    label "EDLP"
+    data "Paderborn Lippstadt Airport-DE"
   ]
   node
   [
     id "EGNJ"
-    label "Humberside Airport-GB"
+    label "EGNJ"
+    data "Humberside Airport-GB"
   ]
   node
   [
     id "EGSH"
-    label "Norwich International Airport-GB"
+    label "EGSH"
+    data "Norwich International Airport-GB"
   ]
   node
   [
     id "GVNP"
-    label "Praia International Airport-CV"
+    label "GVNP"
+    data "Praia International Airport-CV"
   ]
   node
   [
     id "LDSP"
-    label "Split Airport-HR"
+    label "LDSP"
+    data "Split Airport-HR"
   ]
   node
   [
     id "LEAB"
-    label "Albacete-Los Llanos Airport-ES"
+    label "LEAB"
+    data "Albacete-Los Llanos Airport-ES"
   ]
   node
   [
     id "LEPP"
-    label "Pamplona Airport-ES"
+    label "LEPP"
+    data "Pamplona Airport-ES"
   ]
   node
   [
     id "LFLC"
-    label "Clermont-Ferrand Auvergne Airport-FR"
+    label "LFLC"
+    data "Clermont-Ferrand Auvergne Airport-FR"
   ]
   node
   [
     id "LICC"
-    label "Catania / Fontanarossa Airport-IT"
+    label "LICC"
+    data "Catania / Fontanarossa Airport-IT"
   ]
   node
   [
     id "LIRQ"
-    label "Firenze / Peretola Airport-IT"
+    label "LIRQ"
+    data "Firenze / Peretola Airport-IT"
   ]
   node
   [
     id "LKPD"
-    label "Pardubice Airport-CZ"
+    label "LKPD"
+    data "Pardubice Airport-CZ"
   ]
   node
   [
     id "LOWL"
-    label "Linz Airport-AT"
+    label "LOWL"
+    data "Linz Airport-AT"
   ]
   node
   [
     id "LTAD"
-    label "Etimesgut Air Base-TR"
+    label "LTAD"
+    data "Etimesgut Air Base-TR"
   ]
   node
   [
     id "OEDF"
-    label "King Fahd International Airport-SA"
+    label "OEDF"
+    data "King Fahd International Airport-SA"
   ]
   node
   [
     id "OEDR"
-    label "King Abdulaziz Air Base-SA"
+    label "OEDR"
+    data "King Abdulaziz Air Base-SA"
   ]
   node
   [
     id "OJAM"
-    label "Amman-Marka International Airport-JO"
+    label "OJAM"
+    data "Amman-Marka International Airport-JO"
   ]
   node
   [
     id "SBRJ"
-    label "Santos Dumont Airport-BR"
+    label "SBRJ"
+    data "Santos Dumont Airport-BR"
   ]
   node
   [
     id "SBSJ"
-    label "Professor Urbano Ernesto Stumpf Airport-BR"
+    label "SBSJ"
+    data "Professor Urbano Ernesto Stumpf Airport-BR"
   ]
   node
   [
     id "UAAA"
-    label "Almaty International Airport-KZ"
+    label "UAAA"
+    data "Almaty International Airport-KZ"
   ]
   node
   [
     id "UDYZ"
-    label "Zvartnots International Airport-AM"
+    label "UDYZ"
+    data "Zvartnots International Airport-AM"
   ]
   node
   [
     id "UWGG"
-    label "Nizhny Novgorod International Airport-RU"
+    label "UWGG"
+    data "Nizhny Novgorod International Airport-RU"
   ]
   node
   [
     id "UWKD"
-    label "Kazan International Airport-RU"
+    label "UWKD"
+    data "Kazan International Airport-RU"
   ]
   node
   [
     id "VCBI"
-    label "Bandaranaike International Colombo Airport-LK"
+    label "VCBI"
+    data "Bandaranaike International Colombo Airport-LK"
   ]
   node
   [
     id "VOMM"
-    label "Chennai International Airport-IN"
+    label "VOMM"
+    data "Chennai International Airport-IN"
   ]
   node
   [
     id "WMKK"
-    label "Kuala Lumpur International Airport-MY"
+    label "WMKK"
+    data "Kuala Lumpur International Airport-MY"
   ]
   node
   [
     id "WSSS"
-    label "Singapore Changi International Airport-SG"
+    label "WSSS"
+    data "Singapore Changi International Airport-SG"
   ]
   node
   [
     id "EDHK"
-    label "Kiel-Holtenau Airport-DE"
+    label "EDHK"
+    data "Kiel-Holtenau Airport-DE"
   ]
   node
   [
     id "EDLE"
-    label "Essen Mulheim Airport-DE"
+    label "EDLE"
+    data "Essen Mulheim Airport-DE"
   ]
   node
   [
     id "EDLI"
-    label "Bielefeld Airport-DE"
+    label "EDLI"
+    data "Bielefeld Airport-DE"
   ]
   node
   [
     id "EDLM"
-    label "Marl-Loemuhle Airport-DE"
+    label "EDLM"
+    data "Marl-Loemuhle Airport-DE"
   ]
   node
   [
     id "EDWS"
-    label "Norden-Norddeich Airport-DE"
+    label "EDWS"
+    data "Norden-Norddeich Airport-DE"
   ]
   node
   [
     id "EDWU"
-    label "Varrelbusch Airport-DE"
+    label "EDWU"
+    data "Varrelbusch Airport-DE"
   ]
   node
   [
     id "EHTW"
-    label "Twenthe Airport-NL"
+    label "EHTW"
+    data "Twenthe Airport-NL"
   ]
   node
   [
     id "ESNZ"
-    label "Ostersund Airport-SE"
+    label "ESNZ"
+    data "Ostersund Airport-SE"
   ]
   node
   [
     id "EDHI"
-    label "Hamburg-Finkenwerder Airport-DE"
+    label "EDHI"
+    data "Hamburg-Finkenwerder Airport-DE"
   ]
   node
   [
     id "EDWG"
-    label "Wangerooge Airport-DE"
+    label "EDWG"
+    data "Wangerooge Airport-DE"
   ]
   node
   [
     id "EDXH"
-    label "Helgoland-Dune Airport-DE"
+    label "EDXH"
+    data "Helgoland-Dune Airport-DE"
   ]
   node
   [
     id "EGBE"
-    label "Coventry Airport-GB"
+    label "EGBE"
+    data "Coventry Airport-GB"
   ]
   node
   [
     id "EGNS"
-    label "Isle of Man Airport-IM"
+    label "EGNS"
+    data "Isle of Man Airport-IM"
   ]
   node
   [
     id "LFRZ"
-    label "Saint-Nazaire-Montoir Airport-FR"
+    label "LFRZ"
+    data "Saint-Nazaire-Montoir Airport-FR"
   ]
   node
   [
     id "OERY"
-    label "Riyadh Air Base-SA"
+    label "OERY"
+    data "Riyadh Air Base-SA"
   ]
   node
   [
     id "ENHD"
-    label "Haugesund Airport-NO"
+    label "ENHD"
+    data "Haugesund Airport-NO"
   ]
   node
   [
     id "ETNN"
-    label "Norvenich Airport-DE"
+    label "ETNN"
+    data "Norvenich Airport-DE"
   ]
   node
   [
     id "LFLD"
-    label "Bourges Airport-FR"
+    label "LFLD"
+    data "Bourges Airport-FR"
   ]
   node
   [
     id "LFRF"
-    label "Granville Airport-FR"
+    label "LFRF"
+    data "Granville Airport-FR"
   ]
   node
   [
     id "LIMP"
-    label "Parma Airport-IT"
+    label "LIMP"
+    data "Parma Airport-IT"
   ]
   node
   [
     id "LOWK"
-    label "Klagenfurt Airport-AT"
+    label "LOWK"
+    data "Klagenfurt Airport-AT"
   ]
   node
   [
     id "OMDM"
-    label "Al Minhad Air Base-AE"
+    label "OMDM"
+    data "Al Minhad Air Base-AE"
   ]
   node
   [
     id "VMMC"
-    label "Macau International Airport-MO"
+    label "VMMC"
+    data "Macau International Airport-MO"
   ]
   node
   [
     id "VTBD"
-    label "Don Mueang International Airport-TH"
+    label "VTBD"
+    data "Don Mueang International Airport-TH"
   ]
   node
   [
     id "ESSP"
-    label "Norrkoping Airport-SE"
+    label "ESSP"
+    data "Norrkoping Airport-SE"
   ]
   node
   [
     id "LELN"
-    label "Leon Airport-ES"
+    label "LELN"
+    data "Leon Airport-ES"
   ]
   node
   [
     id "UMGG"
-    label "Gomel Airport-BY"
+    label "UMGG"
+    data "Gomel Airport-BY"
   ]
   node
   [
     id "EICK"
-    label "Cork Airport-IE"
+    label "EICK"
+    data "Cork Airport-IE"
   ]
   node
   [
     id "ETHC"
-    label "Celle Airport-DE"
+    label "ETHC"
+    data "Celle Airport-DE"
   ]
   node
   [
     id "LIPR"
-    label "Rimini / Miramare - Federico Fellini International Airport-IT"
+    label "LIPR"
+    data "Rimini / Miramare - Federico Fellini International Airport-IT"
   ]
   node
   [
     id "EDQD"
-    label "Bayreuth Airport-DE"
+    label "EDQD"
+    data "Bayreuth Airport-DE"
   ]
   node
   [
     id "EDQF"
-    label "Ansbach-Petersdorf Airport-DE"
+    label "EDQF"
+    data "Ansbach-Petersdorf Airport-DE"
   ]
   node
   [
     id "ETOU"
-    label "Wiesbaden Army Airfield-DE"
+    label "ETOU"
+    data "Wiesbaden Army Airfield-DE"
   ]
   node
   [
     id "EYKA"
-    label "Kaunas International Airport-LT"
+    label "EYKA"
+    data "Kaunas International Airport-LT"
   ]
   node
   [
     id "LELO"
-    label "Logrono-Agoncillo Airport-ES"
+    label "LELO"
+    data "Logrono-Agoncillo Airport-ES"
   ]
   node
   [
     id "EFOU"
-    label "Oulu Airport-FI"
+    label "EFOU"
+    data "Oulu Airport-FI"
   ]
   node
   [
     id "EGDX"
-    label "MOD St. Athan-GB"
+    label "EGDX"
+    data "MOD St. Athan-GB"
   ]
   node
   [
     id "EGNC"
-    label "Carlisle Airport-GB"
+    label "EGNC"
+    data "Carlisle Airport-GB"
   ]
   node
   [
     id "EGNR"
-    label "Hawarden Airport-GB"
+    label "EGNR"
+    data "Hawarden Airport-GB"
   ]
   node
   [
     id "EKSB"
-    label "Sonderborg Airport-DK"
+    label "EKSB"
+    data "Sonderborg Airport-DK"
   ]
   node
   [
     id "ESMX"
-    label "Vaxjo Kronoberg Airport-SE"
+    label "ESMX"
+    data "Vaxjo Kronoberg Airport-SE"
   ]
   node
   [
     id "LCLK"
-    label "Larnaca International Airport-CY"
+    label "LCLK"
+    data "Larnaca International Airport-CY"
   ]
   node
   [
     id "LCPH"
-    label "Paphos International Airport-CY"
+    label "LCPH"
+    data "Paphos International Airport-CY"
   ]
   node
   [
     id "OJAI"
-    label "Queen Alia International Airport-JO"
+    label "OJAI"
+    data "Queen Alia International Airport-JO"
   ]
   node
   [
     id "LEMH"
-    label "Menorca Airport-ES"
+    label "LEMH"
+    data "Menorca Airport-ES"
   ]
   node
   [
     id "EDOP"
-    label "Schwerin Parchim Airport-DE"
+    label "EDOP"
+    data "Schwerin Parchim Airport-DE"
   ]
   node
   [
     id "ENCN"
-    label "Kristiansand Airport-NO"
+    label "ENCN"
+    data "Kristiansand Airport-NO"
   ]
   node
   [
     id "LEGE"
-    label "Girona Airport-ES"
+    label "LEGE"
+    data "Girona Airport-ES"
   ]
   node
   [
     id "EDFZ"
-    label "Mainz-Finthen Airport-DE"
+    label "EDFZ"
+    data "Mainz-Finthen Airport-DE"
   ]
   node
   [
     id "LFPN"
-    label "Toussus-le-Noble Airport-FR"
+    label "LFPN"
+    data "Toussus-le-Noble Airport-FR"
   ]
   node
   [
     id "LIMG"
-    label "Villanova D'Albenga International Airport-IT"
+    label "LIMG"
+    data "Villanova D'Albenga International Airport-IT"
   ]
   node
   [
     id "ESTA"
-    label "Angelholm-Helsingborg Airport-SE"
+    label "ESTA"
+    data "Angelholm-Helsingborg Airport-SE"
   ]
   node
   [
     id "LICA"
-    label "Lamezia Terme Airport-IT"
+    label "LICA"
+    data "Lamezia Terme Airport-IT"
   ]
   node
   [
     id "EDWE"
-    label "Emden Airport-DE"
+    label "EDWE"
+    data "Emden Airport-DE"
   ]
   node
   [
     id "EDGS"
-    label "Siegerland Airport-DE"
+    label "EDGS"
+    data "Siegerland Airport-DE"
   ]
   node
   [
     id "LSZL"
-    label "Locarno Airport-CH"
+    label "LSZL"
+    data "Locarno Airport-CH"
   ]
   node
   [
     id "EDXB"
-    label "Heide-Busum Airport-DE"
+    label "EDXB"
+    data "Heide-Busum Airport-DE"
   ]
   node
   [
     id "EDHN"
-    label "Neumunster Airport-DE"
+    label "EDHN"
+    data "Neumunster Airport-DE"
   ]
   node
   [
     id "EDXO"
-    label "St. Peter-Ording Airport-DE"
+    label "EDXO"
+    data "St. Peter-Ording Airport-DE"
   ]
   node
   [
     id "LRTM"
-    label "Transilvania Targu Mures International Airport-RO"
+    label "LRTM"
+    data "Transilvania Targu Mures International Airport-RO"
   ]
   node
   [
     id "EDWN"
-    label "Nordhorn-Lingen Airport-DE"
+    label "EDWN"
+    data "Nordhorn-Lingen Airport-DE"
   ]
   node
   [
     id "EDWL"
-    label "Langeoog Airport-DE"
+    label "EDWL"
+    data "Langeoog Airport-DE"
   ]
   node
   [
     id "EDWR"
-    label "Borkum Airport-DE"
+    label "EDWR"
+    data "Borkum Airport-DE"
   ]
   node
   [
     id "EDWY"
-    label "Norderney Airport-DE"
+    label "EDWY"
+    data "Norderney Airport-DE"
   ]
   node
   [
     id "GMME"
-    label "Rabat-Sale Airport-MA"
+    label "GMME"
+    data "Rabat-Sale Airport-MA"
   ]
   node
   [
     id "LFPC"
-    label "Creil Air Base-FR"
+    label "LFPC"
+    data "Creil Air Base-FR"
   ]
   node
   [
     id "LFBH"
-    label "La Rochelle-Ile de Re Airport-FR"
+    label "LFBH"
+    data "La Rochelle-Ile de Re Airport-FR"
   ]
   node
   [
     id "MRPV"
-    label "Tobias Bolanos International Airport-CR"
+    label "MRPV"
+    data "Tobias Bolanos International Airport-CR"
   ]
   node
   [
     id "YMMB"
-    label "Melbourne Moorabbin Airport-AU"
+    label "YMMB"
+    data "Melbourne Moorabbin Airport-AU"
   ]
   node
   [
     id "EDOL"
-    label "Oschersleben Airport-DE"
+    label "EDOL"
+    data "Oschersleben Airport-DE"
   ]
   node
   [
     id "EHDL"
-    label "Deelen Air Base-NL"
+    label "EHDL"
+    data "Deelen Air Base-NL"
   ]
   node
   [
     id "EDRB"
-    label "Bitburg Airport-DE"
+    label "EDRB"
+    data "Bitburg Airport-DE"
   ]
   node
   [
     id "ETAD"
-    label "Spangdahlem Air Base-DE"
+    label "ETAD"
+    data "Spangdahlem Air Base-DE"
   ]
   node
   [
     id "LEBG"
-    label "Burgos Airport-ES"
+    label "LEBG"
+    data "Burgos Airport-ES"
   ]
   node
   [
     id "EDTL"
-    label "Lahr Airport-DE"
+    label "EDTL"
+    data "Lahr Airport-DE"
   ]
   node
   [
     id "EKYT"
-    label "Aalborg Airport-DK"
+    label "EKYT"
+    data "Aalborg Airport-DK"
   ]
   node
   [
     id "LFSN"
-    label "Nancy-Essey Airport-FR"
+    label "LFSN"
+    data "Nancy-Essey Airport-FR"
   ]
   node
   [
     id "LIPD"
-    label "Udine / Campoformido Air Base-IT"
+    label "LIPD"
+    data "Udine / Campoformido Air Base-IT"
   ]
   node
   [
     id "EDWJ"
-    label "Juist Airport-DE"
+    label "EDWJ"
+    data "Juist Airport-DE"
   ]
   node
   [
     id "ETMN"
-    label "Nordholz Airport-DE"
+    label "ETMN"
+    data "Nordholz Airport-DE"
   ]
   node
   [
     id "ETHE"
-    label "Rheine Bentlage Airport-DE"
+    label "ETHE"
+    data "Rheine Bentlage Airport-DE"
   ]
   node
   [
     id "EDXY"
-    label "Wyk auf Fohr Airport-DE"
+    label "EDXY"
+    data "Wyk auf Fohr Airport-DE"
   ]
   node
   [
     id "EKEB"
-    label "Esbjerg Airport-DK"
+    label "EKEB"
+    data "Esbjerg Airport-DK"
   ]
   node
   [
     id "EFHF"
-    label "Helsinki Malmi Airport-FI"
+    label "EFHF"
+    data "Helsinki Malmi Airport-FI"
   ]
   node
   [
     id "EEPU"
-    label "Parnu Airport-EE"
+    label "EEPU"
+    data "Parnu Airport-EE"
   ]
   node
   [
     id "EEKE"
-    label "Kuressaare Airport-EE"
+    label "EEKE"
+    data "Kuressaare Airport-EE"
   ]
   node
   [
     id "EETU"
-    label "Tartu Airport-EE"
+    label "EETU"
+    data "Tartu Airport-EE"
   ]
   node
   [
     id "ENVA"
-    label "Trondheim Airport Vaernes-NO"
+    label "ENVA"
+    data "Trondheim Airport Vaernes-NO"
   ]
   node
   [
     id "EFHV"
-    label "Hyvinkaa Airport-FI"
+    label "EFHV"
+    data "Hyvinkaa Airport-FI"
   ]
   node
   [
     id "ESOW"
-    label "Stockholm Vasteras Airport-SE"
+    label "ESOW"
+    data "Stockholm Vasteras Airport-SE"
   ]
   node
   [
     id "EFHA"
-    label "Halli Airport-FI"
+    label "EFHA"
+    data "Halli Airport-FI"
   ]
   node
   [
     id "EFJO"
-    label "Joensuu Airport-FI"
+    label "EFJO"
+    data "Joensuu Airport-FI"
   ]
   node
   [
     id "EFJY"
-    label "Jyvaskyla Airport-FI"
+    label "EFJY"
+    data "Jyvaskyla Airport-FI"
   ]
   node
   [
     id "EFKE"
-    label "Kemi-Tornio Airport-FI"
+    label "EFKE"
+    data "Kemi-Tornio Airport-FI"
   ]
   node
   [
     id "EFKI"
-    label "Kajaani Airport-FI"
+    label "EFKI"
+    data "Kajaani Airport-FI"
   ]
   node
   [
     id "EFKK"
-    label "Kruunupyy Airport-FI"
+    label "EFKK"
+    data "Kruunupyy Airport-FI"
   ]
   node
   [
     id "EFKU"
-    label "Kuopio Airport-FI"
+    label "EFKU"
+    data "Kuopio Airport-FI"
   ]
   node
   [
     id "EFMA"
-    label "Mariehamn Airport-FI"
+    label "EFMA"
+    data "Mariehamn Airport-FI"
   ]
   node
   [
     id "EKOD"
-    label "Odense Airport-DK"
+    label "EKOD"
+    data "Odense Airport-DK"
   ]
   node
   [
     id "ESOE"
-    label "Orebro Airport-SE"
+    label "ESOE"
+    data "Orebro Airport-SE"
   ]
   node
   [
     id "UUDL"
-    label "Tunoshna Airport-RU"
+    label "UUDL"
+    data "Tunoshna Airport-RU"
   ]
   node
   [
     id "ENRY"
-    label "Moss Airport Rygge-NO"
+    label "ENRY"
+    data "Moss Airport Rygge-NO"
   ]
   node
   [
     id "EFUT"
-    label "Utti Air Base-FI"
+    label "EFUT"
+    data "Utti Air Base-FI"
   ]
   node
   [
     id "EGXW"
-    label "RAF Waddington-GB"
+    label "EGXW"
+    data "RAF Waddington-GB"
   ]
   node
   [
     id "EGFE"
-    label "Haverfordwest Airport-GB"
+    label "EGFE"
+    data "Haverfordwest Airport-GB"
   ]
   node
   [
     id "EGPK"
-    label "Glasgow Prestwick Airport-GB"
+    label "EGPK"
+    data "Glasgow Prestwick Airport-GB"
   ]
   node
   [
     id "EGTE"
-    label "Exeter International Airport-GB"
+    label "EGTE"
+    data "Exeter International Airport-GB"
   ]
   node
   [
     id "EISG"
-    label "Sligo Airport-IE"
+    label "EISG"
+    data "Sligo Airport-IE"
   ]
   node
   [
     id "EGHL"
-    label "Lasham Airport-GB"
+    label "EGHL"
+    data "Lasham Airport-GB"
   ]
   node
   [
     id "EGJA"
-    label "Alderney Airport-GG"
+    label "EGJA"
+    data "Alderney Airport-GG"
   ]
   node
   [
     id "EGJJ"
-    label "Jersey Airport-JE"
+    label "EGJJ"
+    data "Jersey Airport-JE"
   ]
   node
   [
     id "EGMD"
-    label "Lydd Airport-GB"
+    label "EGMD"
+    data "Lydd Airport-GB"
   ]
   node
   [
     id "EGQB"
-    label "Ballykelly Airport-GB"
+    label "EGQB"
+    data "Ballykelly Airport-GB"
   ]
   node
   [
     id "GVBA"
-    label "Rabil Airport-CV"
+    label "GVBA"
+    data "Rabil Airport-CV"
   ]
   node
   [
     id "LFOH"
-    label "Le Havre Octeville Airport-FR"
+    label "LFOH"
+    data "Le Havre Octeville Airport-FR"
   ]
   node
   [
     id "EGBN"
-    label "Nottingham Airport-GB"
+    label "EGBN"
+    data "Nottingham Airport-GB"
   ]
   node
   [
     id "EGFH"
-    label "Swansea Airport-GB"
+    label "EGFH"
+    data "Swansea Airport-GB"
   ]
   node
   [
     id "LFRC"
-    label "Cherbourg-Maupertus Airport-FR"
+    label "LFRC"
+    data "Cherbourg-Maupertus Airport-FR"
   ]
   node
   [
     id "EGDY"
-    label "RNAS Yeovilton-GB"
+    label "EGDY"
+    data "RNAS Yeovilton-GB"
   ]
   node
   [
     id "EPZG"
-    label "Zielona G ra-Babimost Airport-PL"
+    label "EPZG"
+    data "Zielona G ra-Babimost Airport-PL"
   ]
   node
   [
     id "EGUB"
-    label "RAF Benson-GB"
+    label "EGUB"
+    data "RAF Benson-GB"
   ]
   node
   [
     id "EGTB"
-    label "Wycombe Air Park-GB"
+    label "EGTB"
+    data "Wycombe Air Park-GB"
   ]
   node
   [
     id "EGKA"
-    label "Shoreham Airport-GB"
+    label "EGKA"
+    data "Shoreham Airport-GB"
   ]
   node
   [
     id "EGHJ"
-    label "Bembridge Airport-GB"
+    label "EGHJ"
+    data "Bembridge Airport-GB"
   ]
   node
   [
     id "EGUY"
-    label "RAF Wyton-GB"
+    label "EGUY"
+    data "RAF Wyton-GB"
   ]
   node
   [
     id "ENSN"
-    label "Skien Airport-NO"
+    label "ENSN"
+    data "Skien Airport-NO"
   ]
   node
   [
     id "ENZV"
-    label "Stavanger Airport Sola-NO"
+    label "ENZV"
+    data "Stavanger Airport Sola-NO"
   ]
   node
   [
     id "LFOT"
-    label "Tours-Val-de-Loire Airport-FR"
+    label "LFOT"
+    data "Tours-Val-de-Loire Airport-FR"
   ]
   node
   [
     id "LPMA"
-    label "Madeira Airport-PT"
+    label "LPMA"
+    data "Madeira Airport-PT"
   ]
   node
   [
     id "LSGL"
-    label "Lausanne-la Blecherette Airport-CH"
+    label "LSGL"
+    data "Lausanne-la Blecherette Airport-CH"
   ]
   node
   [
     id "LSGS"
-    label "Sion Airport-CH"
+    label "LSGS"
+    data "Sion Airport-CH"
   ]
   node
   [
     id "LXGB"
-    label "Gibraltar Airport-GI"
+    label "LXGB"
+    data "Gibraltar Airport-GI"
   ]
   node
   [
     id "EGOV"
-    label "Anglesey Airport-GB"
+    label "EGOV"
+    data "Anglesey Airport-GB"
   ]
   node
   [
     id "EGXC"
-    label "RAF Coningsby-GB"
+    label "EGXC"
+    data "RAF Coningsby-GB"
   ]
   node
   [
     id "EGVO"
-    label "RAF Odiham-GB"
+    label "EGVO"
+    data "RAF Odiham-GB"
   ]
   node
   [
     id "EGHR"
-    label "Chichester/Goodwood Airport-GB"
+    label "EGHR"
+    data "Chichester/Goodwood Airport-GB"
   ]
   node
   [
     id "EGDJ"
-    label "Upavon Aerodrome-GB"
+    label "EGDJ"
+    data "Upavon Aerodrome-GB"
   ]
   node
   [
     id "EGNL"
-    label "Barrow Walney Island Airport-GB"
+    label "EGNL"
+    data "Barrow Walney Island Airport-GB"
   ]
   node
   [
     id "EIWF"
-    label "Waterford Airport-IE"
+    label "EIWF"
+    data "Waterford Airport-IE"
   ]
   node
   [
     id "EPLB"
-    label "Lublin Airport-PL"
+    label "EPLB"
+    data "Lublin Airport-PL"
   ]
   node
   [
     id "LBBG"
-    label "Burgas Airport-BG"
+    label "LBBG"
+    data "Burgas Airport-BG"
   ]
   node
   [
     id "LFMO"
-    label "Orange-Caritat (BA 115) Air Base-FR"
+    label "LFMO"
+    data "Orange-Caritat (BA 115) Air Base-FR"
   ]
   node
   [
     id "LFMU"
-    label "Beziers-Vias Airport-FR"
+    label "LFMU"
+    data "Beziers-Vias Airport-FR"
   ]
   node
   [
     id "LZTT"
-    label "Poprad-Tatry Airport-SK"
+    label "LZTT"
+    data "Poprad-Tatry Airport-SK"
   ]
   node
   [
     id "OEAH"
-    label "Al Ahsa Airport-SA"
+    label "OEAH"
+    data "Al Ahsa Airport-SA"
   ]
   node
   [
     id "EGHC"
-    label "Land's End Airport-GB"
+    label "EGHC"
+    data "Land's End Airport-GB"
   ]
   node
   [
     id "EGHE"
-    label "St. Mary's Airport-GB"
+    label "EGHE"
+    data "St. Mary's Airport-GB"
   ]
   node
   [
     id "LFBX"
-    label "Perigueux-Bassillac Airport-FR"
+    label "LFBX"
+    data "Perigueux-Bassillac Airport-FR"
   ]
   node
   [
     id "EGTO"
-    label "Rochester Airport-GB"
+    label "EGTO"
+    data "Rochester Airport-GB"
   ]
   node
   [
     id "LEAM"
-    label "Almeria International Airport-ES"
+    label "LEAM"
+    data "Almeria International Airport-ES"
   ]
   node
   [
     id "LFRU"
-    label "Morlaix-Ploujean Airport-FR"
+    label "LFRU"
+    data "Morlaix-Ploujean Airport-FR"
   ]
   node
   [
     id "LFOJ"
-    label "Orleans-Bricy (BA 123) Air Base-FR"
+    label "LFOJ"
+    data "Orleans-Bricy (BA 123) Air Base-FR"
   ]
   node
   [
     id "LIRS"
-    label "Grosseto Airport-IT"
+    label "LIRS"
+    data "Grosseto Airport-IT"
   ]
   node
   [
     id "TVSM"
-    label "Mustique Airport-VC"
+    label "TVSM"
+    data "Mustique Airport-VC"
   ]
   node
   [
     id "LECU"
-    label "Cuatro Vientos Airport-ES"
+    label "LECU"
+    data "Cuatro Vientos Airport-ES"
   ]
   node
   [
     id "WBGJ"
-    label "Limbang Airport-MY"
+    label "WBGJ"
+    data "Limbang Airport-MY"
   ]
   node
   [
     id "WBSB"
-    label "Brunei International Airport-BN"
+    label "WBSB"
+    data "Brunei International Airport-BN"
   ]
   node
   [
     id "YPPH"
-    label "Perth International Airport-AU"
+    label "YPPH"
+    data "Perth International Airport-AU"
   ]
   node
   [
     id "LFRB"
-    label "Brest Bretagne Airport-FR"
+    label "LFRB"
+    data "Brest Bretagne Airport-FR"
   ]
   node
   [
     id "LFRJ"
-    label "Landivisiau Air Base-FR"
+    label "LFRJ"
+    data "Landivisiau Air Base-FR"
   ]
   node
   [
     id "LFRK"
-    label "Caen-Carpiquet Airport-FR"
+    label "LFRK"
+    data "Caen-Carpiquet Airport-FR"
   ]
   node
   [
     id "EGXH"
-    label "RAF Honington-GB"
+    label "EGXH"
+    data "RAF Honington-GB"
   ]
   node
   [
     id "EGEO"
-    label "Oban Airport-GB"
+    label "EGEO"
+    data "Oban Airport-GB"
   ]
   node
   [
     id "EGPT"
-    label "Perth/Scone Airport-GB"
+    label "EGPT"
+    data "Perth/Scone Airport-GB"
   ]
   node
   [
     id "EGYM"
-    label "RAF Marham-GB"
+    label "EGYM"
+    data "RAF Marham-GB"
   ]
   node
   [
     id "EILT"
-    label "Letterkenny Airport-IE"
+    label "EILT"
+    data "Letterkenny Airport-IE"
   ]
   node
   [
     id "EPSC"
-    label "Szczecin-Goleniow Solidarno   Airport-PL"
+    label "EPSC"
+    data "Szczecin-Goleniow Solidarno   Airport-PL"
   ]
   node
   [
     id "FANS"
-    label "Nelspruit Airport-ZA"
+    label "FANS"
+    data "Nelspruit Airport-ZA"
   ]
   node
   [
     id "LFBE"
-    label "Bergerac-Roumaniere Airport-FR"
+    label "LFBE"
+    data "Bergerac-Roumaniere Airport-FR"
   ]
   node
   [
     id "VECC"
-    label "Netaji Subhash Chandra Bose International Airport-IN"
+    label "VECC"
+    data "Netaji Subhash Chandra Bose International Airport-IN"
   ]
   node
   [
     id "EGVA"
-    label "RAF Fairford-GB"
+    label "EGVA"
+    data "RAF Fairford-GB"
   ]
   node
   [
     id "EKSP"
-    label "Vojens Skrydstrup Airport-DK"
+    label "EKSP"
+    data "Vojens Skrydstrup Airport-DK"
   ]
   node
   [
     id "ENTO"
-    label "Sandefjord Airport Torp-NO"
+    label "ENTO"
+    data "Sandefjord Airport Torp-NO"
   ]
   node
   [
     id "ESPA"
-    label "Lulea Airport-SE"
+    label "ESPA"
+    data "Lulea Airport-SE"
   ]
   node
   [
     id "GMMB"
-    label "Ben Slimane Airport-MA"
+    label "GMMB"
+    data "Ben Slimane Airport-MA"
   ]
   node
   [
     id "SBGL"
-    label "Galeao - Antonio Carlos Jobim International Airport-BR"
+    label "SBGL"
+    data "Galeao - Antonio Carlos Jobim International Airport-BR"
   ]
   node
   [
     id "SEQM"
-    label "Nuevo Aeropuerto Internacional Mariscal Sucre-EC"
+    label "SEQM"
+    data "Nuevo Aeropuerto Internacional Mariscal Sucre-EC"
   ]
   node
   [
     id "ZSAM"
-    label "Xiamen Gaoqi International Airport-CN"
+    label "ZSAM"
+    data "Xiamen Gaoqi International Airport-CN"
   ]
   node
   [
     id "EHGR"
-    label "Gilze Rijen Air Base-NL"
+    label "EHGR"
+    data "Gilze Rijen Air Base-NL"
   ]
   node
   [
     id "EHLW"
-    label "Leeuwarden Air Base-NL"
+    label "EHLW"
+    data "Leeuwarden Air Base-NL"
   ]
   node
   [
     id "EKVJ"
-    label "Stauning Airport-DK"
+    label "EKVJ"
+    data "Stauning Airport-DK"
   ]
   node
   [
     id "LDRI"
-    label "Rijeka Airport-HR"
+    label "LDRI"
+    data "Rijeka Airport-HR"
   ]
   node
   [
     id "EICA"
-    label "Connemara Regional Airport-IE"
+    label "EICA"
+    data "Connemara Regional Airport-IE"
   ]
   node
   [
     id "EICM"
-    label "Galway Airport-IE"
+    label "EICM"
+    data "Galway Airport-IE"
   ]
   node
   [
     id "EIBT"
-    label "Belmullet Aerodrome-IE"
+    label "EIBT"
+    data "Belmullet Aerodrome-IE"
   ]
   node
   [
     id "EIMN"
-    label "Inishmaan Aerodrome-IE"
+    label "EIMN"
+    data "Inishmaan Aerodrome-IE"
   ]
   node
   [
     id "EFRO"
-    label "Rovaniemi Airport-FI"
+    label "EFRO"
+    data "Rovaniemi Airport-FI"
   ]
   node
   [
     id "EIDL"
-    label "Donegal Airport-IE"
+    label "EIDL"
+    data "Donegal Airport-IE"
   ]
   node
   [
     id "LFAB"
-    label "St Aubin Airport-FR"
+    label "LFAB"
+    data "St Aubin Airport-FR"
   ]
   node
   [
     id "LFOB"
-    label "Paris Beauvais Tille Airport-FR"
+    label "LFOB"
+    data "Paris Beauvais Tille Airport-FR"
   ]
   node
   [
     id "EIIR"
-    label "Inisheer Aerodrome-IE"
+    label "EIIR"
+    data "Inisheer Aerodrome-IE"
   ]
   node
   [
     id "EIIM"
-    label "Inishmore Aerodrome-IE"
+    label "EIIM"
+    data "Inishmore Aerodrome-IE"
   ]
   node
   [
     id "EIKK"
-    label "Kilkenny Airport-IE"
+    label "EIKK"
+    data "Kilkenny Airport-IE"
   ]
   node
   [
     id "EKMB"
-    label "Lolland Falster Maribo Airport-DK"
+    label "EKMB"
+    data "Lolland Falster Maribo Airport-DK"
   ]
   node
   [
     id "EKKA"
-    label "Karup Airport-DK"
+    label "EKKA"
+    data "Karup Airport-DK"
   ]
   node
   [
     id "EYPA"
-    label "Palanga International Airport-LT"
+    label "EYPA"
+    data "Palanga International Airport-LT"
   ]
   node
   [
     id "LEDA"
-    label "Lleida-Alguaire Airport-ES"
+    label "LEDA"
+    data "Lleida-Alguaire Airport-ES"
   ]
   node
   [
     id "EKSV"
-    label "Skive Airport-DK"
+    label "EKSV"
+    data "Skive Airport-DK"
   ]
   node
   [
     id "EKLS"
-    label "Laeso Airport-DK"
+    label "EKLS"
+    data "Laeso Airport-DK"
   ]
   node
   [
     id "EKSN"
-    label "Sindal Airport-DK"
+    label "EKSN"
+    data "Sindal Airport-DK"
   ]
   node
   [
     id "EKTS"
-    label "Thisted Airport-DK"
+    label "EKTS"
+    data "Thisted Airport-DK"
   ]
   node
   [
     id "UWLW"
-    label "Ulyanovsk East Airport-RU"
+    label "UWLW"
+    data "Ulyanovsk East Airport-RU"
   ]
   node
   [
     id "ESSD"
-    label "Borlange Airport-SE"
+    label "ESSD"
+    data "Borlange Airport-SE"
   ]
   node
   [
     id "LFHO"
-    label "Aubenas-Ardeche Meridional Airport-FR"
+    label "LFHO"
+    data "Aubenas-Ardeche Meridional Airport-FR"
   ]
   node
   [
     id "LFOK"
-    label "Chalons-Vatry Air Base-FR"
+    label "LFOK"
+    data "Chalons-Vatry Air Base-FR"
   ]
   node
   [
     id "LFTW"
-    label "Nimes-Arles-Camargue Airport-FR"
+    label "LFTW"
+    data "Nimes-Arles-Camargue Airport-FR"
   ]
   node
   [
     id "OMRK"
-    label "Ras Al Khaimah International Airport-AE"
+    label "OMRK"
+    data "Ras Al Khaimah International Airport-AE"
   ]
   node
   [
     id "RPLC"
-    label "Diosdado Macapagal International Airport-PH"
+    label "RPLC"
+    data "Diosdado Macapagal International Airport-PH"
   ]
   node
   [
     id "ENBO"
-    label "Bodo Airport-NO"
+    label "ENBO"
+    data "Bodo Airport-NO"
   ]
   node
   [
     id "ENNM"
-    label "Namsos Hoknesora Airport-NO"
+    label "ENNM"
+    data "Namsos Hoknesora Airport-NO"
   ]
   node
   [
     id "ENSO"
-    label "Stord Airport-NO"
+    label "ENSO"
+    data "Stord Airport-NO"
   ]
   node
   [
     id "ESSU"
-    label "Eskilstuna Airport-SE"
+    label "ESSU"
+    data "Eskilstuna Airport-SE"
   ]
   node
   [
     id "ENHA"
-    label "Stafsberg Airport-NO"
+    label "ENHA"
+    data "Stafsberg Airport-NO"
   ]
   node
   [
     id "ENNO"
-    label "Notodden Airport-NO"
+    label "ENNO"
+    data "Notodden Airport-NO"
   ]
   node
   [
     id "ESKK"
-    label "Karlskoga Airport-SE"
+    label "ESKK"
+    data "Karlskoga Airport-SE"
   ]
   node
   [
     id "EPKW"
-    label "Bielsko-Bialo Kaniow Airfield-PL"
+    label "EPKW"
+    data "Bielsko-Bialo Kaniow Airfield-PL"
   ]
   node
   [
     id "EPNT"
-    label "Nowy Targ Airport-PL"
+    label "EPNT"
+    data "Nowy Targ Airport-PL"
   ]
   node
   [
     id "ESMT"
-    label "Halmstad Airport-SE"
+    label "ESMT"
+    data "Halmstad Airport-SE"
   ]
   node
   [
     id "EPGL"
-    label "Gliwice Glider Airport-PL"
+    label "EPGL"
+    data "Gliwice Glider Airport-PL"
   ]
   node
   [
     id "LIDT"
-    label "Trento / Mattarello Airport-IT"
+    label "LIDT"
+    data "Trento / Mattarello Airport-IT"
   ]
   node
   [
     id "EPOP"
-    label "Opole-Polska Nowa Wies Airport-PL"
+    label "EPOP"
+    data "Opole-Polska Nowa Wies Airport-PL"
   ]
   node
   [
     id "EPOK"
-    label "Oksywie Military Air Base-PL"
+    label "EPOK"
+    data "Oksywie Military Air Base-PL"
   ]
   node
   [
     id "LPBJ"
-    label "Beja International Airport-PT"
+    label "LPBJ"
+    data "Beja International Airport-PT"
   ]
   node
   [
     id "UMKK"
-    label "Khrabrovo Airport-RU"
+    label "UMKK"
+    data "Khrabrovo Airport-RU"
   ]
   node
   [
     id "ESSK"
-    label "Gavle Sandviken Airport-SE"
+    label "ESSK"
+    data "Gavle Sandviken Airport-SE"
   ]
   node
   [
     id "ESDF"
-    label "Ronneby Airport-SE"
+    label "ESDF"
+    data "Ronneby Airport-SE"
   ]
   node
   [
     id "ESFA"
-    label "Hassleholm Bokeberg Airport-SE"
+    label "ESFA"
+    data "Hassleholm Bokeberg Airport-SE"
   ]
   node
   [
     id "ESGP"
-    label "Gothenburg City Airport-SE"
+    label "ESGP"
+    data "Gothenburg City Airport-SE"
   ]
   node
   [
     id "ESMK"
-    label "Kristianstad Airport-SE"
+    label "ESMK"
+    data "Kristianstad Airport-SE"
   ]
   node
   [
     id "ESSV"
-    label "Visby Airport-SE"
+    label "ESSV"
+    data "Visby Airport-SE"
   ]
   node
   [
     id "ESKM"
-    label "Mora Airport-SE"
+    label "ESKM"
+    data "Mora Airport-SE"
   ]
   node
   [
     id "ESSL"
-    label "Linkoping SAAB Airport-SE"
+    label "ESSL"
+    data "Linkoping SAAB Airport-SE"
   ]
   node
   [
     id "LQTZ"
-    label "Tuzla International Airport-BA"
+    label "LQTZ"
+    data "Tuzla International Airport-BA"
   ]
   node
   [
     id "ESND"
-    label "Sveg Airport-SE"
+    label "ESND"
+    data "Sveg Airport-SE"
   ]
   node
   [
     id "LEMO"
-    label "Moron Air Base-ES"
+    label "LEMO"
+    data "Moron Air Base-ES"
   ]
   node
   [
     id "LFOE"
-    label "Evreux-Fauville (BA 105) Air Base-FR"
+    label "LFOE"
+    data "Evreux-Fauville (BA 105) Air Base-FR"
   ]
   node
   [
     id "LIPA"
-    label "Aviano Air Base-IT"
+    label "LIPA"
+    data "Aviano Air Base-IT"
   ]
   node
   [
     id "EDCG"
-    label "Rugen Airport-DE"
+    label "EDCG"
+    data "Rugen Airport-DE"
   ]
   node
   [
     id "ETNS"
-    label "Schleswig Airport-DE"
+    label "ETNS"
+    data "Schleswig Airport-DE"
   ]
   node
   [
     id "ETSF"
-    label "Furstenfeldbruck Airport-DE"
+    label "ETSF"
+    data "Furstenfeldbruck Airport-DE"
   ]
   node
   [
     id "EVLA"
-    label "Liepaja International Airport-LV"
+    label "EVLA"
+    data "Liepaja International Airport-LV"
   ]
   node
   [
     id "EVVA"
-    label "Ventspils International Airport-LV"
+    label "EVVA"
+    data "Ventspils International Airport-LV"
   ]
   node
   [
     id "EYSA"
-    label "Siauliai International Airport-LT"
+    label "EYSA"
+    data "Siauliai International Airport-LT"
   ]
   node
   [
     id "FALA"
-    label "Lanseria Airport-ZA"
+    label "FALA"
+    data "Lanseria Airport-ZA"
   ]
   node
   [
     id "FAGC"
-    label "Grand Central Airport-ZA"
+    label "FAGC"
+    data "Grand Central Airport-ZA"
   ]
   node
   [
     id "FALW"
-    label "Langebaanweg Airport-ZA"
+    label "FALW"
+    data "Langebaanweg Airport-ZA"
   ]
   node
   [
     id "FAWB"
-    label "Wonderboom Airport-ZA"
+    label "FAWB"
+    data "Wonderboom Airport-ZA"
   ]
   node
   [
     id "FAWK"
-    label "Waterkloof Air Force Base-ZA"
+    label "FAWK"
+    data "Waterkloof Air Force Base-ZA"
   ]
   node
   [
     id "SADF"
-    label "San Fernando Airport-AR"
+    label "SADF"
+    data "San Fernando Airport-AR"
   ]
   node
   [
     id "KDNL"
-    label "Daniel Field-US"
+    label "KDNL"
+    data "Daniel Field-US"
   ]
   node
   [
     id "GGOV"
-    label "Osvaldo Vieira International Airport-GW"
+    label "GGOV"
+    data "Osvaldo Vieira International Airport-GW"
   ]
   node
   [
     id "GOGG"
-    label "Ziguinchor Airport-SN"
+    label "GOGG"
+    data "Ziguinchor Airport-SN"
   ]
   node
   [
     id "GOOY"
-    label "Leopold Sedar Senghor International Airport-SN"
+    label "GOOY"
+    data "Leopold Sedar Senghor International Airport-SN"
   ]
   node
   [
     id "GCHI"
-    label "Hierro Airport-ES"
+    label "GCHI"
+    data "Hierro Airport-ES"
   ]
   node
   [
     id "GCXO"
-    label "Tenerife Norte Airport-ES"
+    label "GCXO"
+    data "Tenerife Norte Airport-ES"
   ]
   node
   [
     id "GMML"
-    label "Hassan I Airport-EH"
+    label "GMML"
+    data "Hassan I Airport-EH"
   ]
   node
   [
     id "LEGR"
-    label "Federico Garcia Lorca Airport-ES"
+    label "LEGR"
+    data "Federico Garcia Lorca Airport-ES"
   ]
   node
   [
     id "LEVX"
-    label "Vigo Airport-ES"
+    label "LEVX"
+    data "Vigo Airport-ES"
   ]
   node
   [
     id "GEML"
-    label "Melilla Airport-ES"
+    label "GEML"
+    data "Melilla Airport-ES"
   ]
   node
   [
     id "GMMY"
-    label "Kenitra Airport-MA"
+    label "GMMY"
+    data "Kenitra Airport-MA"
   ]
   node
   [
     id "GMTA"
-    label "Cherif Al Idrissi Airport-MA"
+    label "GMTA"
+    data "Cherif Al Idrissi Airport-MA"
   ]
   node
   [
     id "GOGS"
-    label "Cap Skirring Airport-SN"
+    label "GOGS"
+    data "Cap Skirring Airport-SN"
   ]
   node
   [
     id "GOOK"
-    label "Kaolack Airport-SN"
+    label "GOOK"
+    data "Kaolack Airport-SN"
   ]
   node
   [
     id "SAAR"
-    label "Islas Malvinas Airport-AR"
+    label "SAAR"
+    data "Islas Malvinas Airport-AR"
   ]
   node
   [
     id "KFOD"
-    label "Fort Dodge Regional Airport-US"
+    label "KFOD"
+    data "Fort Dodge Regional Airport-US"
   ]
   node
   [
     id "KDBQ"
-    label "Dubuque Regional Airport-US"
+    label "KDBQ"
+    data "Dubuque Regional Airport-US"
   ]
   node
   [
     id "KBNW"
-    label "Boone Municipal Airport-US"
+    label "KBNW"
+    data "Boone Municipal Airport-US"
   ]
   node
   [
     id "KMDH"
-    label "Southern Illinois Airport-US"
+    label "KMDH"
+    data "Southern Illinois Airport-US"
   ]
   node
   [
     id "KDFI"
-    label "Defiance Memorial Airport-US"
+    label "KDFI"
+    data "Defiance Memorial Airport-US"
   ]
   node
   [
     id "KPIA"
-    label "General Downing - Peoria International Airport-US"
+    label "KPIA"
+    data "General Downing - Peoria International Airport-US"
   ]
   node
   [
     id "KINT"
-    label "Smith Reynolds Airport-US"
+    label "KINT"
+    data "Smith Reynolds Airport-US"
   ]
   node
   [
     id "KAPG"
-    label "Phillips Army Air Field-US"
+    label "KAPG"
+    data "Phillips Army Air Field-US"
   ]
   node
   [
     id "KAKR"
-    label "Akron Fulton International Airport-US"
+    label "KAKR"
+    data "Akron Fulton International Airport-US"
   ]
   node
   [
     id "KHUF"
-    label "Terre Haute Regional Airport-US"
+    label "KHUF"
+    data "Terre Haute Regional Airport-US"
   ]
   node
   [
     id "K3S8"
-    label "Grants Pass Airport-US"
+    label "K3S8"
+    data "Grants Pass Airport-US"
   ]
   node
   [
     id "KDHN"
-    label "Dothan Regional Airport-US"
+    label "KDHN"
+    data "Dothan Regional Airport-US"
   ]
   node
   [
     id "KFBG"
-    label "Simmons Army Air Field-US"
+    label "KFBG"
+    data "Simmons Army Air Field-US"
   ]
   node
   [
     id "KIGM"
-    label "Kingman Airport-US"
+    label "KIGM"
+    data "Kingman Airport-US"
   ]
   node
   [
     id "KFOE"
-    label "Topeka Regional Airport-US"
+    label "KFOE"
+    data "Topeka Regional Airport-US"
   ]
   node
   [
     id "KBHM"
-    label "Birmingham-Shuttlesworth International Airport-US"
+    label "KBHM"
+    data "Birmingham-Shuttlesworth International Airport-US"
   ]
   node
   [
     id "KABI"
-    label "Abilene Regional Airport-US"
+    label "KABI"
+    data "Abilene Regional Airport-US"
   ]
   node
   [
     id "KACT"
-    label "Waco Regional Airport-US"
+    label "KACT"
+    data "Waco Regional Airport-US"
   ]
   node
   [
     id "KADM"
-    label "Ardmore Municipal Airport-US"
+    label "KADM"
+    data "Ardmore Municipal Airport-US"
   ]
   node
   [
     id "KAPH"
-    label "A P Hill Army Air Field (Fort A P Hill) Airport-US"
+    label "KAPH"
+    data "A P Hill Army Air Field (Fort A P Hill) Airport-US"
   ]
   node
   [
     id "SABE"
-    label "Jorge Newbery Airpark-AR"
+    label "SABE"
+    data "Jorge Newbery Airpark-AR"
   ]
   node
   [
     id "KAFJ"
-    label "Washington County Airport-US"
+    label "KAFJ"
+    data "Washington County Airport-US"
   ]
   node
   [
     id "KAIO"
-    label "Atlantic Municipal Airport-US"
+    label "KAIO"
+    data "Atlantic Municipal Airport-US"
   ]
   node
   [
     id "KCID"
-    label "The Eastern Iowa Airport-US"
+    label "KCID"
+    data "The Eastern Iowa Airport-US"
   ]
   node
   [
     id "KSBN"
-    label "South Bend International Airport-US"
+    label "KSBN"
+    data "South Bend International Airport-US"
   ]
   node
   [
     id "KCDN"
-    label "Woodward Field-US"
+    label "KCDN"
+    data "Woodward Field-US"
   ]
   node
   [
     id "KBRD"
-    label "Brainerd Lakes Regional Airport-US"
+    label "KBRD"
+    data "Brainerd Lakes Regional Airport-US"
   ]
   node
   [
     id "KCYS"
-    label "Cheyenne Regional/Jerry Olson Field-US"
+    label "KCYS"
+    data "Cheyenne Regional/Jerry Olson Field-US"
   ]
   node
   [
     id "KS03"
-    label "Ashland Municipal/Sumner Parker Field-US"
+    label "KS03"
+    data "Ashland Municipal/Sumner Parker Field-US"
   ]
   node
   [
     id "KCDA"
-    label "Caledonia County Airport-US"
+    label "KCDA"
+    data "Caledonia County Airport-US"
   ]
   node
   [
     id "KAPV"
-    label "Apple Valley Airport-US"
+    label "KAPV"
+    data "Apple Valley Airport-US"
   ]
   node
   [
     id "KART"
-    label "Watertown International Airport-US"
+    label "KART"
+    data "Watertown International Airport-US"
   ]
   node
   [
     id "KAVL"
-    label "Asheville Regional Airport-US"
+    label "KAVL"
+    data "Asheville Regional Airport-US"
   ]
   node
   [
     id "KCHO"
-    label "Charlottesville-Albemarle Airport-US"
+    label "KCHO"
+    data "Charlottesville-Albemarle Airport-US"
   ]
   node
   [
     id "KFNT"
-    label "Bishop International Airport-US"
+    label "KFNT"
+    data "Bishop International Airport-US"
   ]
   node
   [
     id "KGLH"
-    label "Greenville Mid-Delta Airport-US"
+    label "KGLH"
+    data "Greenville Mid-Delta Airport-US"
   ]
   node
   [
     id "SDNY"
-    label "Aeroclube Airport-BR"
+    label "SDNY"
+    data "Aeroclube Airport-BR"
   ]
   node
   [
     id "KMBS"
-    label "Mbs International Airport-US"
+    label "KMBS"
+    data "Mbs International Airport-US"
   ]
   node
   [
     id "KAXX"
-    label "Angel Fire Airport-US"
+    label "KAXX"
+    data "Angel Fire Airport-US"
   ]
   node
   [
     id "KAVP"
-    label "Wilkes-Barre/Scranton International Airport-US"
+    label "KAVP"
+    data "Wilkes-Barre/Scranton International Airport-US"
   ]
   node
   [
     id "KAXA"
-    label "Algona Municipal Airport-US"
+    label "KAXA"
+    data "Algona Municipal Airport-US"
   ]
   node
   [
     id "LFQB"
-    label "Troyes-Barberey Airport-FR"
+    label "LFQB"
+    data "Troyes-Barberey Airport-FR"
   ]
   node
   [
     id "KOTH"
-    label "Southwest Oregon Regional Airport-US"
+    label "KOTH"
+    data "Southwest Oregon Regional Airport-US"
   ]
   node
   [
     id "WN07"
-    label "Decatur Shores Airport-US"
+    label "WN07"
+    data "Decatur Shores Airport-US"
   ]
   node
   [
     id "KBFL"
-    label "Meadows Field-US"
+    label "KBFL"
+    data "Meadows Field-US"
   ]
   node
   [
     id "KCAK"
-    label "Akron-Canton Regional Airport-US"
+    label "KCAK"
+    data "Akron-Canton Regional Airport-US"
   ]
   node
   [
     id "KELM"
-    label "Elmira/Corning Regional Airport-US"
+    label "KELM"
+    data "Elmira/Corning Regional Airport-US"
   ]
   node
   [
     id "KU70"
-    label "Cascade Airport-US"
+    label "KU70"
+    data "Cascade Airport-US"
   ]
   node
   [
     id "KJQF"
-    label "Concord-Padgett Regional Airport-US"
+    label "KJQF"
+    data "Concord-Padgett Regional Airport-US"
   ]
   node
   [
     id "KVSF"
-    label "Hartness State (Springfield) Airport-US"
+    label "KVSF"
+    data "Hartness State (Springfield) Airport-US"
   ]
   node
   [
     id "KMPV"
-    label "Edward F Knapp State Airport-US"
+    label "KMPV"
+    data "Edward F Knapp State Airport-US"
   ]
   node
   [
     id "TJSJ"
-    label "Luis Munoz Marin International Airport-US"
+    label "TJSJ"
+    data "Luis Munoz Marin International Airport-US"
   ]
   node
   [
     id "KCHA"
-    label "Lovell Field-US"
+    label "KCHA"
+    data "Lovell Field-US"
   ]
   node
   [
     id "KGRK"
-    label "Robert Gray Army Air Field-US"
+    label "KGRK"
+    data "Robert Gray Army Air Field-US"
   ]
   node
   [
     id "KDAN"
-    label "Danville Regional Airport-US"
+    label "KDAN"
+    data "Danville Regional Airport-US"
   ]
   node
   [
     id "KGSO"
-    label "Piedmont Triad International Airport-US"
+    label "KGSO"
+    data "Piedmont Triad International Airport-US"
   ]
   node
   [
     id "KLYH"
-    label "Lynchburg Regional/Preston Glenn Field-US"
+    label "KLYH"
+    data "Lynchburg Regional/Preston Glenn Field-US"
   ]
   node
   [
     id "KDSM"
-    label "Des Moines International Airport-US"
+    label "KDSM"
+    data "Des Moines International Airport-US"
   ]
   node
   [
     id "KPMD"
-    label "Palmdale Usaf Plant 42 Airport-US"
+    label "KPMD"
+    data "Palmdale Usaf Plant 42 Airport-US"
   ]
   node
   [
     id "MMES"
-    label "Ensenada Airport-MX"
+    label "MMES"
+    data "Ensenada Airport-MX"
   ]
   node
   [
     id "KCOU"
-    label "Columbia Regional Airport-US"
+    label "KCOU"
+    data "Columbia Regional Airport-US"
   ]
   node
   [
     id "KCRP"
-    label "Corpus Christi International Airport-US"
+    label "KCRP"
+    data "Corpus Christi International Airport-US"
   ]
   node
   [
     id "KLAR"
-    label "Laramie Regional Airport-US"
+    label "KLAR"
+    data "Laramie Regional Airport-US"
   ]
   node
   [
     id "KASL"
-    label "Harrison County Airport-US"
+    label "KASL"
+    data "Harrison County Airport-US"
   ]
   node
   [
     id "KBKD"
-    label "Stephens County Airport-US"
+    label "KBKD"
+    data "Stephens County Airport-US"
   ]
   node
   [
     id "KFRI"
-    label "Marshall Army Air Field-US"
+    label "KFRI"
+    data "Marshall Army Air Field-US"
   ]
   node
   [
     id "KGGG"
-    label "East Texas Regional Airport-US"
+    label "KGGG"
+    data "East Texas Regional Airport-US"
   ]
   node
   [
     id "KOSA"
-    label "Mount Pleasant Regional Airport-US"
+    label "KOSA"
+    data "Mount Pleasant Regional Airport-US"
   ]
   node
   [
     id "KSPS"
-    label "Sheppard Afb/Wichita Falls Municipal Airport-US"
+    label "KSPS"
+    data "Sheppard Afb/Wichita Falls Municipal Airport-US"
   ]
   node
   [
     id "KSUX"
-    label "Sioux Gateway/Brig General Bud Day Field-US"
+    label "KSUX"
+    data "Sioux Gateway/Brig General Bud Day Field-US"
   ]
   node
   [
     id "KIPT"
-    label "Williamsport Regional Airport-US"
+    label "KIPT"
+    data "Williamsport Regional Airport-US"
   ]
   node
   [
     id "KECG"
-    label "Elizabeth City Cg Air Station/Regional Airport-US"
+    label "KECG"
+    data "Elizabeth City Cg Air Station/Regional Airport-US"
   ]
   node
   [
     id "TJBQ"
-    label "Rafael Hernandez Airport-US"
+    label "TJBQ"
+    data "Rafael Hernandez Airport-US"
   ]
   node
   [
     id "KAXN"
-    label "Chandler Field-US"
+    label "KAXN"
+    data "Chandler Field-US"
   ]
   node
   [
     id "KFKN"
-    label "Franklin Regional Airport-US"
+    label "KFKN"
+    data "Franklin Regional Airport-US"
   ]
   node
   [
     id "KFHU"
-    label "Sierra Vista Municipal-Libby Army Air Field-US"
+    label "KFHU"
+    data "Sierra Vista Municipal-Libby Army Air Field-US"
   ]
   node
   [
     id "KTPL"
-    label "Draughon-Miller Central Texas Regional Airport-US"
+    label "KTPL"
+    data "Draughon-Miller Central Texas Regional Airport-US"
   ]
   node
   [
     id "K0B8"
-    label "Elizabeth Field-US"
+    label "K0B8"
+    data "Elizabeth Field-US"
   ]
   node
   [
     id "KMVL"
-    label "Morrisville-Stowe State Airport-US"
+    label "KMVL"
+    data "Morrisville-Stowe State Airport-US"
   ]
   node
   [
     id "KSWO"
-    label "Stillwater Regional Airport-US"
+    label "KSWO"
+    data "Stillwater Regional Airport-US"
   ]
   node
   [
     id "KADH"
-    label "Ada Regional Airport-US"
+    label "KADH"
+    data "Ada Regional Airport-US"
   ]
   node
   [
     id "MDSB"
-    label "Sabana de Mar Airport-DO"
+    label "MDSB"
+    data "Sabana de Mar Airport-DO"
   ]
   node
   [
     id "KGLS"
-    label "Scholes International At Galveston Airport-US"
+    label "KGLS"
+    data "Scholes International At Galveston Airport-US"
   ]
   node
   [
     id "KSGU"
-    label "St George Regional Airport-US"
+    label "KSGU"
+    data "St George Regional Airport-US"
   ]
   node
   [
     id "KIFP"
-    label "Laughlin/Bullhead International Airport-US"
+    label "KIFP"
+    data "Laughlin/Bullhead International Airport-US"
   ]
   node
   [
     id "KHTS"
-    label "Tri-State/Milton J Ferguson Field-US"
+    label "KHTS"
+    data "Tri-State/Milton J Ferguson Field-US"
   ]
   node
   [
     id "KMFR"
-    label "Rogue Valley International - Medford Airport-US"
+    label "KMFR"
+    data "Rogue Valley International - Medford Airport-US"
   ]
   node
   [
     id "KLIT"
-    label "Bill And Hillary Clinton Ntl/Adams Field-US"
+    label "KLIT"
+    data "Bill And Hillary Clinton Ntl/Adams Field-US"
   ]
   node
   [
     id "KILM"
-    label "Wilmington International Airport-US"
+    label "KILM"
+    data "Wilmington International Airport-US"
   ]
   node
   [
     id "MDCY"
-    label "Samana El Catey International Airport-DO"
+    label "MDCY"
+    data "Samana El Catey International Airport-DO"
   ]
   node
   [
     id "ZSFZ"
-    label "Fuzhou Changle International Airport-CN"
+    label "ZSFZ"
+    data "Fuzhou Changle International Airport-CN"
   ]
   node
   [
     id "KJLN"
-    label "Joplin Regional Airport-US"
+    label "KJLN"
+    data "Joplin Regional Airport-US"
   ]
   node
   [
     id "MGQC"
-    label "Santa Cruz del Quiche Airport-GT"
+    label "MGQC"
+    data "Santa Cruz del Quiche Airport-GT"
   ]
   node
   [
     id "NTAA"
-    label "Faa'a International Airport-PF"
+    label "NTAA"
+    data "Faa'a International Airport-PF"
   ]
   node
   [
     id "RJFR"
-    label "Kitakyushu Airport-JP"
+    label "RJFR"
+    data "Kitakyushu Airport-JP"
   ]
   node
   [
     id "K2O1"
-    label "Gansner Field-US"
+    label "K2O1"
+    data "Gansner Field-US"
   ]
   node
   [
     id "KBKT"
-    label "Allen C Perkinson Blackstone Army Air Field-US"
+    label "KBKT"
+    data "Allen C Perkinson Blackstone Army Air Field-US"
   ]
   node
   [
     id "SBVT"
-    label "Eurico de Aguiar Salles Airport-BR"
+    label "SBVT"
+    data "Eurico de Aguiar Salles Airport-BR"
   ]
   node
   [
     id "SLET"
-    label "El Trompillo Airport-BO"
+    label "SLET"
+    data "El Trompillo Airport-BO"
   ]
   node
   [
     id "SLVR"
-    label "Viru Viru International Airport-BO"
+    label "SLVR"
+    data "Viru Viru International Airport-BO"
   ]
   node
   [
     id "KMIE"
-    label "Delaware County Regional Airport-US"
+    label "KMIE"
+    data "Delaware County Regional Airport-US"
   ]
   node
   [
     id "KGUC"
-    label "Gunnison-Crested Butte Regional Airport-US"
+    label "KGUC"
+    data "Gunnison-Crested Butte Regional Airport-US"
   ]
   node
   [
     id "KMLB"
-    label "Melbourne Orlando International Airport-US"
+    label "KMLB"
+    data "Melbourne Orlando International Airport-US"
   ]
   node
   [
     id "KNDY"
-    label "Dahlgren Nsf Airport-US"
+    label "KNDY"
+    data "Dahlgren Nsf Airport-US"
   ]
   node
   [
     id "YBCG"
-    label "Gold Coast Airport-AU"
+    label "YBCG"
+    data "Gold Coast Airport-AU"
   ]
   node
   [
     id "K6S2"
-    label "Florence Municipal Airport-US"
+    label "K6S2"
+    data "Florence Municipal Airport-US"
   ]
   node
   [
     id "3IS8"
-    label "Rinkenberger Airport-US"
+    label "3IS8"
+    data "Rinkenberger Airport-US"
   ]
   node
   [
     id "KLWB"
-    label "Greenbrier Valley Airport-US"
+    label "KLWB"
+    data "Greenbrier Valley Airport-US"
   ]
   node
   [
     id "TVSC"
-    label "Canouan Airport-VC"
+    label "TVSC"
+    data "Canouan Airport-VC"
   ]
   node
   [
     id "KCAD"
-    label "Wexford County Airport-US"
+    label "KCAD"
+    data "Wexford County Airport-US"
   ]
   node
   [
     id "KUIN"
-    label "Quincy Regional-Baldwin Field-US"
+    label "KUIN"
+    data "Quincy Regional-Baldwin Field-US"
   ]
   node
   [
     id "KTVC"
-    label "Cherry Capital Airport-US"
+    label "KTVC"
+    data "Cherry Capital Airport-US"
   ]
   node
   [
     id "KCSG"
-    label "Columbus Airport-US"
+    label "KCSG"
+    data "Columbus Airport-US"
   ]
   node
   [
     id "KRHI"
-    label "Rhinelander/Oneida County Airport-US"
+    label "KRHI"
+    data "Rhinelander/Oneida County Airport-US"
   ]
   node
   [
     id "KRIC"
-    label "Richmond International Airport-US"
+    label "KRIC"
+    data "Richmond International Airport-US"
   ]
   node
   [
     id "RJOM"
-    label "Matsuyama Airport-JP"
+    label "RJOM"
+    data "Matsuyama Airport-JP"
   ]
   node
   [
     id "KS05"
-    label "Bandon State Airport-US"
+    label "KS05"
+    data "Bandon State Airport-US"
   ]
   node
   [
     id "RJOO"
-    label "Osaka International Airport-JP"
+    label "RJOO"
+    data "Osaka International Airport-JP"
   ]
   node
   [
     id "RJTA"
-    label "Atsugi Naval Air Facility-JP"
+    label "RJTA"
+    data "Atsugi Naval Air Facility-JP"
   ]
   node
   [
     id "RKSO"
-    label "Osan Air Base-KR"
+    label "RKSO"
+    data "Osan Air Base-KR"
   ]
   node
   [
     id "RKSW"
-    label "Suwon Airport-KR"
+    label "RKSW"
+    data "Suwon Airport-KR"
   ]
   node
   [
     id "KDTA"
-    label "Delta Municipal Airport-US"
+    label "KDTA"
+    data "Delta Municipal Airport-US"
   ]
   node
   [
     id "KVLD"
-    label "Valdosta Regional Airport-US"
+    label "KVLD"
+    data "Valdosta Regional Airport-US"
   ]
   node
   [
     id "SPQU"
-    label "Rodriguez Ballon International Airport-PE"
+    label "SPQU"
+    data "Rodriguez Ballon International Airport-PE"
   ]
   node
   [
     id "KZZV"
-    label "Zanesville Municipal Airport-US"
+    label "KZZV"
+    data "Zanesville Municipal Airport-US"
   ]
   node
   [
     id "LBGO"
-    label "Gorna Oryahovitsa Airport-BG"
+    label "LBGO"
+    data "Gorna Oryahovitsa Airport-BG"
   ]
   node
   [
     id "LDPL"
-    label "Pula Airport-HR"
+    label "LDPL"
+    data "Pula Airport-HR"
   ]
   node
   [
     id "LDZD"
-    label "Zemunik Airport-HR"
+    label "LDZD"
+    data "Zemunik Airport-HR"
   ]
   node
   [
     id "LJPZ"
-    label "Portoroz Airport-SI"
+    label "LJPZ"
+    data "Portoroz Airport-SI"
   ]
   node
   [
     id "LDSB"
-    label "Brac Airport-HR"
+    label "LDSB"
+    data "Brac Airport-HR"
   ]
   node
   [
     id "LJMB"
-    label "Maribor Airport-SI"
+    label "LJMB"
+    data "Maribor Airport-SI"
   ]
   node
   [
     id "LEBZ"
-    label "Badajoz Airport-ES"
+    label "LEBZ"
+    data "Badajoz Airport-ES"
   ]
   node
   [
     id "LFOP"
-    label "Rouen Airport-FR"
+    label "LFOP"
+    data "Rouen Airport-FR"
   ]
   node
   [
     id "LECN"
-    label "Castellon De La Plana Airport-ES"
+    label "LECN"
+    data "Castellon De La Plana Airport-ES"
   ]
   node
   [
     id "LERS"
-    label "Reus Air Base-ES"
+    label "LERS"
+    data "Reus Air Base-ES"
   ]
   node
   [
     id "LEBB"
-    label "Bilbao Airport-ES"
+    label "LEBB"
+    data "Bilbao Airport-ES"
   ]
   node
   [
     id "LEST"
-    label "Santiago de Compostela Airport-ES"
+    label "LEST"
+    data "Santiago de Compostela Airport-ES"
   ]
   node
   [
     id "LEVD"
-    label "Valladolid Airport-ES"
+    label "LEVD"
+    data "Valladolid Airport-ES"
   ]
   node
   [
     id "LEXJ"
-    label "Santander Airport-ES"
+    label "LEXJ"
+    data "Santander Airport-ES"
   ]
   node
   [
     id "LFEY"
-    label "Ile d'Yeu Airport-FR"
+    label "LFEY"
+    data "Ile d'Yeu Airport-FR"
   ]
   node
   [
     id "LFBG"
-    label "Cognac-Chateaubernard (BA 709) Air Base-FR"
+    label "LFBG"
+    data "Cognac-Chateaubernard (BA 709) Air Base-FR"
   ]
   node
   [
     id "LFAD"
-    label "Compiegne Margny Airport-FR"
+    label "LFAD"
+    data "Compiegne Margny Airport-FR"
   ]
   node
   [
     id "LFAF"
-    label "Laon - Chambry Airport-FR"
+    label "LFAF"
+    data "Laon - Chambry Airport-FR"
   ]
   node
   [
     id "LFAG"
-    label "Peronne-Saint-Quentin Airport-FR"
+    label "LFAG"
+    data "Peronne-Saint-Quentin Airport-FR"
   ]
   node
   [
     id "LFJR"
-    label "Angers-Loire Airport-FR"
+    label "LFJR"
+    data "Angers-Loire Airport-FR"
   ]
   node
   [
     id "LFAY"
-    label "Amiens-Glisy Airport-FR"
+    label "LFAY"
+    data "Amiens-Glisy Airport-FR"
   ]
   node
   [
     id "LFBA"
-    label "Agen-La Garenne Airport-FR"
+    label "LFBA"
+    data "Agen-La Garenne Airport-FR"
   ]
   node
   [
     id "LFBM"
-    label "Mont-de-Marsan (BA 118) Air Base-FR"
+    label "LFBM"
+    data "Mont-de-Marsan (BA 118) Air Base-FR"
   ]
   node
   [
     id "LFBN"
-    label "Niort-Souche Airport-FR"
+    label "LFBN"
+    data "Niort-Souche Airport-FR"
   ]
   node
   [
     id "LFDN"
-    label "Rochefort-Saint-Agnant (BA 721) Airport-FR"
+    label "LFDN"
+    data "Rochefort-Saint-Agnant (BA 721) Airport-FR"
   ]
   node
   [
     id "LFCK"
-    label "Castres-Mazamet Airport-FR"
+    label "LFCK"
+    data "Castres-Mazamet Airport-FR"
   ]
   node
   [
     id "LFDB"
-    label "Montauban Airport-FR"
+    label "LFDB"
+    data "Montauban Airport-FR"
   ]
   node
   [
     id "LFOU"
-    label "Cholet Le Pontreau Airport-FR"
+    label "LFOU"
+    data "Cholet Le Pontreau Airport-FR"
   ]
   node
   [
     id "LFLO"
-    label "Roanne-Renaison Airport-FR"
+    label "LFLO"
+    data "Roanne-Renaison Airport-FR"
   ]
   node
   [
     id "LFBT"
-    label "Tarbes-Lourdes-Pyrenees Airport-FR"
+    label "LFBT"
+    data "Tarbes-Lourdes-Pyrenees Airport-FR"
   ]
   node
   [
     id "LFCC"
-    label "Cahors-Lalbenque Airport-FR"
+    label "LFCC"
+    data "Cahors-Lalbenque Airport-FR"
   ]
   node
   [
     id "LFCH"
-    label "Arcachon-La Teste-de-Buch Airport-FR"
+    label "LFCH"
+    data "Arcachon-La Teste-de-Buch Airport-FR"
   ]
   node
   [
     id "LFCI"
-    label "Albi-Le Sequestre Airport-FR"
+    label "LFCI"
+    data "Albi-Le Sequestre Airport-FR"
   ]
   node
   [
     id "LFCR"
-    label "Rodez-Marcillac Airport-FR"
+    label "LFCR"
+    data "Rodez-Marcillac Airport-FR"
   ]
   node
   [
     id "LFLW"
-    label "Aurillac Airport-FR"
+    label "LFLW"
+    data "Aurillac Airport-FR"
   ]
   node
   [
     id "LFCY"
-    label "Royan-Medis Airport-FR"
+    label "LFCY"
+    data "Royan-Medis Airport-FR"
   ]
   node
   [
     id "LFOR"
-    label "Chartres Champhol Airport-FR"
+    label "LFOR"
+    data "Chartres Champhol Airport-FR"
   ]
   node
   [
     id "LFHM"
-    label "Megeve Airport-FR"
+    label "LFHM"
+    data "Megeve Airport-FR"
   ]
   node
   [
     id "LFHU"
-    label "L'alpe D'huez Airport-FR"
+    label "LFHU"
+    data "L'alpe D'huez Airport-FR"
   ]
   node
   [
     id "LFKX"
-    label "Meribel Airport-FR"
+    label "LFKX"
+    data "Meribel Airport-FR"
   ]
   node
   [
     id "LFLA"
-    label "Auxerre-Branches Airport-FR"
+    label "LFLA"
+    data "Auxerre-Branches Airport-FR"
   ]
   node
   [
     id "LFLQ"
-    label "Montelimar - Ancone Airport-FR"
+    label "LFLQ"
+    data "Montelimar - Ancone Airport-FR"
   ]
   node
   [
     id "LFMH"
-    label "Saint-Etienne-Boutheon Airport-FR"
+    label "LFMH"
+    data "Saint-Etienne-Boutheon Airport-FR"
   ]
   node
   [
     id "GMFO"
-    label "Angads Airport-MA"
+    label "GMFO"
+    data "Angads Airport-MA"
   ]
   node
   [
     id "LFMS"
-    label "Ales-Deaux Airport-FR"
+    label "LFMS"
+    data "Ales-Deaux Airport-FR"
   ]
   node
   [
     id "LFGJ"
-    label "Dole-Tavaux Airport-FR"
+    label "LFGJ"
+    data "Dole-Tavaux Airport-FR"
   ]
   node
   [
     id "LFKC"
-    label "Calvi-Sainte-Catherine Airport-FR"
+    label "LFKC"
+    data "Calvi-Sainte-Catherine Airport-FR"
   ]
   node
   [
     id "LFOD"
-    label "Saumur-Saint-Florent Airport-FR"
+    label "LFOD"
+    data "Saumur-Saint-Florent Airport-FR"
   ]
   node
   [
     id "LFOI"
-    label "Abbeville-Buigny-Saint-Maclou Airport-FR"
+    label "LFOI"
+    data "Abbeville-Buigny-Saint-Maclou Airport-FR"
   ]
   node
   [
     id "LFRO"
-    label "Lannion-Cote de Granit Airport-FR"
+    label "LFRO"
+    data "Lannion-Cote de Granit Airport-FR"
   ]
   node
   [
     id "LFHP"
-    label "Le Puy-Loudes Airport-FR"
+    label "LFHP"
+    data "Le Puy-Loudes Airport-FR"
   ]
   node
   [
     id "LFLV"
-    label "Vichy-Charmeil Airport-FR"
+    label "LFLV"
+    data "Vichy-Charmeil Airport-FR"
   ]
   node
   [
     id "LFRG"
-    label "Deauville-Saint-Gatien Airport-FR"
+    label "LFRG"
+    data "Deauville-Saint-Gatien Airport-FR"
   ]
   node
   [
     id "EGVT"
-    label "Wethersfield Airport-GB"
+    label "EGVT"
+    data "Wethersfield Airport-GB"
   ]
   node
   [
     id "LFMT"
-    label "Montpellier-Mediterranee Airport-FR"
+    label "LFMT"
+    data "Montpellier-Mediterranee Airport-FR"
   ]
   node
   [
     id "LFRV"
-    label "Vannes-Meucon Airport-FR"
+    label "LFRV"
+    data "Vannes-Meucon Airport-FR"
   ]
   node
   [
     id "LFMD"
-    label "Cannes-Mandelieu Airport-FR"
+    label "LFMD"
+    data "Cannes-Mandelieu Airport-FR"
   ]
   node
   [
     id "LFQW"
-    label "Vesoul-Frotey Airport-FR"
+    label "LFQW"
+    data "Vesoul-Frotey Airport-FR"
   ]
   node
   [
     id "LFRH"
-    label "Lorient South Brittany (Bretagne Sud) Airport-FR"
+    label "LFRH"
+    data "Lorient South Brittany (Bretagne Sud) Airport-FR"
   ]
   node
   [
     id "LFRQ"
-    label "Quimper-Cornouaille Airport-FR"
+    label "LFRQ"
+    data "Quimper-Cornouaille Airport-FR"
   ]
   node
   [
     id "LFTH"
-    label "Toulon-Hyeres Airport-FR"
+    label "LFTH"
+    data "Toulon-Hyeres Airport-FR"
   ]
   node
   [
     id "LGIO"
-    label "Ioannina Airport-GR"
+    label "LGIO"
+    data "Ioannina Airport-GR"
   ]
   node
   [
     id "LGKC"
-    label "Kithira Airport-GR"
+    label "LGKC"
+    data "Kithira Airport-GR"
   ]
   node
   [
     id "LGKO"
-    label "Kos Airport-GR"
+    label "LGKO"
+    data "Kos Airport-GR"
   ]
   node
   [
     id "LGLE"
-    label "Leros Airport-GR"
+    label "LGLE"
+    data "Leros Airport-GR"
   ]
   node
   [
     id "LGMK"
-    label "Mikonos Airport-GR"
+    label "LGMK"
+    data "Mikonos Airport-GR"
   ]
   node
   [
     id "LGNX"
-    label "Naxos Airport-GR"
+    label "LGNX"
+    data "Naxos Airport-GR"
   ]
   node
   [
     id "LGPA"
-    label "Paros Airport-GR"
+    label "LGPA"
+    data "Paros Airport-GR"
   ]
   node
   [
     id "LGRP"
-    label "Diagoras Airport-GR"
+    label "LGRP"
+    data "Diagoras Airport-GR"
   ]
   node
   [
     id "LGSM"
-    label "Samos Airport-GR"
+    label "LGSM"
+    data "Samos Airport-GR"
   ]
   node
   [
     id "LGSO"
-    label "Syros Airport-GR"
+    label "LGSO"
+    data "Syros Airport-GR"
   ]
   node
   [
     id "LGSR"
-    label "Santorini Airport-GR"
+    label "LGSR"
+    data "Santorini Airport-GR"
   ]
   node
   [
     id "LGSY"
-    label "Skiros Airport-GR"
+    label "LGSY"
+    data "Skiros Airport-GR"
   ]
   node
   [
     id "LGML"
-    label "Milos Airport-GR"
+    label "LGML"
+    data "Milos Airport-GR"
   ]
   node
   [
     id "YBAF"
-    label "Brisbane Archerfield Airport-AU"
+    label "YBAF"
+    data "Brisbane Archerfield Airport-AU"
   ]
   node
   [
     id "LHSM"
-    label "Sarmellek International Airport-HU"
+    label "LHSM"
+    data "Sarmellek International Airport-HU"
   ]
   node
   [
     id "LIPK"
-    label "Forli Airport-IT"
+    label "LIPK"
+    data "Forli Airport-IT"
   ]
   node
   [
     id "LIBF"
-    label "Foggia / Gino Lisa Airport-IT"
+    label "LIBF"
+    data "Foggia / Gino Lisa Airport-IT"
   ]
   node
   [
     id "LIBG"
-    label "Taranto / Grottaglie Airport-IT"
+    label "LIBG"
+    data "Taranto / Grottaglie Airport-IT"
   ]
   node
   [
     id "LIQS"
-    label "Siena / Ampugnano Airport-IT"
+    label "LIQS"
+    data "Siena / Ampugnano Airport-IT"
   ]
   node
   [
     id "LIDB"
-    label "Belluno Airport-IT"
+    label "LIDB"
+    data "Belluno Airport-IT"
   ]
   node
   [
     id "LIDR"
-    label "Ravenna Airport-IT"
+    label "LIDR"
+    data "Ravenna Airport-IT"
   ]
   node
   [
     id "LTBQ"
-    label "Cengiz Topel Airport-TR"
+    label "LTBQ"
+    data "Cengiz Topel Airport-TR"
   ]
   node
   [
     id "LICR"
-    label "Reggio Calabria Airport-IT"
+    label "LICR"
+    data "Reggio Calabria Airport-IT"
   ]
   node
   [
     id "LKKV"
-    label "Karlovy Vary International Airport-CZ"
+    label "LKKV"
+    data "Karlovy Vary International Airport-CZ"
   ]
   node
   [
     id "LKKU"
-    label "Kunovice Airport-CZ"
+    label "LKKU"
+    data "Kunovice Airport-CZ"
   ]
   node
   [
     id "LZSL"
-    label "Sliac Airport-SK"
+    label "LZSL"
+    data "Sliac Airport-SK"
   ]
   node
   [
     id "UWWW"
-    label "Kurumoch International Airport-RU"
+    label "UWWW"
+    data "Kurumoch International Airport-RU"
   ]
   node
   [
     id "LKZA"
-    label "Zabreh Ostrava Airport-CZ"
+    label "LKZA"
+    data "Zabreh Ostrava Airport-CZ"
   ]
   node
   [
     id "UTTT"
-    label "Tashkent International Airport-UZ"
+    label "UTTT"
+    data "Tashkent International Airport-UZ"
   ]
   node
   [
     id "LLHA"
-    label "Haifa International Airport-IL"
+    label "LLHA"
+    data "Haifa International Airport-IL"
   ]
   node
   [
     id "LOIH"
-    label "Hohenems-Dornbirn Airport-AT"
+    label "LOIH"
+    data "Hohenems-Dornbirn Airport-AT"
   ]
   node
   [
     id "EYSB"
-    label "Barysiai Airport-LT"
+    label "EYSB"
+    data "Barysiai Airport-LT"
   ]
   node
   [
     id "GMMX"
-    label "Menara Airport-MA"
+    label "GMMX"
+    data "Menara Airport-MA"
   ]
   node
   [
     id "LYVA"
-    label "Divci Airport-RS"
+    label "LYVA"
+    data "Divci Airport-RS"
   ]
   node
   [
     id "UWUU"
-    label "Ufa International Airport-RU"
+    label "UWUU"
+    data "Ufa International Airport-RU"
   ]
   node
   [
     id "LPBR"
-    label "Braga Municipal Aerodrome-PT"
+    label "LPBR"
+    data "Braga Municipal Aerodrome-PT"
   ]
   node
   [
     id "LPPM"
-    label "Portimao Airport-PT"
+    label "LPPM"
+    data "Portimao Airport-PT"
   ]
   node
   [
     id "LPCO"
-    label "Coimbra Airport-PT"
+    label "LPCO"
+    data "Coimbra Airport-PT"
   ]
   node
   [
     id "LFDS"
-    label "Sarlat Domme Airport-FR"
+    label "LFDS"
+    data "Sarlat Domme Airport-FR"
   ]
   node
   [
     id "LFBP"
-    label "Pau Pyrenees Airport-FR"
+    label "LFBP"
+    data "Pau Pyrenees Airport-FR"
   ]
   node
   [
     id "SBCO"
-    label "Canoas Airport-BR"
+    label "SBCO"
+    data "Canoas Airport-BR"
   ]
   node
   [
     id "LSGN"
-    label "Neuchatel Airport-CH"
+    label "LSGN"
+    data "Neuchatel Airport-CH"
   ]
   node
   [
     id "LFLJ"
-    label "Courchevel Airport-FR"
+    label "LFLJ"
+    data "Courchevel Airport-FR"
   ]
   node
   [
     id "WMSA"
-    label "Sultan Abdul Aziz Shah International Airport-MY"
+    label "WMSA"
+    data "Sultan Abdul Aziz Shah International Airport-MY"
   ]
   node
   [
     id "LTBR"
-    label "Bursa Yenisehir Airport-TR"
+    label "LTBR"
+    data "Bursa Yenisehir Airport-TR"
   ]
   node
   [
     id "LTCF"
-    label "Kars Airport-TR"
+    label "LTCF"
+    data "Kars Airport-TR"
   ]
   node
   [
     id "LTCO"
-    label "Agri Airport-TR"
+    label "LTCO"
+    data "Agri Airport-TR"
   ]
   node
   [
     id "LTFE"
-    label "Milas Bodrum International Airport-TR"
+    label "LTFE"
+    data "Milas Bodrum International Airport-TR"
   ]
   node
   [
     id "LTBS"
-    label "Dalaman International Airport-TR"
+    label "LTBS"
+    data "Dalaman International Airport-TR"
   ]
   node
   [
     id "UAAR"
-    label "Boralday Airport-KZ"
+    label "UAAR"
+    data "Boralday Airport-KZ"
   ]
   node
   [
     id "LTBI"
-    label "Eskisehir Air Base-TR"
+    label "LTBI"
+    data "Eskisehir Air Base-TR"
   ]
   node
   [
     id "LTBV"
-    label "Imsik Airport-TR"
+    label "LTBV"
+    data "Imsik Airport-TR"
   ]
   node
   [
     id "LZPP"
-    label "Piestany Airport-SK"
+    label "LZPP"
+    data "Piestany Airport-SK"
   ]
   node
   [
     id "LZZI"
-    label "Zilina Airport-SK"
+    label "LZZI"
+    data "Zilina Airport-SK"
   ]
   node
   [
     id "MRGP"
-    label "Guapiles Airport-CR"
+    label "MRGP"
+    data "Guapiles Airport-CR"
   ]
   node
   [
     id "NTGC"
-    label "Tikehau Airport-PF"
+    label "NTGC"
+    data "Tikehau Airport-PF"
   ]
   node
   [
     id "NTGK"
-    label "Kaukura Airport-PF"
+    label "NTGK"
+    data "Kaukura Airport-PF"
   ]
   node
   [
     id "NTGV"
-    label "Mataiva Airport-PF"
+    label "NTGV"
+    data "Mataiva Airport-PF"
   ]
   node
   [
     id "NTTE"
-    label "Tetiaroa Airport-PF"
+    label "NTTE"
+    data "Tetiaroa Airport-PF"
   ]
   node
   [
     id "NTTG"
-    label "Rangiroa Airport-PF"
+    label "NTTG"
+    data "Rangiroa Airport-PF"
   ]
   node
   [
     id "NTTH"
-    label "Huahine-Fare Airport-PF"
+    label "NTTH"
+    data "Huahine-Fare Airport-PF"
   ]
   node
   [
     id "NTTM"
-    label "Moorea Airport-PF"
+    label "NTTM"
+    data "Moorea Airport-PF"
   ]
   node
   [
     id "NZAP"
-    label "Taupo Airport-NZ"
+    label "NZAP"
+    data "Taupo Airport-NZ"
   ]
   node
   [
     id "NZAR"
-    label "Ardmore Airport-NZ"
+    label "NZAR"
+    data "Ardmore Airport-NZ"
   ]
   node
   [
     id "NZCH"
-    label "Christchurch International Airport-NZ"
+    label "NZCH"
+    data "Christchurch International Airport-NZ"
   ]
   node
   [
     id "NZCX"
-    label "Coromandel Aerodrome-NZ"
+    label "NZCX"
+    data "Coromandel Aerodrome-NZ"
   ]
   node
   [
     id "NZDA"
-    label "Dargaville Aerodrome-NZ"
+    label "NZDA"
+    data "Dargaville Aerodrome-NZ"
   ]
   node
   [
     id "NZDN"
-    label "Dunedin Airport-NZ"
+    label "NZDN"
+    data "Dunedin Airport-NZ"
   ]
   node
   [
     id "NZGB"
-    label "Great Barrier Aerodrome-NZ"
+    label "NZGB"
+    data "Great Barrier Aerodrome-NZ"
   ]
   node
   [
     id "NZKE"
-    label "Waiheke Reeve Airport-NZ"
+    label "NZKE"
+    data "Waiheke Reeve Airport-NZ"
   ]
   node
   [
     id "NZKO"
-    label "Kaikohe Airport-NZ"
+    label "NZKO"
+    data "Kaikohe Airport-NZ"
   ]
   node
   [
     id "NZNV"
-    label "Invercargill Airport-NZ"
+    label "NZNV"
+    data "Invercargill Airport-NZ"
   ]
   node
   [
     id "NZRO"
-    label "Rotorua Regional Airport-NZ"
+    label "NZRO"
+    data "Rotorua Regional Airport-NZ"
   ]
   node
   [
     id "NZTG"
-    label "Tauranga Airport-NZ"
+    label "NZTG"
+    data "Tauranga Airport-NZ"
   ]
   node
   [
     id "NZTO"
-    label "Tokoroa Airfield-NZ"
+    label "NZTO"
+    data "Tokoroa Airfield-NZ"
   ]
   node
   [
     id "NZWK"
-    label "Whakatane Airport-NZ"
+    label "NZWK"
+    data "Whakatane Airport-NZ"
   ]
   node
   [
     id "NZWN"
-    label "Wellington International Airport-NZ"
+    label "NZWN"
+    data "Wellington International Airport-NZ"
   ]
   node
   [
     id "NZWR"
-    label "Whangarei Airport-NZ"
+    label "NZWR"
+    data "Whangarei Airport-NZ"
   ]
   node
   [
     id "YMEN"
-    label "Melbourne Essendon Airport-AU"
+    label "YMEN"
+    data "Melbourne Essendon Airport-AU"
   ]
   node
   [
     id "YMND"
-    label "Maitland Airport-AU"
+    label "YMND"
+    data "Maitland Airport-AU"
   ]
   node
   [
     id "YPAD"
-    label "Adelaide International Airport-AU"
+    label "YPAD"
+    data "Adelaide International Airport-AU"
   ]
   node
   [
     id "YSCB"
-    label "Canberra International Airport-AU"
+    label "YSCB"
+    data "Canberra International Airport-AU"
   ]
   node
   [
     id "YSPT"
-    label "Southport Airport-AU"
+    label "YSPT"
+    data "Southport Airport-AU"
   ]
   node
   [
     id "YWLM"
-    label "Newcastle Airport-AU"
+    label "YWLM"
+    data "Newcastle Airport-AU"
   ]
   node
   [
     id "NZMS"
-    label "Hood Airport-NZ"
+    label "NZMS"
+    data "Hood Airport-NZ"
   ]
   node
   [
     id "NZPP"
-    label "Paraparaumu Airport-NZ"
+    label "NZPP"
+    data "Paraparaumu Airport-NZ"
   ]
   node
   [
     id "NZHN"
-    label "Hamilton International Airport-NZ"
+    label "NZHN"
+    data "Hamilton International Airport-NZ"
   ]
   node
   [
     id "NZMA"
-    label "Matamata Glider Airport-NZ"
+    label "NZMA"
+    data "Matamata Glider Airport-NZ"
   ]
   node
   [
     id "NZRA"
-    label "Raglan Airfield-NZ"
+    label "NZRA"
+    data "Raglan Airfield-NZ"
   ]
   node
   [
     id "NZTS"
-    label "Taharoa Aerodrome-NZ"
+    label "NZTS"
+    data "Taharoa Aerodrome-NZ"
   ]
   node
   [
     id "NZWT"
-    label "Whitianga Airport-NZ"
+    label "NZWT"
+    data "Whitianga Airport-NZ"
   ]
   node
   [
     id "NZAS"
-    label "Ashburton Aerodrome-NZ"
+    label "NZAS"
+    data "Ashburton Aerodrome-NZ"
   ]
   node
   [
     id "NZTU"
-    label "Timaru Airport-NZ"
+    label "NZTU"
+    data "Timaru Airport-NZ"
   ]
   node
   [
     id "NZKI"
-    label "Kaikoura Airport-NZ"
+    label "NZKI"
+    data "Kaikoura Airport-NZ"
   ]
   node
   [
     id "NZOU"
-    label "Oamaru Airport-NZ"
+    label "NZOU"
+    data "Oamaru Airport-NZ"
   ]
   node
   [
     id "NZUK"
-    label "Pukaki Airport-NZ"
+    label "NZUK"
+    data "Pukaki Airport-NZ"
   ]
   node
   [
     id "NZRC"
-    label "Ryans Creek Aerodrome-NZ"
+    label "NZRC"
+    data "Ryans Creek Aerodrome-NZ"
   ]
   node
   [
     id "OPMT"
-    label "Multan International Airport-PK"
+    label "OPMT"
+    data "Multan International Airport-PK"
   ]
   node
   [
     id "VOTV"
-    label "Trivandrum International Airport-IN"
+    label "VOTV"
+    data "Trivandrum International Airport-IN"
   ]
   node
   [
     id "OEPS"
-    label "Prince Sultan Air Base-SA"
+    label "OEPS"
+    data "Prince Sultan Air Base-SA"
   ]
   node
   [
     id "OMAL"
-    label "Al Ain International Airport-AE"
+    label "OMAL"
+    data "Al Ain International Airport-AE"
   ]
   node
   [
     id "OIBA"
-    label "Abumusa Island Airport-IR"
+    label "OIBA"
+    data "Abumusa Island Airport-IR"
   ]
   node
   [
     id "OIKB"
-    label "Bandar Abbas International Airport-IR"
+    label "OIKB"
+    data "Bandar Abbas International Airport-IR"
   ]
   node
   [
     id "OIKP"
-    label "Havadarya Airport-IR"
+    label "OIKP"
+    data "Havadarya Airport-IR"
   ]
   node
   [
     id "OIBK"
-    label "Kish International Airport-IR"
+    label "OIBK"
+    data "Kish International Airport-IR"
   ]
   node
   [
     id "OIBS"
-    label "Sirri Island Airport-IR"
+    label "OIBS"
+    data "Sirri Island Airport-IR"
   ]
   node
   [
     id "OMFJ"
-    label "Fujairah International Airport-AE"
+    label "OMFJ"
+    data "Fujairah International Airport-AE"
   ]
   node
   [
     id "OISL"
-    label "Lar Airport-IR"
+    label "OISL"
+    data "Lar Airport-IR"
   ]
   node
   [
     id "OPBW"
-    label "Bahawalpur Airport-PK"
+    label "OPBW"
+    data "Bahawalpur Airport-PK"
   ]
   node
   [
     id "UUYY"
-    label "Syktyvkar Airport-RU"
+    label "UUYY"
+    data "Syktyvkar Airport-RU"
   ]
   node
   [
     id "UAII"
-    label "Shymkent Airport-KZ"
+    label "UAII"
+    data "Shymkent Airport-KZ"
   ]
   node
   [
     id "OKBK"
-    label "Kuwait International Airport-KW"
+    label "OKBK"
+    data "Kuwait International Airport-KW"
   ]
   node
   [
     id "PADK"
-    label "Adak Airport-US"
+    label "PADK"
+    data "Adak Airport-US"
   ]
   node
   [
     id "RJOI"
-    label "Iwakuni Marine Corps Air Station-JP"
+    label "RJOI"
+    data "Iwakuni Marine Corps Air Station-JP"
   ]
   node
   [
     id "PAWD"
-    label "Seward Airport-US"
+    label "PAWD"
+    data "Seward Airport-US"
   ]
   node
   [
     id "RCBS"
-    label "Kinmen Airport-TW"
+    label "RCBS"
+    data "Kinmen Airport-TW"
   ]
   node
   [
     id "RCKU"
-    label "Chiayi Airport-TW"
+    label "RCKU"
+    data "Chiayi Airport-TW"
   ]
   node
   [
     id "RCLG"
-    label "Taichung Airport-TW"
+    label "RCLG"
+    data "Taichung Airport-TW"
   ]
   node
   [
     id "RCNN"
-    label "Tainan Airport-TW"
+    label "RCNN"
+    data "Tainan Airport-TW"
   ]
   node
   [
     id "RCQC"
-    label "Makung Airport-TW"
+    label "RCQC"
+    data "Makung Airport-TW"
   ]
   node
   [
     id "RCWA"
-    label "Wang-an Airport-TW"
+    label "RCWA"
+    data "Wang-an Airport-TW"
   ]
   node
   [
     id "RCYU"
-    label "Hualien Airport-TW"
+    label "RCYU"
+    data "Hualien Airport-TW"
   ]
   node
   [
     id "RJBE"
-    label "Kobe Airport-JP"
+    label "RJBE"
+    data "Kobe Airport-JP"
   ]
   node
   [
     id "RJFF"
-    label "Fukuoka Airport-JP"
+    label "RJFF"
+    data "Fukuoka Airport-JP"
   ]
   node
   [
     id "WBKK"
-    label "Kota Kinabalu International Airport-MY"
+    label "WBKK"
+    data "Kota Kinabalu International Airport-MY"
   ]
   node
   [
     id "RCMQ"
-    label "Taichung Ching Chuang Kang Airport-TW"
+    label "RCMQ"
+    data "Taichung Ching Chuang Kang Airport-TW"
   ]
   node
   [
     id "RCFG"
-    label "Matsu Nangan Airport-TW"
+    label "RCFG"
+    data "Matsu Nangan Airport-TW"
   ]
   node
   [
     id "RCFN"
-    label "Taitung Airport-TW"
+    label "RCFN"
+    data "Taitung Airport-TW"
   ]
   node
   [
     id "WIHH"
-    label "Halim Perdanakusuma International Airport-ID"
+    label "WIHH"
+    data "Halim Perdanakusuma International Airport-ID"
   ]
   node
   [
     id "RJAH"
-    label "Hyakuri Airport-JP"
+    label "RJAH"
+    data "Hyakuri Airport-JP"
   ]
   node
   [
     id "RJDC"
-    label "Yamaguchi Ube Airport-JP"
+    label "RJDC"
+    data "Yamaguchi Ube Airport-JP"
   ]
   node
   [
     id "RJOA"
-    label "Hiroshima Airport-JP"
+    label "RJOA"
+    data "Hiroshima Airport-JP"
   ]
   node
   [
     id "RJOB"
-    label "Okayama Airport-JP"
+    label "RJOB"
+    data "Okayama Airport-JP"
   ]
   node
   [
     id "RJOT"
-    label "Takamatsu Airport-JP"
+    label "RJOT"
+    data "Takamatsu Airport-JP"
   ]
   node
   [
     id "RKTU"
-    label "Cheongju International Airport-KR"
+    label "RKTU"
+    data "Cheongju International Airport-KR"
   ]
   node
   [
     id "WIDD"
-    label "Hang Nadim Airport-ID"
+    label "WIDD"
+    data "Hang Nadim Airport-ID"
   ]
   node
   [
     id "WSAP"
-    label "Paya Lebar Air Base-SG"
+    label "WSAP"
+    data "Paya Lebar Air Base-SG"
   ]
   node
   [
     id "YBCS"
-    label "Cairns International Airport-AU"
+    label "YBCS"
+    data "Cairns International Airport-AU"
   ]
   node
   [
     id "RJBD"
-    label "Nanki Shirahama Airport-JP"
+    label "RJBD"
+    data "Nanki Shirahama Airport-JP"
   ]
   node
   [
     id "RJBT"
-    label "Tajima Airport-JP"
+    label "RJBT"
+    data "Tajima Airport-JP"
   ]
   node
   [
     id "RJOS"
-    label "Tokushima Airport-JP"
+    label "RJOS"
+    data "Tokushima Airport-JP"
   ]
   node
   [
     id "RJTO"
-    label "Oshima Airport-JP"
+    label "RJTO"
+    data "Oshima Airport-JP"
   ]
   node
   [
     id "RJTH"
-    label "Hachijojima Airport-JP"
+    label "RJTH"
+    data "Hachijojima Airport-JP"
   ]
   node
   [
     id "RJTY"
-    label "Yokota Air Base-JP"
+    label "RJTY"
+    data "Yokota Air Base-JP"
   ]
   node
   [
     id "RJBH"
-    label "Hiroshimanishi Airport-JP"
+    label "RJBH"
+    data "Hiroshimanishi Airport-JP"
   ]
   node
   [
     id "RJFS"
-    label "Saga Airport-JP"
+    label "RJFS"
+    data "Saga Airport-JP"
   ]
   node
   [
     id "RKSM"
-    label "Seoul Air Base-KR"
+    label "RKSM"
+    data "Seoul Air Base-KR"
   ]
   node
   [
     id "WMKJ"
-    label "Senai International Airport-MY"
+    label "WMKJ"
+    data "Senai International Airport-MY"
   ]
   node
   [
     id "ZGSD"
-    label "Zhuhai Airport-CN"
+    label "ZGSD"
+    data "Zhuhai Airport-CN"
   ]
   node
   [
     id "RPLB"
-    label "Subic Bay International Airport-PH"
+    label "RPLB"
+    data "Subic Bay International Airport-PH"
   ]
   node
   [
     id "RPUB"
-    label "Loakan Airport-PH"
+    label "RPUB"
+    data "Loakan Airport-PH"
   ]
   node
   [
     id "RPUO"
-    label "Basco Airport-PH"
+    label "RPUO"
+    data "Basco Airport-PH"
   ]
   node
   [
     id "SAAP"
-    label "General Urquiza Airport-AR"
+    label "SAAP"
+    data "General Urquiza Airport-AR"
   ]
   node
   [
     id "SAAV"
-    label "Sauce Viejo Airport-AR"
+    label "SAAV"
+    data "Sauce Viejo Airport-AR"
   ]
   node
   [
     id "SADP"
-    label "El Palomar Airport-AR"
+    label "SADP"
+    data "El Palomar Airport-AR"
   ]
   node
   [
     id "SUCA"
-    label "Laguna de Los Patos International Airport-UY"
+    label "SUCA"
+    data "Laguna de Los Patos International Airport-UY"
   ]
   node
   [
     id "SUCM"
-    label "Carmelo International Airport-UY"
+    label "SUCM"
+    data "Carmelo International Airport-UY"
   ]
   node
   [
     id "SADL"
-    label "La Plata Airport-AR"
+    label "SADL"
+    data "La Plata Airport-AR"
   ]
   node
   [
     id "SBAQ"
-    label "Araraquara Airport-BR"
+    label "SBAQ"
+    data "Araraquara Airport-BR"
   ]
   node
   [
     id "SDPW"
-    label "Piracicaba Airport-BR"
+    label "SDPW"
+    data "Piracicaba Airport-BR"
   ]
   node
   [
     id "SBBG"
-    label "Comandante Gustavo Kraemer Airport-BR"
+    label "SBBG"
+    data "Comandante Gustavo Kraemer Airport-BR"
   ]
   node
   [
     id "SUMO"
-    label "Cerro Largo International Airport-UY"
+    label "SUMO"
+    data "Cerro Largo International Airport-UY"
   ]
   node
   [
     id "SBBH"
-    label "Pampulha - Carlos Drummond de Andrade Airport-BR"
+    label "SBBH"
+    data "Pampulha - Carlos Drummond de Andrade Airport-BR"
   ]
   node
   [
     id "SBBP"
-    label "Aeroporto Estadual Arthur Siqueira Airport-BR"
+    label "SBBP"
+    data "Aeroporto Estadual Arthur Siqueira Airport-BR"
   ]
   node
   [
     id "SBCF"
-    label "Tancredo Neves International Airport-BR"
+    label "SBCF"
+    data "Tancredo Neves International Airport-BR"
   ]
   node
   [
     id "SBPA"
-    label "Salgado Filho Airport-BR"
+    label "SBPA"
+    data "Salgado Filho Airport-BR"
   ]
   node
   [
     id "SBYS"
-    label "Campo Fontenelle Airport-BR"
+    label "SBYS"
+    data "Campo Fontenelle Airport-BR"
   ]
   node
   [
     id "SDAM"
-    label "Amarais Airport-BR"
+    label "SDAM"
+    data "Amarais Airport-BR"
   ]
   node
   [
     id "SDCO"
-    label "Sorocaba Airport-BR"
+    label "SDCO"
+    data "Sorocaba Airport-BR"
   ]
   node
   [
     id "SBBU"
-    label "Bauru Airport-BR"
+    label "SBBU"
+    data "Bauru Airport-BR"
   ]
   node
   [
     id "SBCX"
-    label "Campo dos Bugres Airport-BR"
+    label "SBCX"
+    data "Campo dos Bugres Airport-BR"
   ]
   node
   [
     id "SBNF"
-    label "Ministro Victor Konder International Airport-BR"
+    label "SBNF"
+    data "Ministro Victor Konder International Airport-BR"
   ]
   node
   [
     id "SBST"
-    label "Base Aerea de Santos Airport-BR"
+    label "SBST"
+    data "Base Aerea de Santos Airport-BR"
   ]
   node
   [
     id "SSBG"
-    label "Aeroclube de Bento Goncalves Airport-BR"
+    label "SSBG"
+    data "Aeroclube de Bento Goncalves Airport-BR"
   ]
   node
   [
     id "SSRU"
-    label "Sao Lourenco do Sul Airport-BR"
+    label "SSRU"
+    data "Sao Lourenco do Sul Airport-BR"
   ]
   node
   [
     id "SSSC"
-    label "Santa Cruz do Sul Airport-BR"
+    label "SSSC"
+    data "Santa Cruz do Sul Airport-BR"
   ]
   node
   [
     id "SSNH"
-    label "Novo Hamburgo Airport-BR"
+    label "SSNH"
+    data "Novo Hamburgo Airport-BR"
   ]
   node
   [
     id "SBRF"
-    label "Guararapes - Gilberto Freyre International Airport-BR"
+    label "SBRF"
+    data "Guararapes - Gilberto Freyre International Airport-BR"
   ]
   node
   [
     id "SBTA"
-    label "Base de Aviacao de Taubate Airport-BR"
+    label "SBTA"
+    data "Base de Aviacao de Taubate Airport-BR"
   ]
   node
   [
     id "SDLP"
-    label "Lencois Paulista Airport-BR"
+    label "SDLP"
+    data "Lencois Paulista Airport-BR"
   ]
   node
   [
     id "SDSC"
-    label "Sao Carlos Airport-BR"
+    label "SDSC"
+    data "Sao Carlos Airport-BR"
   ]
   node
   [
     id "SWNS"
-    label "Anapolis Airport-BR"
+    label "SWNS"
+    data "Anapolis Airport-BR"
   ]
   node
   [
     id "SSCN"
-    label "Canela Airport-BR"
+    label "SSCN"
+    data "Canela Airport-BR"
   ]
   node
   [
     id "SBKG"
-    label "Presidente Joao Suassuna Airport-BR"
+    label "SBKG"
+    data "Presidente Joao Suassuna Airport-BR"
   ]
   node
   [
     id "SBRP"
-    label "Leite Lopes Airport-BR"
+    label "SBRP"
+    data "Leite Lopes Airport-BR"
   ]
   node
   [
     id "SDBK"
-    label "Botucatu Airport-BR"
+    label "SDBK"
+    data "Botucatu Airport-BR"
   ]
   node
   [
     id "SDYM"
-    label "Limeira Airport-BR"
+    label "SDYM"
+    data "Limeira Airport-BR"
   ]
   node
   [
     id "SNOS"
-    label "Municipal Jose Figueiredo Airport-BR"
+    label "SNOS"
+    data "Municipal Jose Figueiredo Airport-BR"
   ]
   node
   [
     id "SNZA"
-    label "Pouso Alegre Airport-BR"
+    label "SNZA"
+    data "Pouso Alegre Airport-BR"
   ]
   node
   [
     id "SJRG"
-    label "Rio Grande Airport-BR"
+    label "SJRG"
+    data "Rio Grande Airport-BR"
   ]
   node
   [
     id "SSKS"
-    label "Cachoeira do Sul Airport-BR"
+    label "SSKS"
+    data "Cachoeira do Sul Airport-BR"
   ]
   node
   [
     id "SBJF"
-    label "Francisco de Assis Airport-BR"
+    label "SBJF"
+    data "Francisco de Assis Airport-BR"
   ]
   node
   [
     id "SBVG"
-    label "Major Brigadeiro Trompowsky Airport-BR"
+    label "SBVG"
+    data "Major Brigadeiro Trompowsky Airport-BR"
   ]
   node
   [
     id "SBGW"
-    label "Guaratingueta Airport-BR"
+    label "SBGW"
+    data "Guaratingueta Airport-BR"
   ]
   node
   [
     id "SIMK"
-    label "Franca Airport-BR"
+    label "SIMK"
+    data "Franca Airport-BR"
   ]
   node
   [
     id "SNDV"
-    label "Divinopolis Airport-BR"
+    label "SNDV"
+    data "Divinopolis Airport-BR"
   ]
   node
   [
     id "SNGA"
-    label "Guarapari Airport-BR"
+    label "SNGA"
+    data "Guarapari Airport-BR"
   ]
   node
   [
     id "SDUB"
-    label "Ubatuba Airport-BR"
+    label "SDUB"
+    data "Ubatuba Airport-BR"
   ]
   node
   [
     id "SNLO"
-    label "Sao Lourenco Airport-BR"
+    label "SNLO"
+    data "Sao Lourenco Airport-BR"
   ]
   node
   [
     id "SDRK"
-    label "Rio Claro Airport-BR"
+    label "SDRK"
+    data "Rio Claro Airport-BR"
   ]
   node
   [
     id "SNVI"
-    label "Melio Viana Airport-BR"
+    label "SNVI"
+    data "Melio Viana Airport-BR"
   ]
   node
   [
     id "SNRU"
-    label "Caruaru Airport-BR"
+    label "SNRU"
+    data "Caruaru Airport-BR"
   ]
   node
   [
     id "SPRU"
-    label "Capitan FAP Carlos Martinez De Pinillos International Airport-PE"
+    label "SPRU"
+    data "Capitan FAP Carlos Martinez De Pinillos International Airport-PE"
   ]
   node
   [
     id "SPST"
-    label "Cadete FAP Guillermo Del Castillo Paredes Airport-PE"
+    label "SPST"
+    data "Cadete FAP Guillermo Del Castillo Paredes Airport-PE"
   ]
   node
   [
     id "SPMR"
-    label "Santa Maria Airport-PE"
+    label "SPMR"
+    data "Santa Maria Airport-PE"
   ]
   node
   [
     id "SPBB"
-    label "Moyobamba Airport-PE"
+    label "SPBB"
+    data "Moyobamba Airport-PE"
   ]
   node
   [
     id "SSNG"
-    label "Montenegro Airport-BR"
+    label "SSNG"
+    data "Montenegro Airport-BR"
   ]
   node
   [
     id "SVCB"
-    label "Ciudad Bolivar Airport-VE"
+    label "SVCB"
+    data "Ciudad Bolivar Airport-VE"
   ]
   node
   [
     id "SVPR"
-    label "General Manuel Carlos Piar International Airport-VE"
+    label "SVPR"
+    data "General Manuel Carlos Piar International Airport-VE"
   ]
   node
   [
     id "SVTC"
-    label "Tucupita Airport-VE"
+    label "SVTC"
+    data "Tucupita Airport-VE"
   ]
   node
   [
     id "TGPY"
-    label "Point Salines International Airport-GD"
+    label "TGPY"
+    data "Point Salines International Airport-GD"
   ]
   node
   [
     id "TGPZ"
-    label "Lauriston Airport-GD"
+    label "TGPZ"
+    data "Lauriston Airport-GD"
   ]
   node
   [
     id "TTPP"
-    label "Piarco International Airport-TT"
+    label "TTPP"
+    data "Piarco International Airport-TT"
   ]
   node
   [
     id "TVSU"
-    label "Union Island International Airport-VC"
+    label "TVSU"
+    data "Union Island International Airport-VC"
   ]
   node
   [
     id "KFSI"
-    label "Henry Post Army Air Field (Fort Sill) Airport-US"
+    label "KFSI"
+    data "Henry Post Army Air Field (Fort Sill) Airport-US"
   ]
   node
   [
     id "UCFM"
-    label "Manas International Airport-KG"
+    label "UCFM"
+    data "Manas International Airport-KG"
   ]
   node
   [
     id "UHBB"
-    label "Ignatyevo Airport-RU"
+    label "UHBB"
+    data "Ignatyevo Airport-RU"
   ]
   node
   [
     id "UKKV"
-    label "Zhytomyr Airport-UA"
+    label "UKKV"
+    data "Zhytomyr Airport-UA"
   ]
   node
   [
     id "ULMM"
-    label "Murmansk Airport-RU"
+    label "ULMM"
+    data "Murmansk Airport-RU"
   ]
   node
   [
     id "URWA"
-    label "Astrakhan Airport-RU"
+    label "URWA"
+    data "Astrakhan Airport-RU"
   ]
   node
   [
     id "UWKS"
-    label "Cheboksary Airport-RU"
+    label "UWKS"
+    data "Cheboksary Airport-RU"
   ]
   node
   [
     id "UWLL"
-    label "Ulyanovsk Baratayevka Airport-RU"
+    label "UWLL"
+    data "Ulyanovsk Baratayevka Airport-RU"
   ]
   node
   [
     id "ULOO"
-    label "Pskov Airport-RU"
+    label "ULOO"
+    data "Pskov Airport-RU"
   ]
   node
   [
     id "URML"
-    label "Uytash Airport-RU"
+    label "URML"
+    data "Uytash Airport-RU"
   ]
   node
   [
     id "UUBA"
-    label "Kostroma Sokerkino Airport-RU"
+    label "UUBA"
+    data "Kostroma Sokerkino Airport-RU"
   ]
   node
   [
     id "UUBI"
-    label "Ivanovo South Airport-RU"
+    label "UUBI"
+    data "Ivanovo South Airport-RU"
   ]
   node
   [
     id "UNWW"
-    label "Spichenkovo Airport-RU"
+    label "UNWW"
+    data "Spichenkovo Airport-RU"
   ]
   node
   [
     id "UUYS"
-    label "Usinsk Airport-RU"
+    label "UUYS"
+    data "Usinsk Airport-RU"
   ]
   node
   [
     id "UWKE"
-    label "Begishevo Airport-RU"
+    label "UWKE"
+    data "Begishevo Airport-RU"
   ]
   node
   [
     id "UWPS"
-    label "Saransk Airport-RU"
+    label "UWPS"
+    data "Saransk Airport-RU"
   ]
   node
   [
     id "UDSG"
-    label "Gyumri Shirak Airport-AM"
+    label "UDSG"
+    data "Gyumri Shirak Airport-AM"
   ]
   node
   [
     id "VEGK"
-    label "Gorakhpur Airport-IN"
+    label "VEGK"
+    data "Gorakhpur Airport-IN"
   ]
   node
   [
     id "VICG"
-    label "Chandigarh Airport-IN"
+    label "VICG"
+    data "Chandigarh Airport-IN"
   ]
   node
   [
     id "VIDN"
-    label "Dehradun Airport-IN"
+    label "VIDN"
+    data "Dehradun Airport-IN"
   ]
   node
   [
     id "VOTP"
-    label "Tirupati Airport-IN"
+    label "VOTP"
+    data "Tirupati Airport-IN"
   ]
   node
   [
     id "OPLA"
-    label "Alama Iqbal International Airport-PK"
+    label "OPLA"
+    data "Alama Iqbal International Airport-PK"
   ]
   node
   [
     id "YBMC"
-    label "Sunshine Coast Airport-AU"
+    label "YBMC"
+    data "Sunshine Coast Airport-AU"
   ]
   node
   [
     id "VVVH"
-    label "Vinh Airport-VN"
+    label "VVVH"
+    data "Vinh Airport-VN"
   ]
   node
   [
     id "VEPT"
-    label "Lok Nayak Jayaprakash Airport-IN"
+    label "VEPT"
+    data "Lok Nayak Jayaprakash Airport-IN"
   ]
   node
   [
     id "VIAG"
-    label "Agra Airport-IN"
+    label "VIAG"
+    data "Agra Airport-IN"
   ]
   node
   [
     id "VIJP"
-    label "Jaipur International Airport-IN"
+    label "VIJP"
+    data "Jaipur International Airport-IN"
   ]
   node
   [
     id "VILK"
-    label "Chaudhary Charan Singh International Airport-IN"
+    label "VILK"
+    data "Chaudhary Charan Singh International Airport-IN"
   ]
   node
   [
     id "VIPT"
-    label "Pantnagar Airport-IN"
+    label "VIPT"
+    data "Pantnagar Airport-IN"
   ]
   node
   [
     id "VNKT"
-    label "Tribhuvan International Airport-NP"
+    label "VNKT"
+    data "Tribhuvan International Airport-NP"
   ]
   node
   [
     id "VOMY"
-    label "Mysore Airport-IN"
+    label "VOMY"
+    data "Mysore Airport-IN"
   ]
   node
   [
     id "VOMD"
-    label "Madurai Airport-IN"
+    label "VOMD"
+    data "Madurai Airport-IN"
   ]
   node
   [
     id "VOPC"
-    label "Pondicherry Airport-IN"
+    label "VOPC"
+    data "Pondicherry Airport-IN"
   ]
   node
   [
     id "VTBH"
-    label "Sa Pran Nak Airport-TH"
+    label "VTBH"
+    data "Sa Pran Nak Airport-TH"
   ]
   node
   [
     id "VTBK"
-    label "Kamphaeng Saen Airport-TH"
+    label "VTBK"
+    data "Kamphaeng Saen Airport-TH"
   ]
   node
   [
     id "VTPI"
-    label "Takhli Airport-TH"
+    label "VTPI"
+    data "Takhli Airport-TH"
   ]
   node
   [
     id "VTUI"
-    label "Sakon Nakhon Airport-TH"
+    label "VTUI"
+    data "Sakon Nakhon Airport-TH"
   ]
   node
   [
     id "VLVT"
-    label "Wattay International Airport-LA"
+    label "VLVT"
+    data "Wattay International Airport-LA"
   ]
   node
   [
     id "ZGOW"
-    label "Shantou Waisha Airport-CN"
+    label "ZGOW"
+    data "Shantou Waisha Airport-CN"
   ]
   node
   [
     id "WBGR"
-    label "Miri Airport-MY"
+    label "WBGR"
+    data "Miri Airport-MY"
   ]
   node
   [
     id "WBGM"
-    label "Marudi Airport-MY"
+    label "WBGM"
+    data "Marudi Airport-MY"
   ]
   node
   [
     id "WBKL"
-    label "Labuan Airport-MY"
+    label "WBKL"
+    data "Labuan Airport-MY"
   ]
   node
   [
     id "WICC"
-    label "Husein Sastranegara International Airport-ID"
+    label "WICC"
+    data "Husein Sastranegara International Airport-ID"
   ]
   node
   [
     id "WIBD"
-    label "Pinang Kampai Airport-ID"
+    label "WIBD"
+    data "Pinang Kampai Airport-ID"
   ]
   node
   [
     id "WIPA"
-    label "Sultan Thaha Airport-ID"
+    label "WIPA"
+    data "Sultan Thaha Airport-ID"
   ]
   node
   [
     id "WIDN"
-    label "Kijang Airport-ID"
+    label "WIDN"
+    data "Kijang Airport-ID"
   ]
   node
   [
     id "WIHP"
-    label "Pondok Cabe Air Base-ID"
+    label "WIHP"
+    data "Pondok Cabe Air Base-ID"
   ]
   node
   [
     id "WSAT"
-    label "Tengah Air Base-SG"
+    label "WSAT"
+    data "Tengah Air Base-SG"
   ]
   node
   [
     id "WMBA"
-    label "Sitiawan Airport-MY"
+    label "WMBA"
+    data "Sitiawan Airport-MY"
   ]
   node
   [
     id "YMAV"
-    label "Avalon Airport-AU"
+    label "YMAV"
+    data "Avalon Airport-AU"
   ]
   node
   [
     id "WMKM"
-    label "Malacca Airport-MY"
+    label "WMKM"
+    data "Malacca Airport-MY"
   ]
   node
   [
     id "YMES"
-    label "RAAF Base East Sale-AU"
+    label "YMES"
+    data "RAAF Base East Sale-AU"
   ]
   node
   [
     id "YMHB"
-    label "Hobart International Airport-AU"
+    label "YMHB"
+    data "Hobart International Airport-AU"
   ]
   node
   [
     id "YWCK"
-    label "Warwick Airport-AU"
+    label "YWCK"
+    data "Warwick Airport-AU"
   ]
   node
   [
     id "YARM"
-    label "Armidale Airport-AU"
+    label "YARM"
+    data "Armidale Airport-AU"
   ]
   node
   [
     id "YNBR"
-    label "Narrabri Airport-AU"
+    label "YNBR"
+    data "Narrabri Airport-AU"
   ]
   node
   [
     id "YPMQ"
-    label "Port Macquarie Airport-AU"
+    label "YPMQ"
+    data "Port Macquarie Airport-AU"
   ]
   node
   [
     id "YSBK"
-    label "Sydney Bankstown Airport-AU"
+    label "YSBK"
+    data "Sydney Bankstown Airport-AU"
   ]
   node
   [
     id "YSTW"
-    label "Tamworth Airport-AU"
+    label "YSTW"
+    data "Tamworth Airport-AU"
   ]
   node
   [
     id "YWOL"
-    label "Wollongong Airport-AU"
+    label "YWOL"
+    data "Wollongong Airport-AU"
   ]
   node
   [
     id "YBOK"
-    label "Oakey Airport-AU"
+    label "YBOK"
+    data "Oakey Airport-AU"
   ]
   node
   [
     id "YCAH"
-    label "Coolah Airport-AU"
+    label "YCAH"
+    data "Coolah Airport-AU"
   ]
   node
   [
     id "YCAS"
-    label "Casino Airport-AU"
+    label "YCAS"
+    data "Casino Airport-AU"
   ]
   node
   [
     id "YCDR"
-    label "Caloundra Airport-AU"
+    label "YCDR"
+    data "Caloundra Airport-AU"
   ]
   node
   [
     id "YGAY"
-    label "Gayndah Airport-AU"
+    label "YGAY"
+    data "Gayndah Airport-AU"
   ]
   node
   [
     id "YGDH"
-    label "Gunnedah Airport-AU"
+    label "YGDH"
+    data "Gunnedah Airport-AU"
   ]
   node
   [
     id "YGYM"
-    label "Gympie Airport-AU"
+    label "YGYM"
+    data "Gympie Airport-AU"
   ]
   node
   [
     id "YHBA"
-    label "Hervey Bay Airport-AU"
+    label "YHBA"
+    data "Hervey Bay Airport-AU"
   ]
   node
   [
     id "YKRY"
-    label "Kingaroy Airport-AU"
+    label "YKRY"
+    data "Kingaroy Airport-AU"
   ]
   node
   [
     id "YLIS"
-    label "Lismore Airport-AU"
+    label "YLIS"
+    data "Lismore Airport-AU"
   ]
   node
   [
     id "YMAY"
-    label "Albury Airport-AU"
+    label "YMAY"
+    data "Albury Airport-AU"
   ]
   node
   [
     id "YMYB"
-    label "Maryborough Airport-AU"
+    label "YMYB"
+    data "Maryborough Airport-AU"
   ]
   node
   [
     id "YNAR"
-    label "Narrandera Airport-AU"
+    label "YNAR"
+    data "Narrandera Airport-AU"
   ]
   node
   [
     id "YNSH"
-    label "Noosa Airport-AU"
+    label "YNSH"
+    data "Noosa Airport-AU"
   ]
   node
   [
     id "YQDI"
-    label "Quirindi Airport-AU"
+    label "YQDI"
+    data "Quirindi Airport-AU"
   ]
   node
   [
     id "YSCH"
-    label "Coffs Harbour Airport-AU"
+    label "YSCH"
+    data "Coffs Harbour Airport-AU"
   ]
   node
   [
     id "YSDU"
-    label "Dubbo City Regional Airport-AU"
+    label "YSDU"
+    data "Dubbo City Regional Airport-AU"
   ]
   node
   [
     id "YSPE"
-    label "Stanthorpe Airport-AU"
+    label "YSPE"
+    data "Stanthorpe Airport-AU"
   ]
   node
   [
     id "YSWG"
-    label "Wagga Wagga City Airport-AU"
+    label "YSWG"
+    data "Wagga Wagga City Airport-AU"
   ]
   node
   [
     id "YTWB"
-    label "Toowoomba Airport-AU"
+    label "YTWB"
+    data "Toowoomba Airport-AU"
   ]
   node
   [
     id "YWND"
-    label "Wondai Airport-AU"
+    label "YWND"
+    data "Wondai Airport-AU"
   ]
   node
   [
     id "YBNA"
-    label "Ballina Byron Gateway Airport-AU"
+    label "YBNA"
+    data "Ballina Byron Gateway Airport-AU"
   ]
   node
   [
     id "YBUD"
-    label "Bundaberg Airport-AU"
+    label "YBUD"
+    data "Bundaberg Airport-AU"
   ]
   node
   [
     id "YGLA"
-    label "Gladstone Airport-AU"
+    label "YGLA"
+    data "Gladstone Airport-AU"
   ]
   node
   [
     id "YSNW"
-    label "Nowra Airport-AU"
+    label "YSNW"
+    data "Nowra Airport-AU"
   ]
   node
   [
     id "YTNG"
-    label "Thangool Airport-AU"
+    label "YTNG"
+    data "Thangool Airport-AU"
   ]
   node
   [
     id "YCNK"
-    label "Cessnock Airport-AU"
+    label "YCNK"
+    data "Cessnock Airport-AU"
   ]
   node
   [
     id "YGFN"
-    label "Grafton Airport-AU"
+    label "YGFN"
+    data "Grafton Airport-AU"
   ]
   node
   [
     id "YIFL"
-    label "Innisfail Airport-AU"
+    label "YIFL"
+    data "Innisfail Airport-AU"
   ]
   node
   [
     id "YMBA"
-    label "Mareeba Airport-AU"
+    label "YMBA"
+    data "Mareeba Airport-AU"
   ]
   node
   [
     id "YBDG"
-    label "Bendigo Airport-AU"
+    label "YBDG"
+    data "Bendigo Airport-AU"
   ]
   node
   [
     id "YPJT"
-    label "Perth Jandakot Airport-AU"
+    label "YPJT"
+    data "Perth Jandakot Airport-AU"
   ]
   node
   [
     id "YARA"
-    label "Ararat Airport-AU"
+    label "YARA"
+    data "Ararat Airport-AU"
   ]
   node
   [
     id "YBNS"
-    label "Bairnsdale Airport-AU"
+    label "YBNS"
+    data "Bairnsdale Airport-AU"
   ]
   node
   [
     id "YHML"
-    label "Hamilton Airport-AU"
+    label "YHML"
+    data "Hamilton Airport-AU"
   ]
   node
   [
     id "YLTV"
-    label "Latrobe Valley Airport-AU"
+    label "YLTV"
+    data "Latrobe Valley Airport-AU"
   ]
   node
   [
     id "YOLA"
-    label "Colac Airport-AU"
+    label "YOLA"
+    data "Colac Airport-AU"
   ]
   node
   [
     id "YHOT"
-    label "Mount Hotham Airport-AU"
+    label "YHOT"
+    data "Mount Hotham Airport-AU"
   ]
   node
   [
     id "YORB"
-    label "Orbost Airport-AU"
+    label "YORB"
+    data "Orbost Airport-AU"
   ]
   node
   [
     id "YWGT"
-    label "Wangaratta Airport-AU"
+    label "YWGT"
+    data "Wangaratta Airport-AU"
   ]
   node
   [
     id "YSCN"
-    label "Camden Airport-AU"
+    label "YSCN"
+    data "Camden Airport-AU"
   ]
   node
   [
     id "YBTH"
-    label "Bathurst Airport-AU"
+    label "YBTH"
+    data "Bathurst Airport-AU"
   ]
   node
   [
     id "YBUN"
-    label "Bunbury Airport-AU"
+    label "YBUN"
+    data "Bunbury Airport-AU"
   ]
   node
   [
     id "YRTI"
-    label "Rottnest Island Airport-AU"
+    label "YRTI"
+    data "Rottnest Island Airport-AU"
   ]
   node
   [
     id "YPEC"
-    label "Aeropelican Airport-AU"
+    label "YPEC"
+    data "Aeropelican Airport-AU"
   ]
   node
   [
     id "YCOM"
-    label "Cooma Snowy Mountains Airport-AU"
+    label "YCOM"
+    data "Cooma Snowy Mountains Airport-AU"
   ]
   node
   [
     id "YCOR"
-    label "Corowa Airport-AU"
+    label "YCOR"
+    data "Corowa Airport-AU"
   ]
   node
   [
     id "YFIL"
-    label "Finley Airport-AU"
+    label "YFIL"
+    data "Finley Airport-AU"
   ]
   node
   [
     id "YTEM"
-    label "Temora Airport-AU"
+    label "YTEM"
+    data "Temora Airport-AU"
   ]
   node
   [
     id "YTOC"
-    label "Tocumwal Airport-AU"
+    label "YTOC"
+    data "Tocumwal Airport-AU"
   ]
   node
   [
     id "YCRG"
-    label "Corryong Airport-AU"
+    label "YCRG"
+    data "Corryong Airport-AU"
   ]
   node
   [
     id "YCTM"
-    label "Cootamundra Airport-AU"
+    label "YCTM"
+    data "Cootamundra Airport-AU"
   ]
   node
   [
     id "YCWR"
-    label "Cowra Airport-AU"
+    label "YCWR"
+    data "Cowra Airport-AU"
   ]
   node
   [
     id "YYNG"
-    label "Young Airport-AU"
+    label "YYNG"
+    data "Young Airport-AU"
   ]
   node
   [
     id "YEVD"
-    label "Evans Head Aerodrome-AU"
+    label "YEVD"
+    data "Evans Head Aerodrome-AU"
   ]
   node
   [
     id "YFLI"
-    label "Flinders Island Airport-AU"
+    label "YFLI"
+    data "Flinders Island Airport-AU"
   ]
   node
   [
     id "YSCO"
-    label "Scone Airport-AU"
+    label "YSCO"
+    data "Scone Airport-AU"
   ]
   node
   [
     id "YGEL"
-    label "Geraldton Airport-AU"
+    label "YGEL"
+    data "Geraldton Airport-AU"
   ]
   node
   [
     id "YGLB"
-    label "Goulburn Airport-AU"
+    label "YGLB"
+    data "Goulburn Airport-AU"
   ]
   node
   [
     id "YGLG"
-    label "Geelong Airport-AU"
+    label "YGLG"
+    data "Geelong Airport-AU"
   ]
   node
   [
     id "YKII"
-    label "King Island Airport-AU"
+    label "YKII"
+    data "King Island Airport-AU"
   ]
   node
   [
     id "YKMP"
-    label "Kempsey Airport-AU"
+    label "YKMP"
+    data "Kempsey Airport-AU"
   ]
   node
   [
     id "YLEC"
-    label "Leigh Creek Airport-AU"
+    label "YLEC"
+    data "Leigh Creek Airport-AU"
   ]
   node
   [
     id "YWBL"
-    label "Warrnambool Airport-AU"
+    label "YWBL"
+    data "Warrnambool Airport-AU"
   ]
   node
   [
     id "YTRE"
-    label "Taree Airport-AU"
+    label "YTRE"
+    data "Taree Airport-AU"
   ]
   node
   [
     id "YDPO"
-    label "Devonport Airport-AU"
+    label "YDPO"
+    data "Devonport Airport-AU"
   ]
   node
   [
     id "YMLT"
-    label "Launceston Airport-AU"
+    label "YMLT"
+    data "Launceston Airport-AU"
   ]
   node
   [
     id "YNHS"
-    label "Nambucca Heads Airport-AU"
+    label "YNHS"
+    data "Nambucca Heads Airport-AU"
   ]
   node
   [
     id "YNRM"
-    label "Narromine Airport-AU"
+    label "YNRM"
+    data "Narromine Airport-AU"
   ]
   node
   [
     id "YOLD"
-    label "Olympic Dam Airport-AU"
+    label "YOLD"
+    data "Olympic Dam Airport-AU"
   ]
   node
   [
     id "YORG"
-    label "Orange Airport-AU"
+    label "YORG"
+    data "Orange Airport-AU"
   ]
   node
   [
     id "YCDU"
-    label "Ceduna Airport-AU"
+    label "YCDU"
+    data "Ceduna Airport-AU"
   ]
   node
   [
     id "YMGN"
-    label "Mount Gunson Airport-AU"
+    label "YMGN"
+    data "Mount Gunson Airport-AU"
   ]
   node
   [
     id "YMRE"
-    label "Marree Airport-AU"
+    label "YMRE"
+    data "Marree Airport-AU"
   ]
   node
   [
     id "YPAG"
-    label "Port Augusta Airport-AU"
+    label "YPAG"
+    data "Port Augusta Airport-AU"
   ]
   node
   [
     id "YYOR"
-    label "Yorketown Airport-AU"
+    label "YYOR"
+    data "Yorketown Airport-AU"
   ]
   node
   [
     id "YWCH"
-    label "Walcha Airport-AU"
+    label "YWCH"
+    data "Walcha Airport-AU"
   ]
   node
   [
     id "YIVL"
-    label "Inverell Airport-AU"
+    label "YIVL"
+    data "Inverell Airport-AU"
   ]
   node
   [
     id "YCBB"
-    label "Coonabarabran Airport-AU"
+    label "YCBB"
+    data "Coonabarabran Airport-AU"
   ]
   node
   [
     id "YBLA"
-    label "Benalla Airport-AU"
+    label "YBLA"
+    data "Benalla Airport-AU"
   ]
   node
   [
     id "YFST"
-    label "Forster (Wallis Is) Airport-AU"
+    label "YFST"
+    data "Forster (Wallis Is) Airport-AU"
   ]
   node
   [
     id "YTMU"
-    label "Tumut Airport-AU"
+    label "YTMU"
+    data "Tumut Airport-AU"
   ]
   node
   [
     id "YTGA"
-    label "Tangalooma Airport-AU"
+    label "YTGA"
+    data "Tangalooma Airport-AU"
   ]
   node
   [
     id "YSGT"
-    label "Singleton Airport-AU"
+    label "YSGT"
+    data "Singleton Airport-AU"
   ]
   node
   [
     id "ZYHE"
-    label "Heihe Airport-CN"
+    label "ZYHE"
+    data "Heihe Airport-CN"
   ]
   edge
   [
