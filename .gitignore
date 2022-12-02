@@ -1,3 +1,4 @@
 *.csv
 *.gz
 .ipynb_checkpoints
+.idea
